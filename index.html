@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiverse Custom Night Roster</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            background-image: url("bg.png");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+
+        .container {
+            max-width: 1500px;
+            margin: 0 auto;
+        }
+
+        .section-banner {
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+            background-color: #000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .section-banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .section-container {
+            margin-bottom: 30px;
+            border-radius: 2px;
+            border: rgb(168, 168, 168);
+            border-style: inset;
+        }
+
+        .roster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, 151px);
+            gap: 12px;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 18px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+
+        .roster-slot {
+            width: 151px;
+            height: 201px;
+            border: 1px solid #8b8b8b;
+            background: #000000;
+            cursor: pointer;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .roster-slot img {
+            width: 150px;
+            height: 200px;
+            object-fit: cover;
+            display: block;
+            filter: brightness(0.5);
+        }
+
+        .roster-slot:hover {
+            border-color: #ffffff;
+        }
+
+        .roster-slot:hover img {
+            border-color: #888;
+            filter: brightness(1);
+        }
+
+        .tooltip {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            width: 300px;
+            background-color: #00001d;
+            text-align: left;
+            padding: 10px;
+            padding-right: 10px;
+            border-style: groove;
+            border-radius: 1px;
+            border-color: white;
+            font-size: 14px;
+            line-height: 1.4;
+            pointer-events: none;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+        }
+
+        .roster-slot:hover .tooltip {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="main-container">
+        <!-- Section containers will be inserted here by JavaScript -->
+    </div>
+
+    <script src="sections.js"></script>
+    <script src="characters.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Create sections based on the sections array
+            const mainContainer = document.getElementById('main-container');
+            
+            sections.forEach(section => {
+                const sectionDiv = document.createElement('div');
+                sectionDiv.className = 'section-container';
+                sectionDiv.id = `section-${section.id}`;
+                
+                // Create the banner
+                const banner = document.createElement('div');
+                banner.className = 'section-banner';
+                banner.innerHTML = `<img src="${section.bannerImage}" alt="${section.name}">`;
+                
+                // Create the roster grid
+                const rosterGrid = document.createElement('div');
+                rosterGrid.className = 'roster-grid';
+                rosterGrid.id = `roster-${section.id}`;
+                
+                // Add toggle functionality to the banner
+                banner.addEventListener('click', function() {
+                    if (rosterGrid.style.display === 'none') {
+                        rosterGrid.style.display = 'grid';
+                    } else {
+                        rosterGrid.style.display = 'none';
+                    }
+                });
+                
+                sectionDiv.appendChild(banner);
+                sectionDiv.appendChild(rosterGrid);
+                mainContainer.appendChild(sectionDiv);
+            });
+            
+            // Populate each section with characters
+            const charactersBySection = {};
+            
+            // Group characters by section
+            characters.forEach(character => {
+                if (!charactersBySection[character.section]) {
+                    charactersBySection[character.section] = [];
+                }
+                charactersBySection[character.section].push(character);
+            });
+            
+            // Sort characters alphabetically and add them to their sections
+            for (const sectionId in charactersBySection) {
+                const sectionCharacters = charactersBySection[sectionId];
+                sectionCharacters.sort((a, b) => a.name.localeCompare(b.name));
+                
+                const rosterGrid = document.getElementById(`roster-${sectionId}`);
+                if (rosterGrid) {
+                    sectionCharacters.forEach(character => {
+                        const slot = document.createElement('div');
+                        slot.className = 'roster-slot';
+                        
+                        slot.innerHTML = `
+                            <img src="${character.imageUrl}" alt="${character.name}">
+                            <div class="tooltip">
+                                <strong>${character.name}</strong>: ${character.description}
+                            </div>
+                        `;
+                        
+                        // Add tooltip positioning
+                        slot.addEventListener('mousemove', function(e) {
+                            const tooltip = this.querySelector('.tooltip');
+                            const padding = 10;
+                            tooltip.style.left = `${e.clientX + padding}px`;
+                            tooltip.style.top = `${e.clientY + padding}px`;
+                            
+                            const rect = tooltip.getBoundingClientRect();
+                            const viewportWidth = window.innerWidth;
+                            const viewportHeight = window.innerHeight;
+                            
+                            if (rect.right > viewportWidth) {
+                                tooltip.style.left = `${e.clientX - rect.width - padding}px`;
+                            }
+                            if (rect.bottom > viewportHeight) {
+                                tooltip.style.top = `${e.clientY - rect.height - padding}px`;
+                            }
+                        });
+                        
+                        rosterGrid.appendChild(slot);
+                    });
+                }
+            }
+        });
+    </script>
+</body>
+</html>
