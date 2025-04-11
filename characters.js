@@ -203,4 +203,10 @@ const characters = [
         description: "If you’re using too much power usage, he’ll run into your office. Turn off as much power you can and shine him with the UV flashlight or else he’ll end your game.",
         section: "funko"
     },
+    {
+        name: "Digital Glow Nightmare Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/Digital_Glow_Nightmare_Foxy.png",
+        description: "He will appear in your office at random points during the night. When he appears there will be two Nightmare Foxy's next to him. Use the Fazer-Blaster to shoot the one that's glowing.",
+        section: "quidd"
+    },
 ];
