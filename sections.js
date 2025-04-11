@@ -38,5 +38,10 @@ const sections = [
         id: "fnafhw",
         name: "Help Wanted",
         bannerImage: "banners/fnafhw.png"
+    },
+    {
+        id: "fnafar",
+        name: "Special Delivery",
+        bannerImage: "banners/fnafar.png"
     }
 ];
