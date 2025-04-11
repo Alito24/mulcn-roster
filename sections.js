@@ -94,4 +94,9 @@ const sections = [
         name: "Baldi's Basics",
         bannerImage: "banners/bb.webp"
     },
+    {
+        id: "fnati",
+        name: "Five Nights at Treasure Island",
+        bannerImage: "banners/fnati.webp"
+    },
 ];
