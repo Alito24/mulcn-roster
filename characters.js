@@ -167,4 +167,10 @@ const characters = [
         description: "He will fly on top of the Fury’s Rage Floor. If you jump under him, you’ll take damage. The higher the AI, the more faster he’ll go.",
         section: "fis2"
     },
+    {
+        name: "Fury Scraptrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Fury_Scraptrap.webp",
+        description: "He stays on the GPS System. When the Fury's Rage Floor is being watched for too long, he'll move towards you. If he reaches you, he'll jumpscare you.",
+        section: "fnaffr"
+    },
 ];
