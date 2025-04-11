@@ -48,5 +48,10 @@ const sections = [
         id: "fis2",
         name: "Freddy In Space 2",
         bannerImage: "banners/fis2.png"
+    },
+    {
+        id: "fnaffr",
+        name: "Fury's Rage",
+        bannerImage: "banners/fnaffr.png"
     }
 ];
