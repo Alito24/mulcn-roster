@@ -132,4 +132,10 @@ const characters = [
         description: "Each time you switch floors, Consequences Freddy will constantly fall from the top of the screen and to the bottom for a period of time, distracting you.",
         section: "fnafw"
     },
+    {
+        name: "Maskless Ennard",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
+        description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
+        section: "fnafsl"
+    },
 ];
