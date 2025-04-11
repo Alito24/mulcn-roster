@@ -58,5 +58,10 @@ const sections = [
         id: "fnafsb",
         name: "Security Breach",
         bannerImage: "banners/fnafsb.png"
-    }
+    },
+    {
+        id: "fnafhw2",
+        name: "Help Wanted 2",
+        bannerImage: "banners/fnafhw2.png"
+    },
 ];
