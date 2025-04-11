@@ -97,6 +97,6 @@ const sections = [
     {
         id: "fnati",
         name: "Five Nights at Treasure Island",
-        bannerImage: "banners/fnati.webp"
+        bannerImage: "banners/fnati.png"
     },
 ];
