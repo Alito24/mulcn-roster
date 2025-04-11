@@ -115,10 +115,23 @@
         <!-- Section containers will be inserted here by JavaScript -->
     </div>
 
-    <script src="sections.js"></script>
-    <script src="characters.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', async function() {
+        try {
+            // Fetch sections.js
+            const sectionsResponse = await fetch('sections.js', { cache: 'no-store' });
+            const sectionsText = await sectionsResponse.text();
+            // Extract the JavaScript part (without "const sections = ")
+            const sectionsCode = sectionsText.replace('const sections =', 'window.sections =');
+            eval(sectionsCode); // This executes the sections.js code
+            
+            // Fetch characters.js
+            const charactersResponse = await fetch('characters.js', { cache: 'no-store' });
+            const charactersText = await charactersResponse.text();
+            // Extract the JavaScript part (without "const characters = ")
+            const charactersCode = charactersText.replace('const characters =', 'window.characters =');
+            eval(charactersCode); // This executes the characters.js code
+            
             // Create sections based on the sections array
             const mainContainer = document.getElementById('main-container');
             
@@ -203,7 +216,10 @@
                     });
                 }
             }
-        });
-    </script>
+        } catch (error) {
+            console.error('Error loading data:', error);
+        }
+    });
+</script>
 </body>
 </html>
