@@ -197,4 +197,10 @@ const characters = [
         description: "When he appears in your office, that means he has locked you out of the Kitchen Camera. Change the Kitchen’s music via Switch Box Station to make him leave.",
         section: "fnac"
     },
+    {
+        name: "Dark Blacklight Glamrock Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Dark_Blacklight_Glamrock_Freddy.png",
+        description: "If you’re using too much power usage, he’ll run into your office. Turn off as much power you can and shine him with the UV flashlight or else he’ll end your game.",
+        section: "funko"
+    },
 ];
