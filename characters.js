@@ -378,6 +378,120 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Wireframe Adventure Funtime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Wireframe_Adventure_Funtime_Foxy.webp",
+        description: "He'll appear in the Office when the Shakelight is being used too much. When she does, he'll give the office a wireframe effect for 2 hours.",
+        section: "ulcn"
+    },
+    {
+        name: "Finished Model Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cd/Finished_Model_Freddy.webp",
+        description: "He is trying to remodel himself in your Office due to being so ugly. The usage of the Power A/C makes his model more uglier. Keep it off to avoid death!",
+        section: "ulcn"
+    },
+    {
+        name: "Negate Rainbow Blacklight Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/NRBTB.webp",
+        description: "He will countdown from three to one. When he is counting down either the color white or red will flash on screen. When he gets to one and it's white, nothing will happen. However, if it was red, open up your monitor. When he haywires and you aren't in the monitor you get jumpscared and have your timer set back to 1 hour before.",
+        section: "ulcn"
+    },
+    {
+        name: "Windowsrionne",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f9/Windowsrionne.webp",
+        description: "There will be two monitors in your office, and Windowsrionne will appear in one of them. Stopping him will require you to press L when he is on the left, and R when in the right. Waiting too long will cause Windowsrionne to show up in both monitors and kill you.",
+        section: "ulcn"
+    },
+    {
+        name: "Rusty Ennard",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/28/Rusty_Ennard.png",
+        description: "He will make his way out of The Sewers. If you don't use the Fazblaster once he's in the office, he'll steal the Golden Flashlight.",
+        section: "ulcn"
+    },
+    {
+        name: "VR Lolbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/VR_CircusRama.webp",
+        description: "When they fade in on the Glitch Floor. Turn on the Fan to make her fade away. If he fades in fully, she'll fake jumpscare you, and will cause your monitor to be trapped on the Glitch Floor for a few short minutes.",
+        section: "ulcn"
+    },
+    {
+        name: "Blacklight Yenndo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/ba/Blacklight_Yenndo_Skin.webp",
+        description: "He is mad that Funko cancelled the 'Blacklight Sister Location Wave' before it was even announced. Blacklight Yenndo will fill the entirety of Floor 1 with blue, toxic fumes. Turn on the Power AC to get rid of the fumes. If you don't, your toxic meter will rise, and you will eventually pass out.",
+        section: "ulcn"
+    },
+    {
+        name: "Trolltrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f9/Trolltrap.webp",
+        description: "When it's pitch black during a blackout from a ventilation error, he can appear at any door or vent. Shut the vent or door depending on where he's at before it goes pitch black from the ventilation error again.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Tangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fa/Ultra_Tangle.webp",
+        description: "She will go through the same path that Mangle took in FNAF 2. When she gets to the vent, close the right vent door to prevent her from getting into the office.",
+        section: "ulcn"
+    },
+    {
+        name: "System Error Big Chungus",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8d/System_Error_Big_Chungus_Skin.webp",
+        description: "You'll know when he's in the Candy Cane Forest on Floor 7, when one of the candy canes has missing textures. You need to go into the Task System and use the Anti-Virus to get rid of him, or else he'll completely corrupt it, causing the camera to get the Blue Screen of Death.",
+        section: "ulcn"
+    },
+    {
+        name: "Shadow Nightmare Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5d/Shadow_Nightmare_Mangle.webp",
+        description: "Sometimes he'll appear over one of the vent snares, quickly draining your power. Hover your mouse over her for a view seconds to get rid of him.",
+        section: "ulcn"
+    },
+    {
+        name: "Missing Toy Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6e/Missing_Toy_Foxy.webp",
+        description: "They would ask you to make a new skin for them in the Task System. However, if you make a skin that looks like another character, then they will kill you.",
+        section: "ulcn"
+    },
+    {
+        name: "Coal Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/56/Coal_Jack-O-Bonnie.webp",
+        description: "At 4AM he'll conjure another doorway into existence inside of your office. Except there is no door to close! (well kind of ) When he appears in the doorway, you must search the F8 cameras for the Door Button that connected to it. Click it to close the door to stop Coal Jack-O-Bonnie from entering your office and send him to back into his dimension, as otherwise you will meet an untimely fate!",
+        section: "ulcn"
+    },
+    {
+        name: "Glamfred Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/83/Glamfred_Bonnie.webp",
+        description: "He will be in the Vent System and will act like any other vent animatronic. Yeah, there's nothing else then that, so don't forget to close the vent door on his face.",
+        section: "ulcn"
+    },
+    {
+        name: "Dust Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a8/Dust_Mangle.webp",
+        description: "She will go through the Vent System, immune to the Vent Door. Use the Vent Snare to fend him off, just remember that when the Power Generator is active, she will move faster.",
+        section: "ulcn"
+    },
+    {
+        name: "OMC High-Score Toy Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/OMC_Highscore_Toy_Chica.webp",
+        description: "The monitor screen will sometimes have the color scheme of Old Man Consequences. Press the Eye button in the top right corner that hides certain elements of the map to turn the screen back to normal. The button will be inactive for 10 seconds thereafter. Taking too long will result in your game window being minimized for the rest of the night!",
+        section: "ulcn"
+    },
+    {
+        name: "OMC Grimm Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/OMC_Grimm_Foxy.webp",
+        description: "He may appear in your office with the intent of killing you, that's not cool of him to do. Change the position of the Wet Floor Sign in your office to make him leave.",
+        section: "ulcn"
+    },
+    {
+        name: "OMC Fredbear Flower",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d4/OMC_Fredbear_Flower.webp",
+        description: "Your screen will start to become grainy throughout the night. Shut off a camera to stop it for a short while.",
+        section: "ulcn"
+    },
+    {
+        name: "OMC Classic RAT",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/OMC_Classic_Rat.webp",
+        description: "Once per night, the glitch floor will turn a reddish hue. When it does, that means he's about to attack. Quickly take a short-sight pill to prevent him from attacking. If you don't, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
