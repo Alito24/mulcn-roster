@@ -126,4 +126,10 @@ const characters = [
         description: "His orange eyes may appear in one of your doorways in the Office. Close the door while having the opposite door in the House map in the Duct System closed.",
         section: "fnaf4"
     },
+    {
+        name: "Consequences Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/Consequences_Freddy.webp",
+        description: "Each time you switch floors, Consequences Freddy will constantly fall from the top of the screen and to the bottom for a period of time, distracting you.",
+        section: "fnafw"
+    },
 ];
