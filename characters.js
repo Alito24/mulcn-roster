@@ -647,4 +647,106 @@ const characters = [
         description: "He will be sitting on Floor 5 in Bedroom 1, looking at his tablet. You must help him fix the errors that appear on his tablet. If you don't, it will lock your tablet for 3 hours and prevent you from wearing the mask.",
         section: "gmod"
     },
+    {
+        name: "SCP-001 - 'Normalcy'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2e/Normalcy.png",
+        description: "SCP-001 will sit on your desk, you're free to view it any time you'd like, just remember to remember the laws of normalcy. If you catch something in your office or on the cameras, look at SCP-001 to make sure that they aren't breaking any laws, if they do, click on it to send it away from the night. If one of these entities appears hostile, you only have a short amount of time to get rid of them before they kill you.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001 - 'Sheaf of Papers'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/13/SheafofPapers.png",
+        description: "After flipping up the mask, a chance of a paper of a character who's not already in the night will appear. Click on it to throw it away before the character on the paper gets added to the night!",
+        section: "scp"
+    },
+    {
+        name: "SCP-001 - 'The Database'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5f/TheDatabase.png",
+        description: "A separate system titled 'Wiki System' will be added to your night, here you can look at the Multiverse Custom Night wiki itself. If a new character gets added a message will pop-up saying so, and that new character will be added into your night. Quickly head over to the three dots on the page and click 'delete' before the new character can get you! Just note that if you delete a page in a short amount of time, the wiki editors will get angry and restart the night, so hold off on that new character with their way to defend yourself for a while before deleting the page.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001 - 'The World at Large'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/40/TheWorldAtLarge.png",
+        description: "The trees on the Lumber Co. Floor will grow faster than usual. If one of them grows to it's maximum limit, it'll block one of the cameras on each floor and remain there until the tree is cut down.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001 - 'When Day Breaks'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/SCP-001.png",
+        description: "At a random point in the night (during 12AM - 2AM), a broadcast from the SCP Foundation will play stating that all sunlight has become dangerous! Of course as you're in an office in a building, this won't affect you, however, SCP-001-A instances will get into the building in search of you! When you hear SCP-001-A instances sliming around, turn on the fan or Power A/C to make the office cooler, which will deter them. While they won't always make their way to the office, if you make too much noise, they'll know exactly where you are. Closing the door won't make them go away, instead they'll linger outside begging for you to come out, you can also make the office cooler to make them go away, but they'll come back. If they make their way in the office, they'll drag you outside into the sun! (Death).",
+        section: "scp"
+    },
+    {
+        name: "SCP-003",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/SCP-003.png",
+        description: "SCP-003-1 will be on your desk for the entire night on top of SCP-003-2. If your office temperature drops below 95°, SCP-003-1 will begin to grow. In it's first stage, SCP-003-1 will increase in mass then take form similar to a brittle star. In the second stage, SCP-003-2 will try to come into contact with living material which includes you! If it reaches you, it will "template" off of you until it completely takes over you! These stages can be reversed if the temperature is brought up again.",
+        section: "scp"
+    },
+    {
+        name: "SCP-005",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/15/SCP-005.png",
+        description: "On any camera with a door, whether that'd be on the CAM System, Vent System, or Duct System, SCP-005 will appear next to it. If a character comes into contact with SCP-005, they will use the key to open the door and leave it open for 10 seconds, click on the key to move it somewhere else.",
+        section: "scp"
+    },
+    {
+        name: "SCP-009",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/89/SCP-009.png",
+        description: "When your office becomes around 100°, SCP-009 will begin forming on you, making your mouse slower and slower until you eventually freeze to death. Cool the office down to make SCP-009 melt.",
+        section: "scp"
+    },
+    {
+        name: "SCP-012",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1a/SCP-012.png",
+        description: "When switching cameras, there'll be a chance that SCP-012 will be on that camera playing 'On Mount Golgotha'. It'll try to bring your cursor to it, so fight back and switch cameras! If it succeeds in bringing your cursor over, it will slowly harm you until you die! Numbers don't work for switching cameras while SCP-012 is on the camera.",
+        section: "scp"
+    },
+    {
+        name: "SCP-014-J",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/37/SCP-014-J.png",
+        description: "Your fingers are now broken and you can't eat foods like Pickles or Hot Dog normally, so you have to click and drag SCP-014-J to the food items to eat them, I wouldn't trust it though.",
+        section: "scp"
+    },
+    {
+        name: "SCP-018",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a1/SCP-018.png",
+        description: "SCP-018 will bounce in your office for the entire night. Overtime, SCP-018's speed will continue to increase eventually to the point where it can kill. SCP-018 has four stages of speed, clicking on SCP-018 will move it back a stage, the four stages and how many hits it takes to kill are as follows: Stage 1: Low Speed, Non-Lethal, 0 Hits to Kill. Stage 2: Medium Speed, Lethal, 25 Hits to Kill. Stage 3: High Speed, Lethal, 10 Hits to Kill. Stage 4: Very High Speed, Lethal, 5 Hits to Kill.",
+        section: "scp"
+    },
+    {
+        name: "SCP-019",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fb/SCP-019.png",
+        description: "SCP-019 will sit in your office on your desk. Occasionally, SCP-019-2 entities will crawl out of SCP-019, if they crawl out completely, you'll die! To stop this, spam click on the SCP-019-2 entities to kill them. They move slower the cooler the office is.",
+        section: "scp"
+    },
+    {
+        name: "SCP-049",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b6/SCP-049.png",
+        description: "SCP-049 will try to enter your office in Floor 4, check which hallway he's going down, then close the respective door. Instances of SCP-049-2 will also sometimes enter your office, shock them to get rid of them.",
+        section: "scp"
+    },
+    {
+        name: "SCP-079",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/SCP-079.png",
+        description: "SCP-079 has taken control of the entire building! Not only will it control the doors, fan, controlled shock and lever, but it will also sometimes appear on your monitor and play random sounds.",
+        section: "scp"
+    },
+    {
+        name: "SCP-096",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/SCP-096.png",
+        description: "A new button will be added on your camera monitor, which turns on pressure sensor mode, but it wastes more power. If you hear auditable crying on Floor 1, turn on pressure sensor mode to make sure that you don't accidentally view SCP-096's face on the next camera. If you don't turn on pressure sensor and look at his face, he'll begin crying and babbling before chasing after you to kill you! The office doors won't stop him.",
+        section: "scp"
+    },
+    {
+        name: "SCP-106",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9c/SCP-106.png",
+        description: "When you hear the sound of groaning and creaking, that means SCP-106 is emerging on Floor 4 and is approaching your office! When he gets into your office, wait until he's close enough to you, then shock him to make him go away. If he catches you, one of two things will happen. First and least exciting is that he kills you, second is that he will take you to his pocket dimension where you will have to survive in his WWI trench, shine your lighter at him when he gets dangerously close to send him back. After an hour in the pocket dimension, he'll set you free. If you close the door on him when he's entering, he'll simply pass through it and corrode the door, making it unusable for the rest of the night.",
+        section: "scp"
+    },
+    {
+        name: "SCP-109",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e6/SCP-109.png",
+        description: "Your cursor will be given a stamina meter and an icon of SCP-109 will be at the bottom of the screen. If you start slowing down, click on SCP-109 to drink from it and relieve energy. If you try to drink SCP-109 while you're out of stamina entirely, you'll get sick and throw up while distorting visuals appear on your screen for the duration of your vomiting.",
+        section: "scp"
+    },
 ];
