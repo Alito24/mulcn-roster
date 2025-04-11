@@ -72,12 +72,6 @@ const characters = [
         section: "fnaf1"
     },
     {
-        name: "Sparky The Dog",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Sparky_The_Dog.webp",
-        description: "He will subtract time from your clock whenever you close a door with the AWDF keys.",
-        section: "fnaf1"
-    },
-    {
         name: "Emerald Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/Emerald_Freddy.png",
         description: "When he appears in the office everything will be very glitchy and there will be a strong, green glow. In order to get rid of it, you need to close all the doors, then he will disappear.",
