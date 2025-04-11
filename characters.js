@@ -173,4 +173,10 @@ const characters = [
         description: "Glamrock Lolbit will randomly appear on your screen during the night and make lots of noise! Open your camera monitor and type L-O-L using the system modes that have the corresponding letters next to them. The order they appear in switches every time.",
         section: "fnafsb"
     },
+    {
+        name: "Virtual Yenndo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e4/Virtual_Yenndo.webp",
+        description: "He will randomly appear in your office when putting the monitor down. When this happens, he will dramatically raise the toxic meter. Open up the monitor again before you die from the toxins.",
+        section: "fnafhw2"
+    },
 ];
