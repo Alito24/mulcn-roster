@@ -69,4 +69,9 @@ const sections = [
         name: "Teasers & Trailers",
         bannerImage: "banners/tnt.png"
     },
+    {
+        id: "fnac",
+        name: "Five Nights At Candy's",
+        bannerImage: "banners/fnac.png"
+    },
 ];
