@@ -132,6 +132,24 @@ const characters = [
         section: "fnafw"
     },
     {
+        name: "Mirrored Redbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fa/Mirrored_Redbear.webp",
+        description: "Using the heater too frequently will cause Redbear to move faster in the Vent System. Use the Vent Snares to drive him back.",
+        section: "fnafw"
+    },
+    {
+        name: "Munchies",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1d/Munchies_Resize.webp",
+        description: "3 of them will be in your office. When pulling down the camera, they have a chance to disappear. If one of them disappears, pull the lever once. If two of them disappear, pull the lever twice. Failing to do this, or pulling the lever more times than necessary, will result in the controlled shock panel being disabled for one in-game hour.",
+        section: "fnafw"
+    },
+    {
+        name: "Metalman",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7c/Metalman.png",
+        description: "Every time you buy something in the Prize Corner (Tapes, Plushies, anything), he will run into your office. Put on your mask to survive his wrath.",
+        section: "fnafw"
+    },
+    {
         name: "Maskless Ennard",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
         description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
