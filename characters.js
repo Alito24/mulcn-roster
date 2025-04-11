@@ -204,6 +204,66 @@ const characters = [
         section: "fnaf3"
     },
     {
+        name: "Stage 01 Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6c/Stage01_Fredbear_Resize.png",
+        description: "He will randomly appear in your office when you put your monitor down. He is eyeless, but the mask will not work on him at this state. Shine your Golden Flashlight at his face to make his eyes glow. Once his eyes fully glow, then you are able to put up the mask. He will kill you if you take too long to shine the Golden Flashlight at his face or put on the mask.",
+        section: "fnaf3"
+    },
+    {
+        name: "Bad Ending Heads",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b6/Bad_Ending_Heads.webp",
+        description: "Occasionally, one of their heads will cover the monitor. You'll have to do a specific action to avoid getting jumpscared. If its Freddy: Press on his nose. Bonnie: Close the left door. Chica: Change the Kitchen music. Foxy: Check Pirate's Cove. Yellow Bear: Check the Glitch Floor.",
+        section: "fnaf3"
+    },
+    {
+        name: "Chrome Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Chrome_Freddy.png",
+        description: "He will be on the third floor and will randomly scare you if stared at for too long at the cameras, erroring out your ventilation.",
+        section: "fnaf3"
+    },
+    {
+        name: "Poster SpringBonnie Duo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3e/Poster_SpringBonnie_Duo.webp",
+        description: "Two posters of them will be in Bedroom 1 and Bedroom 2. You must keep an eye on both of them to keep them trapped in their posters. If you let either one escape, you're dead!",
+        section: "fnaf3"
+    },
+    {
+        name: "Death Screen Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/05/Death_Screen_Springtrap.webp",
+        description: "He is attempting to be free from his suit in your office. If you see that he is almost about to break out from his suit, spam click him to wind the springlocks back on to trap him further. If he escapes his suit, you're dead.",
+        section: "fnaf3"
+    },
+    {
+        name: "Shadow Bonnie Figure",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/12/Shadow_Bonnie_Figure.png",
+        description: "He will dash through any part of the screen, trying to touch your mouse. If he succeeds, the game will glitch out and your run will end.",
+        section: "fnaf3"
+    },
+    {
+        name: "Spare Toy Parts",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/55/Spare_Toy_Parts.webp",
+        description: "The parts will slowly roll out of the box if you keep any door closed for too long. If a spare part fully rolls out, it will jam a random door, preventing you from using it.",
+        section: "fnaf3"
+    },
+    {
+        name: "Foxy Lamp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Foxy_Lamp_Revamp.png",
+        description: "His eyepatch will cover one eyehole of the mask at random whenever you wear it. This will make you lose a bit of oxygen. You can click on the eyepatch to make it disappear. Note that it will remain in the mask even if you take the mask off if you don't click on it.",
+        section: "fnaf3"
+    },
+    {
+        name: "Sugar",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/Sugar.png",
+        description: "She works very similar to Toy Foxy. He will crawl through the Vent System, and when he comes to your office, you must quickly put on the mask. If you didn't have time to put on the mask, you will die.",
+        section: "fnaf3"
+    },
+    {
+        name: "Windowtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2f/Windowtrap.webp",
+        description: "There will be a portal on the Glitch Floor showing the old Fazbears Frights location, specifically showing the Fazbear's Fright Office. At 2:AM, Windowtrap will appear on the other side of the window and slowly start walking towards the left side. If he ever fully walks offscreen, you must close the left door to your office, otherwise it's a quick game over!",
+        section: "fnaf3"
+    },
+    {
         name: "Demomare Fredbear",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/Demomare_Fredbear.png",
         description: "His orange eyes may appear in one of your doorways in the Office. Close the door while having the opposite door in the House map in the Duct System closed.",
