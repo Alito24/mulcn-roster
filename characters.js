@@ -680,7 +680,7 @@ const characters = [
     {
         name: "SCP-003",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/SCP-003.png",
-        description: "SCP-003-1 will be on your desk for the entire night on top of SCP-003-2. If your office temperature drops below 95°, SCP-003-1 will begin to grow. In it's first stage, SCP-003-1 will increase in mass then take form similar to a brittle star. In the second stage, SCP-003-2 will try to come into contact with living material which includes you! If it reaches you, it will "template" off of you until it completely takes over you! These stages can be reversed if the temperature is brought up again.",
+        description: "SCP-003-1 will be on your desk for the entire night on top of SCP-003-2. If your office temperature drops below 95°, SCP-003-1 will begin to grow. In it's first stage, SCP-003-1 will increase in mass then take form similar to a brittle star. In the second stage, SCP-003-2 will try to come into contact with living material which includes you! If it reaches you, it will 'template' off of you until it completely takes over you! These stages can be reversed if the temperature is brought up again.",
         section: "scp"
     },
     {
