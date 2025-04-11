@@ -74,4 +74,9 @@ const sections = [
         name: "Five Nights At Candy's",
         bannerImage: "banners/fnac.png"
     },
+    {
+        id: "funko",
+        name: "Funko",
+        bannerImage: "banners/funko.png"
+    },
 ];
