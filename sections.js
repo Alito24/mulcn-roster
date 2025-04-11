@@ -79,4 +79,9 @@ const sections = [
         name: "Funko",
         bannerImage: "banners/funko.png"
     },
+    {
+        id: "quidd",
+        name: "Quidd",
+        bannerImage: "banners/quidd.png"
+    },
 ];
