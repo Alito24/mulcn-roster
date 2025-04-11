@@ -138,12 +138,6 @@ const characters = [
         section: "fnafsl"
     },
     {
-        name: "Maskless Ennard",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
-        description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
-        section: "fnafsl"
-    },
-    {
         name: "Tutorial Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/41/Tutorial_Freddy.png",
         description: "You will now have to buy stuff on the Task System to add to your atmosphere, health & safety and entertainment, when everything reaches a specific number given by him, he will give you a bonus revenue in faz-coins. But there is also a risk meter, if the risk meter gets too high he will jumpscare you.",
