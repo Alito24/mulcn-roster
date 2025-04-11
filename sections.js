@@ -18,5 +18,10 @@ const sections = [
         id: "fnaf4",
         name: "Five Nights at Freddy's 4",
         bannerImage: "banners/fnaf4.png"
+    },
+    {
+        id: "fnafw",
+        name: "FNAF World",
+        bannerImage: "banners/fnafw.png"
     }
 ];
