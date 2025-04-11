@@ -84,4 +84,9 @@ const sections = [
         name: "Quidd",
         bannerImage: "banners/quidd.png"
     },
+    {
+        id: "ulcn",
+        name: "Ultra Custom Night",
+        bannerImage: "banners/ulcn.webp"
+    },
 ];
