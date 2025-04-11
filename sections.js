@@ -89,4 +89,9 @@ const sections = [
         name: "Ultra Custom Night",
         bannerImage: "banners/ulcn.webp"
     },
+    {
+        id: "bb",
+        name: "Baldi's Basics",
+        bannerImage: "banners/bb.webp"
+    },
 ];
