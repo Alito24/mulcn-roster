@@ -191,4 +191,10 @@ const characters = [
         description: "When you lift up the monitor, they will start to appear in front of you. Shine your UV Flashlight to make them go away. If you let too many of them appear, you will die.",
         section: "tnt"
     },
+    {
+        name: "Vinnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bb/Vinnie.webp",
+        description: "When he appears in your office, that means he has locked you out of the Kitchen Camera. Change the Kitchen’s music via Switch Box Station to make him leave.",
+        section: "fnac"
+    },
 ];
