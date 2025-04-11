@@ -99,4 +99,9 @@ const sections = [
         name: "Five Nights at Treasure Island",
         bannerImage: "banners/fnati.png"
     },
+    {
+        id: "gmod",
+        name: "Garry's Mod",
+        bannerImage: "banners/gmod.png"
+    },
 ];
