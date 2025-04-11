@@ -167,4 +167,10 @@ const characters = [
         description: "He stays on the GPS System. When the Fury's Rage Floor is being watched for too long, he'll move towards you. If he reaches you, he'll jumpscare you.",
         section: "fnaffr"
     },
+    {
+        name: "Glamrock Lolbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Glamrock_Lolbit.png",
+        description: "Glamrock Lolbit will randomly appear on your screen during the night and make lots of noise! Open your camera monitor and type L-O-L using the system modes that have the corresponding letters next to them. The order they appear in switches every time.",
+        section: "fnafsb"
+    },
 ];
