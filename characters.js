@@ -270,6 +270,48 @@ const characters = [
         section: "fnaf4"
     },
     {
+        name: "Toy Phone",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/25/Toy_phone.png",
+        description: "Its Mute button is on the House map in the Duct System. When you hear its distinct ringing noise, press the Mute button. If you fail to mute the call, you will have to deal with 30 seconds of subtle screen hallucinations.",
+        section: "fnaf4"
+    },
+    {
+        name: "Protomare Foxy 4",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5c/Protomare_Foxy_4.png",
+        description: "He will go through the vents, but you won't be able to avoid him until he reaches the door, he will appear in the office, if his eyes are his original eyes you will have to shine a light on him, but if his eyes are Nightmare Foxy, close the door of ventilation. If you close any door in your office, Protomare Foxy 4 will go backwards.",
+        section: "fnaf4"
+    },
+    {
+        name: "Protomare Foxy 6",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d8/Protomare_Foxy_6.png",
+        description: "He may appear peeking out the closet in Child's Bedroom on Floor 6, ready to attack. Spam click the flashlight on the House map in the Duct System until you hear a closet shutting sound.",
+        section: "fnaf4"
+    },
+    {
+        name: "Protomare Fredbear 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/Protomare_Fredbear_2.png",
+        description: "He will randomly appear on your screen, moving too fast, quickly click his nose to avoid him blocking you the Duct System FNAF 4 House Map.",
+        section: "fnaf4"
+    },
+    {
+        name: "Protomare Fredbear 3",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/Protomare_Fredbear_3.png",
+        description: "He would have a rare chance to appear on your desk. If he does, you can click on him to replace your mask with him. If you do, your mask will be able to be flipped up and down quicker and can negate any effects related to the toxic meter.",
+        section: "fnaf4"
+    },
+    {
+        name: "Protomare Fredbear 5",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e7/Protomare_Fredbear_5.webp",
+        description: "He will randomly appear on your screen, spinning around. To get rid of him before he jumpscares you, click on the flashlight button on the Duct House Map.",
+        section: "fnaf4"
+    },
+    {
+        name: "Purple Robot",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ed/Purple_Robot_Revamp.png",
+        description: "He will be in Lumber Co. Floor. If the chest square in the middle of his torso is green, you must chop down at least 2 of the trees quickly. If you don’t cut down any of the trees when this happens, the toxic meter will slowly increase, but will increase faster for every time you fail it.",
+        section: "fnaf4"
+    },
+    {
         name: "Consequences Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/Consequences_Freddy.webp",
         description: "Each time you switch floors, Consequences Freddy will constantly fall from the top of the screen and to the bottom for a period of time, distracting you.",
