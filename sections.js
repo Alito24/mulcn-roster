@@ -53,5 +53,10 @@ const sections = [
         id: "fnaffr",
         name: "Fury's Rage",
         bannerImage: "banners/fnaffr.png"
+    },
+    {
+        id: "fnafsb",
+        name: "Security Breach",
+        bannerImage: "banners/fnafsb.png"
     }
 ];
