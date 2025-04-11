@@ -104,4 +104,9 @@ const sections = [
         name: "Garry's Mod",
         bannerImage: "banners/gmod.png"
     },
+    {
+        id: "scp",
+        name: "SCP",
+        bannerImage: "banners/scp.webp"
+    },
 ];
