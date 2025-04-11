@@ -64,4 +64,9 @@ const sections = [
         name: "Help Wanted 2",
         bannerImage: "banners/fnafhw2.png"
     },
+    {
+        id: "tnt",
+        name: "Teasers & Trailers",
+        bannerImage: "banners/tnt.png"
+    },
 ];
