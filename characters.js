@@ -1133,4 +1133,10 @@ const characters = [
         description: "The longer you wear the mask, the more he slowly fades in on the CAM System. There is no way to prevent or slow him.",
         section: "tprr"
     },
+    {
+        name: "Alito Virtual Yenndo Duo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Alito_Virtual_Yenndo_Duo.png",
+        description: "These two bone heads will be on different floors. One will be on Floor 3 and one on Floor 8, keep them both away from the elevator by using the Audio Lure on F3 along side the Alarm System on F8 to lure them away from both of the floor's elevators. Yup, looks like you got this night down to the bone!",
+        section: "umulcnr"
+    },
 ];
