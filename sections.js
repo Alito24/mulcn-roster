@@ -109,4 +109,9 @@ const sections = [
         name: "SCP",
         bannerImage: "banners/scp.webp"
     },
+    {
+        id: "doors",
+        name: "DOORS",
+        bannerImage: "banners/doors.webp"
+    },
 ];
