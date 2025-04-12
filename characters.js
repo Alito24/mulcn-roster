@@ -1266,6 +1266,24 @@ const characters = [
         section: "tprr"
     },
     {
+        name: "Scuttler",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/25/Scuttler.png",
+        description: "It will make Matriarch's Meter fill faster, and lengthen the time you need to keep the mask on by one second. Although, winding the Global Music box will now also rapidly increase how fast the Matriarch's Meter fills. Survive the night to win.",
+        section: "tprr"
+    },
+    {
+        name: "Matriarch",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Matriarch.png/revision/latest?cb=20250325235346",
+        description: "The Matriarch will be sitting in the Basement floor, accumulating agony to power it's hive, which will be shown as a meter on the camera. You can reset the Meter by turning on the Heater for 2 seconds, which will boil the Agony it was acuminating. If the meter completely fills, a horde of Agony Robots will invade your office, which you can survive by keeping your mask on for about five seconds until they all collectively leave. Survive the night to win.",
+        section: "tprr"
+    },
+    {
+        name: "Bringer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5f/Bringer.png",
+        description: "It will make Matriarch's Meter fill faster, and lengthen the time you need to keep the mask on by one second. Survive the night to win.",
+        section: "tprr"
+    },
+    {
         name: "Animatronix Blacklight Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f6/Animatronix_Blacklight_Freddy.png",
         description: "His face will fade in the view of Floor 2. His weakness is UV light. Unfortunately, the Floor 2 flashlight is not a UV flashlight. Fortunately, you can recreate the effect of the UV flashlight by having Power A/C on while flashing any camera on Floor 2, making Animatronix Blacklight Freddy fade away.",
