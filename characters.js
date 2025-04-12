@@ -881,4 +881,256 @@ const characters = [
         description: "If time is stopped by a character for too long, Void will attack, dealing 20-40 damage to the HP bar.",
         section: "doors"
     },
+    {
+        name: "TPRR Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/TPRR_Foxy.png",
+        description: "During the night you'll need to check Window Room 1 on F8 to see if TPRR Foxy is leaving his cove. Once Foxy leaves he will make one of his parts appear in your office, slowly entering the office piece by piece. To stop him from trying to leave his cove, use the Alarm System on that camera to make him go back into his cove. A maximum of 4 pieces can be in your office before Foxy kills you!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Backstage Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bc/TPRR_Backstage_Freddy.png",
+        description: "It will replace your mask, but due to how thick it is, your body will get hotter which also affects the temperature of the office.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c1/TPRR_Adventure_Golden_Freddy.png",
+        description: "He will have a chance to appear in your office whenever you pull up your mask, if he does appear quickly pull out your Golden Flashlight and shine it on them to make them go away before they can kill you!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Nightmare Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/08/TPRR_Adventure_Nightmare_Foxy.png",
+        description: "He'll show up in the task system, all night long he changes, he gets upset in the old days, watch him to make him leave. If he shows up in your office, he will turn back time by one hour.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Nightmare Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/TPRR_Adventure_Nightmare_Chica.png",
+        description: "She's lost TPRR Adventure Nightmare Cupcake in the Light System! Find him in the system before 2 AM, or TPRR Adventure Nightmare Chica will use sludge on you, slowing down your mouse and turning speeds.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Nightmare Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fd/TPRR_Adventure_Nightmare_Bonnie.png",
+        description: "A Rainy Day 2 will always be above the Wet Floor Sign. Make sure not to keep the sign on one side for too long or the water will cause the side to cave in and make the basement no longer accessible!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ed/TPRR_Adventure_Phantom_Foxy.png",
+        description: "He will be on the Light System with some Blokees transformers figures someone has bought him to play with, unfortunately he only has one arm and since the room is dark, you will have to shine the light for him to see what he's doing and track his progress to see how he's holding up, once you help him finish his figures he will play with them for the rest of the night, however if you don't help him by 2 AM he will be confused on what to do and will just appear in your office just to cause problems.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Phantom BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/TPRR_Adventure_Phantom_BB.png",
+        description: "He will frequently appear in one of the televisions on your desk after putting the monitor down. Refresh the TV by double clicking it to repel him. If not done in time, TPRR Adventure Phantom BB will jumpscare you, erroring out your vents.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Phantom Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/TPRR_Adventure_Phantom_Chica.png",
+        description: "She’ll travel through the duct system, and is immune to the vent seals. Use the heater to reset her. If she gets into your office, she’ll use Sludge and drag your speed, your cursor and head moving speed to be exact.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Phantom Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/77/TPRR_Adventure_Phantom_Puppet.png",
+        description: "His face can appear at random, peeking out from the left doorway. When this happens, don't activate the Global Music Box. To make him leave, use the Fan to make him leave you alone, or he'll jumpscare you and an audio error will occur. Oh yeah, that's so cool and unique. I'm one of the popular kids now!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/TPRR_Adventure_Plushtrap.png",
+        description: "He will stay deactivated on the bottom middle of the GPS System. However, he will be a sneaky boi, and will try to hide in a different area of the system. Spam click on him to send him back before he messes with one of the system modes.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Shadow Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/TPRR_Adventure_Shadow_Freddy.png",
+        description: "His face may appear when hovering your cursor over any open doorway in the Office. Close the door on his face before he jumpscares you, causing all systems to error out!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/TPRR_Adventure_Withered_Bonnie.png",
+        description: "It's raining Unscrew 2 from the ceiling. Touching it will cause a 50/50 chance of making you spontaneously explode. Its best to just avoid the attack. But hey, if you live the first time, you get 10 points to your score total :D",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/TPRR_Adventure_Withered_Foxy.png",
+        description: "He will be in Party Room 1 looking sad, you need to have both doors closed when the clock hits 4AM, otherwise he will jumpscare you.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Adventure Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/52/TPRR_Adventure_Withered_Freddy.png",
+        description: "Remember yesterday when you let him borrow your monitor for the sake of entertaining him? Yeah, he may have dropped it, multiple times, and broke it. Quite the clumsy fellow he is! Now you have no monitor, that sucks. However, he is actually a skilled technician and can actually fix your monitor in a matter of seconds. All you need to do is honk his nose when you see him in your office. Then, in a few seconds, you will have yourself a fixed monitor, good as new! Survive the night to win!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Black Ice Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b2/TPRR_Black_Ice_Frostbear.png",
+        description: "When the temperature gets really cold you will see his eyes fading in on your view, you must use the heater to make them fade away or else he will jumpscare you if they stay for too long.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Blacklight Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/89/TPRR_Blacklight_Bonnie.png",
+        description: "He will appear in the Light System, he is immune to the light being shined on his face , touch both shining eyes to make him disappear. If both eyes are completely shining until 5 am, you must put on the mask the moment he appears in your office!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Blacklight Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ab/TPRR_Blacklight_Chica.png",
+        description: "Viewing the Kitchen camera on Floor 1 will cause her to fade in at the left and right doorway. Use a combination of the UV Flashlight and Power A/C to get rid of her before it's too late!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Blacklight Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c0/TPRR_Blacklight_Foxy.png",
+        description: "Having an odd-numbered mode on for too long will result in a non-lethal jumpscare and make the radius of the Shakelight shrink (10+AI) % faster once per night.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Blacklight Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/74/TPRR_Blacklight_Freddy.png",
+        description: "All flashlights will increase the noise meter by 1 and make a continuous slight buzzing sound. AI level affects the volume of the sound.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Blacklight Rockstar Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9b/TPRR_Blacklight_Rockstar_Freddy.png",
+        description: "He will appear in the Light System, slumped over. He isn't an immediate threat until you see that his eyes light up. Once this happens, quickly shine your light on him while the Heater is on to melt him away.",
+        section: "tprr"
+    },
+    {
+        name: "R6 Withered Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/81/R6_Withered_Chica.png",
+        description: "She will be in the Bakery on Floor 8. Every hour, she will attempt to bake a cupcake, which takes approximately 15 seconds. Having the Heater on for a few consecutive seconds will cause the cupcake to burn, which will drive her insane! She will start biting into wires connected to your systems and cause one of them to error out every (8-(AI/5)) seconds for the rest of the night!",
+        section: "tprr"
+    },
+    {
+        name: "R6 Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/R6_Withered_Bonnie.png",
+        description: "He'll sometimes appear on the right side of your office. if he does he'll start spamming the Jumpscare sound affect (this will not increases the noise meter.) To get rid of him pull out the Faz-Cam and use it to get rid of him.",
+        section: "tprr"
+    },
+    {
+        name: "R6 Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/23/R6_Phantom_Foxy.png",
+        description: "He appears on the light system occassionally. If you shine your light at him, He will jumpscare you instantly, taking out your ventilation, audio, and cameras. Don't shine your light on him if he's there. He will change positions if you haven't spotted him yet.",
+        section: "tprr"
+    },
+    {
+        name: "R6 Phantom Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3e/R6_Phantom_Mangle.png",
+        description: "A text box will randomly appear at 3:AM, and you must type in TPRR to make it go away, otherwise R6 Phantom Mangle will show up and make noise for the rest of the night, drastically raising the noise meter.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Blacklight Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/Retro_Blacklight_Freddy.png",
+        description: "He will move through the Vent System, immune to the snares and door. When you see his gold eyes in the front vent, shine your UV Flashlight on him to make him fade in. When he is fully visible, close the door on his face. Using the Golden Flashlight at any time will make him move 50% faster.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Blacklight Rockstar Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4f/Retro_Blacklight_Rockstar_Freddy.png",
+        description: "He loves color theory! Every hour, a task will appear in the Task System where you have to choose the correct color that is the result of two other colors being mixed. Answering incorrectly or not answering in time will remove a color from the night! The task will immediately be renewed if that happens.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Hallucination Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bd/TPRR_Hallucination_Freddy.png",
+        description: "Using too many office equipment at once will result in TPRR Hallucination Freddy to flash on the monitor screen, depleting your Oxygen meter while in view.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Hide & Seek Shadow Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/31/TPRR_Hide_%26_Seek_Shadow_Bonnie.png",
+        description: "Throughout the night, his face will appear on one of the Televisions in your office. Go to Floor 8 and look for him on the cameras until you find him, once you find what camera he's hiding in, use the Alarm System on the camera he is on to make him disappear. If you are unsuccessful, then he'll jumpscare you! Game over!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Ignited Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/16/TPRR_Ignited_Chica.png",
+        description: "She will appear in your office occasionally, take a Short Sight pill to get rid of her. She takes a long time to kill you.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Ignited Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/TPRR_Ignited_Foxy.png",
+        description: "He'll be floating in space! How did he get there, don't ask. All that matters is that you'll be able to see him on the Telescope System. You must click him to make him fall apart pace by pace until he is nothing but a head, once he's a head he'll explode and you'll be safe. If you fail to do this or forget about it, when 6:AM hit he'll gain cosmic powers and use them to fly to your office and kill you instantly!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Ignited Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c7/TPRR_Ignited_Freddy.png",
+        description: "He'll have a chance to appear in the Window Room 2. You'll know when he's there as the sound of him knocking on the windows will be heard, go the the camera and use the light-flash on that camera to make him leave otherwise your night will end with a jumpscare!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Ignited Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/TPRR_Ignited_Golden_Freddy.png",
+        description: "Putting down the monitor while the current selected floor is an odd-numbered floor will cause him to appear in the office, slumped over. Put on the mask before he ends your night! His presence will heat up the office to 120°.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Ignited Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/TPRR_Ignited_Springtrap.png",
+        description: "His head will follow your cursor around while watching odd numbered floors. If his eyes ever light up, that means he is about to attack, and you'll have to switch to a even numbered floor to avoid him!",
+        section: "tprr"
+    },
+    {
+        name: "Sea Floor Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e4/Sea_Floor_Fredbear.png",
+        description: "He will emerge from his flooded grave on The Graveyard in Floor 5. Once he's in the office, you need to fire a harpoon (which is stationary in your office) through his head to offline him for good, or else he'll send you to a watery grave.",
+        section: "tprr"
+    },
+    {
+        name: "Scopophobia Nightmare",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/93/Scopophobia_Nightmare.webp",
+        description: "He'll always be on the Light System. Occasionally, his head will start to move to stare at your cursor. If he looks at it for too long, your panic meter will rise rapidly.",
+        section: "tprr"
+    },
+    {
+        name: "Withered Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e7/Withered_Spring_Bonnie.png",
+        description: "He can appear in either Window Room 1 or Window Room 2. If you see him in either of those cameras, use the Alarm System on him to scare him off. If he gets into the building, he will appear in your Office, moving around. Put on the mask and follow where he's moving to get him to leave! If he stays in the Office for too long, he will kill you.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR VR Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/53/TPRR_VR_Toy_Freddy.png",
+        description: "He will occasionally appear in the office. Make sure you're on All-Off mode the next time you pull the monitor up!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR System Error Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/TPRR_System_Error_Toy_Bonnie.png",
+        description: "He will cause error popups to appear on your screen. The more errors pop up, the more the internet meter will drain. Simply pressing the X button on a popup will get rid of it.",
+        section: "tprr"
+    },
+    {
+        name: "Pupaphobia Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/43/Pupaphobia_Funtime_Freddy.png",
+        description: "There will be a puppet show on the Show Stage camera, his puppets will perform on that camera and Pupaphobia Funtime Freddy will kill if you try to look at the camera, wait for them to finish if you want to look at the show stage camera again.",
+        section: "tprr"
+    },
+    {
+        name: "Pediophobia Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/95/Pediophobia_Plushtrap.png",
+        description: "He will be in your office in pieces, at 1AM they will be scattered all over the place and you need to find them, for his head would be on the Duct System, for his torso and arms would be in the Light System, his legs would probably be somewhere on Floor 6, if you take too long to find them by 3AM, he will piece himself back together all by himself okay and kill you.",
+        section: "tprr"
+    },
+    {
+        name: "Pibble",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Pibble.png",
+        description: "The longer you wear the mask, the more he slowly fades in on the CAM System. There is no way to prevent or slow him.",
+        section: "tprr"
+    },
 ];
