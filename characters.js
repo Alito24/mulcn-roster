@@ -702,6 +702,84 @@ const characters = [
         section: "gmod"
     },
     {
+        name: "Splinks Toy Parts",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Splinks_Toy_Parts.png",
+        description: "At first, they will just randomly scare you and that’s all, but then, they will add extra points with each character that randomly jumpscares you: Toy Freddy=5. Toy Bonnie=1. Mangle =15. Balloon Boy=23.",
+        section: "gmod"
+    },
+    {
+        name: "Stretched Poster Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/65/Stretched_Freddy.png",
+        description: "Players will connect from the globe to play, however some have different intentions than others. Occasionally, one of the players will run in the office, watch them carefully to see what they're up too, if they have items like a Physgun, Crowbar, Camera, Tool Gun, or Medkit, they're good to go, however if they carry anything else, they're a troll, meaning that they'll kill everyone in the server, eventually you! Go to the task system and look at the server list and look for the username of the troll to kick them. Mingebags might also appear, in which you have 6 seconds to kick them before the server crashes!",
+        section: "gmod"
+    },
+    {
+        name: "Dr. Dolman The Bat",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/40/Batdolman.png",
+        description: "He is sick and tired of being called a cat despite the fact he's a bat. He needs you to buy a sign to tell people to shut up about him being a cat, failing this will result to death.",
+        section: "gmod"
+    },
+    {
+        name: "Glamrock Lolbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Glamrock_Lolbit.png",
+        description: "Glamrock Lolbit will randomly appear on your screen during the night and make lots of noise! Open your camera monitor and type L-O-L using the system modes that have the corresponding letters next to them, the order they appear in switches every time.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Balloon Boy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8c/Splinks_Balloon_Boy.png",
+        description: "If you don't have time to put on your mask, he will steal your tablet and flashlight.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks JJ",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d1/Splinks_JJ.png",
+        description: "if you see her, you need to close the Right Vent Door. If she comes into your office, she will steal random mechanics.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/Splinks_Bonnie.png",
+        description: "He will sit on Floor 3, and the more noise you make, the closer he will be. When he appears in the office, you urgently need to put on a mask, otherwise he will kill you. If you don't make noise, he doesn't come to your office, but will continue to sit on the third floor.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7f/Splinks_Chica.png",
+        description: "Sometimes a bug appears in your office. You urgently need to go to the monitor and correct the error. If you don't, Splinks Chica will kill you.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Splinks_Foxy.png",
+        description: "When you hear running, you must immediately put on the mask. Splinks Foxy will then appear in the office, and then he will leave. If you don’t put on the mask, he will scare you.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ae/SplinksFredbear.png",
+        description: "He will be on his computer, playing Garry's Mod, though he is bored of the same thing so he wanted to add FNAF mods to it, you must guide him to install which addon, picking the wrong one would increase more of his diskspace and make him angry to take away 20% of your power.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/33/Splinks_Mangle.png",
+        description: "By the sound of the ventilation, you should understand which door you should close: left or right or front. When you close the corresponding door, you will hear a knocking sound. If you don't close them in time, they'll scare you.",
+        section: "gmod"
+    },
+    {
+        name: "Splinks Purple Guy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ed/Splinks_Purple_Guy.png",
+        description: "He will sometimes break the camera on Floor 3. The higher the percentage meter, the more often he breaks different cameras. To get rid of him, the temperature needs to be heated to maximum, then you will hear the death sound effect from Garry's Mod, and the cameras that he managed to break will return to normal!",
+        section: "gmod"
+    },
+    {
+        name: "Mango The Monkey",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/MangoTheMonkey.png",
+        description: "He likes the noise and will start to crash his cymbals slower, the noise being too silent will make him angry, try to raise the noise up to make him happy.",
+        section: "gmod"
+    },
+    {
         name: "SCP-001 - 'Normalcy'",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2e/Normalcy.png",
         description: "SCP-001 will sit on your desk, you're free to view it any time you'd like, just remember to remember the laws of normalcy. If you catch something in your office or on the cameras, look at SCP-001 to make sure that they aren't breaking any laws, if they do, click on it to send it away from the night. If one of these entities appears hostile, you only have a short amount of time to get rid of them before they kill you.",
