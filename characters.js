@@ -642,6 +642,66 @@ const characters = [
         section: "fnati"
     },
     {
+        name: "Jake Smith",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Jake_Smith_Revamp.webp",
+        description: "He will turn off random cameras as well using the Faz-Cam if the heater is on for too long.",
+        section: "fnati"
+    },
+    {
+        name: "2.0 Oswald",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/49/2.0_Oswald.png",
+        description: "If there is a lot of noise for too long, he will walk into your office. Turn off two cameras to make him run off!",
+        section: "fnati"
+    },
+    {
+        name: "2.0 The Face",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/20_Face.png",
+        description: "He will be in the basement, trying to pull out his eyes. Once he does, he will go upstairs and take yours! Change the Kitchen's music to make him stop for a bit. He won't kill you, but he will make you blind you for the rest of the night.",
+        section: "fnati"
+    },
+    {
+        name: "4.0 Ortensia",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/38/Treasure_Island_Ortensia.png",
+        description: "When collecting a green rupee, she has a 50% chance of appearing in the Main Hall on floor 2. Turn off a camera to get rid of her!",
+        section: "fnati"
+    },
+    {
+        name: "4.0 Undying",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/17/40_Undying_Resize.png",
+        description: "This inhuman creature will move around the duct system and eventually reach your office. Keep a close eye on him and make sure the entrance he is going to is open, or else he will break down the duct door. After breaking the duct door, he'll leave.",
+        section: "fnati"
+    },
+    {
+        name: "Lisa Bertsch",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/aa/Lisa_Bertsch_Revamp.png",
+        description: "When she calls, quickly mute her, otherwise she will create a lengthy audio disturbance and add one FNATI character to the night. The mute button will appear in different places each time.",
+        section: "fnati"
+    },
+    {
+        name: "2.0 Acephalous & Disembodied",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4a/Ace_20.png",
+        description: "Both of them have teamed up! Disembodied, who is on Acephalous's head, will point to which room they will travel to on floor 2. Flash the light multiple times to make Disembodied go to a different direction.",
+        section: "fnati"
+    },
+    {
+        name: "5.0 Disembodied",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/69/50_Disembodied.png",
+        description: "If you go on any other system other than the Cam System for too long, he'll appear on the desk and start disabling cameras. Press the Exotic Butters to make him stop.",
+        section: "fnati"
+    },
+    {
+        name: "5.0 Oswald Duo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/5.0_Oswald_Duo.png",
+        description: "V1 Oswald (the right) and V2 Oswald (the left) will appear in Bedroom 1 and 2 respectively. If one of them appears on one of the bedrooms, turn off the camera for the other bedroom. If both of them appear at the same time, turn off the Master Bedroom instead. Doing the wrong action will end your night in a jumpscare!",
+        section: "fnati"
+    },
+    {
+        name: "5.0 Photo-Negative Minnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/01/50_Photo-Negative_Minnie.png",
+        description: "She will sometimes be within the pills shelf, trying to eat the pills. Turn on a recently turned off camera to make her stop!",
+        section: "fnati"
+    },
+    {
         name: "Red Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/85/RedFreddy.png",
         description: "He's trying to make a new Freddy Fazbear's Pizza in Floor 5 but he needs ideas first, you need to pick the right choice for him to build his Pizzeria, failing or picking the wrong one will cause him to say 'WHY YOU' or 'ITS MY MAP' and will kill you.",
@@ -1188,6 +1248,12 @@ const characters = [
         section: "tprr"
     },
     {
+        name: "TPRR Radioactive Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/29/TPRR_Radioactive_Foxy.png",
+        description: "If you stare at the Telescope System for too long, then your Toxic meter will start to increase until you stop looking at it. You can also completely stop this from being a possibility by taking a Short-Sight pill which will make it so that your Toxic meter will never increase while viewing the Telescope System for the next in-game hour.",
+        section: "tprr"
+    },
+    {
         name: "TPRR Ignited Chica",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/16/TPRR_Ignited_Chica.png",
         description: "She will appear in your office occasionally, take a Short Sight pill to get rid of her. She takes a long time to kill you.",
@@ -1407,6 +1473,12 @@ const characters = [
         name: "Glitchrot Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Glitchrot_Foxy.png",
         description: "His files will be in a random System every hour. If you find one, you can quickly shift & delete them (by holding the Shift & D key on the keyboard) which will weaken him. Your fight with him will begin at the end of the night, where you will be taken to a FNAF World-styled fight with him, where you can use Adventure Blacklight Freddy, Adventure Blacklight Bonnie, Adventure Blacklight Chica, And Adventure Blacklight Foxy to fight him off. Based on how many files you deleted, his health will be decreased by 10% which will make the fight easier. Just remember to Fight, Block, and Heal to Win!",
+        section: "oo"
+    },
+    {
+        name: "Virtual Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b1/Virtual_Fredbear.webp",
+        description: "If Fredbear spawns in your office, you'll need to go the left hall camera on F1 and find the Freddy poster. Once you find it, you need to click it until it turns into a missing texture, then Fredbear will go away. If you fail to do this, then you'll die!",
         section: "oo"
     },
 ];
