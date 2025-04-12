@@ -1193,4 +1193,70 @@ const characters = [
         description: "These two bone heads will be on different floors. One will be on Floor 3 and one on Floor 8, keep them both away from the elevator by using the Audio Lure on F3 along side the Alarm System on F8 to lure them away from both of the floor's elevators. Yup, looks like you got this night down to the bone!",
         section: "umulcnr"
     },
+    {
+        name: "Darkened Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/11/Darkened_golden_freddy_icon.png",
+        description: "He will occasionally appear, flickering slightly. When he does, you’ll need to turn off the lights by pressing M to make him vanish.",
+        section: "oo"
+    },
+    {
+        name: "Radium Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/17/Radium_Bonnie.webp",
+        description: "He'll appear in your office if you put the monitor down, turning to Radium Nightmare Bonnie. You should repeatedly switch modes to make him turn into normal Radium Bonnie again. If he becomes Nightmare Radium Bonnie, he will give you a taste of his radium ray and end your night.",
+        section: "oo"
+    },
+    {
+        name: "Flipmare",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a0/Flipmare.png",
+        description: "He is invisible to the cameras and can only be seen once he reaches your right doorway. Once he's there, hover your mouse over him and use the Left/Right mouse buttons to raise different flags corresponding to the Left and Right doorways. If he's unable to get the correct flag, he'll accept defeat and walk away, if you don't however, he'll walk right in and kill you, oh well.",
+        section: "oo"
+    },
+    {
+        name: "Cursed Sidtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/Sidphillips.png",
+        description: "Sidtrap will roam Floor 3. If you are using SIlent Ventilation, he'll go for the elevator at a decent pace. Once he gets in the elevator, you aren't immediately dead, but however he is right behind you now. Any time you use the controlled shock, his anger meter will go up by one. The bar will lower after 1 minute has passed, if the anger meter is above 10, you will die.",
+        section: "oo"
+    },
+    {
+        name: "Spring Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Spring_Foxy_Resize.webp",
+        description: "He will appear in the Foxy Hall camera on Floor 3, getting more angry if you don't look at him. Eventually he will leave the Foxy Hall and into the Elevator. The only thing to calm him down is to close all the doors and turn on the Silent Ventilation for several seconds. If he leaves the Foxy Hall for a long time, you die.",
+        section: "oo"
+    },
+    {
+        name: "Blacklight Grimm Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cc/Blacklight_Grimm_Foxy.png",
+        description: "He does not exist. Which means he will not appear during your night. Instead he will leave you a task on the Task System and that is to make him real! You must fill out a petition for him, in which after completing will make him real, and to show his thankfulness, he will give you his Point Value as a reward.",
+        section: "oo"
+    },
+    {
+        name: "Phantomized Popgoes",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/56/Phantomized_Popgoes.webp",
+        description: "He works similar to both Nightmarionne and Adventure Nightmarionne, except he will fade in on any part of your screen no matter what. Avoid having your mouse cursor on him for too long, or he will non-lethally jumpscare you and cause a ventilation error.",
+        section: "oo"
+    },
+    {
+        name: "Withered Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4a/Withered_Fredbear.webp",
+        description: "An anvil will now be floating above your wet floor sign (off screen.) Sometimes Withered Fredbear will appear at either the left or right side of your office, you must move your wet floor sign to the side he's on and press B to cut the rope and kill him.",
+        section: "oo"
+    },
+    {
+        name: "Unadventure White Rabbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/Unadventure_White_Rabbit.png",
+        description: "A bar of White and dark chocolate will be on your desk, each of them doing different things. The dark chocolate will restore lost power, while the white chocolate will drain the toxic meter. However, eating the chocolates too much has side effects. Eating the white chocolate too often will anger Unadventure White Rabbit, while the dark chocolate will anger Inverted Unadventure White Rabbit. Have a even amount of both chocolates to avoid getting jumpscared by either of them.",
+        section: "oo"
+    },
+    {
+        name: "Unadventure Redbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/Unadventure_White_Rabbit.png",
+        description: "If you see him in the monitor, stare at him to make him go away.",
+        section: "oo"
+    },
+    {
+        name: "Glitchrot Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Glitchrot_Foxy.png",
+        description: "His files will be in a random System every hour. If you find one, you can quickly shift & delete them (by holding the Shift & D key on the keyboard) which will weaken him. Your fight with him will begin at the end of the night, where you will be taken to a FNAF World-styled fight with him, where you can use Adventure Blacklight Freddy, Adventure Blacklight Bonnie, Adventure Blacklight Chica, And Adventure Blacklight Foxy to fight him off. Based on how many files you deleted, his health will be decreased by 10% which will make the fight easier. Just remember to Fight, Block, and Heal to Win!",
+        section: "oo"
+    },
 ];
