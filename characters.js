@@ -342,6 +342,18 @@ const characters = [
         section: "fnafsl"
     },
     {
+        name: "Prototime Foxy 7",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b2/Prototime_Foxy_7.png",
+        description: "Every time a new hour sticks two dice will appear next to the current time, then both will roll and land on a random number from 1-6. Based on what numbers are rolled that many seconds will have to pass until the time can continue as normal.",
+        section: "fnafsl"
+    },
+    {
+        name: "Prototime Freddy 12",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6a/Prototime_Freddy_12.png",
+        description: "You will be given an extra 100% more Power but if you ever get to 120° it will all go away.",
+        section: "fnafsl"
+    },
+    {
         name: "Tutorial Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/41/Tutorial_Freddy.png",
         description: "You will now have to buy stuff on the Task System to add to your atmosphere, health & safety and entertainment, when everything reaches a specific number given by him, he will give you a bonus revenue in faz-coins. But there is also a risk meter, if the risk meter gets too high he will jumpscare you.",
