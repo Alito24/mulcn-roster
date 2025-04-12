@@ -108,12 +108,43 @@
         .roster-slot:hover .tooltip {
             display: block;
         }
+
+        .credits {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            color: white;
+            text-shadow: 0 0 5px rgba(200, 200, 200, 0.8);
+            z-index: 1000;
+            font-size: 14px;
+        }
+
+        .last-updated {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            color: white;
+            text-shadow: 0 0 5px rgba(200, 200, 200, 0.8);
+            z-index: 1000;
+            font-size: 14px;
+        }
+
+        .hidden-link {
+            color: white;
+            text-decoration: none;
+        }
+
+        .hidden-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container" id="main-container">
         <!-- Section containers will be inserted here by JavaScript -->
     </div>
+    <div class="credits">Made by <a href="#" class="hidden-link">Alito24</a></div>
+    <div class="last-updated">Last updated 4/12/2025</div>
 
     <script>
     document.addEventListener('DOMContentLoaded', async function() {
