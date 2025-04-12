@@ -864,12 +864,6 @@ const characters = [
         section: "doors"
     },
     {
-        name: "Shadow",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/Shadow.png",
-        description: "Randomly upon lowering the Monitor, Shadow will appear and flicker the office lights for a few seconds.",
-        section: "doors"
-    },
-    {
         name: "Jeff",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Jeff.png",
         description: "At 3AM, Jeff will Appear and Give the Player Helpful Boosts. Each Boost Costs a Different Amount of Faz-Coins to Purchase. After 3AM Ends, both Jeff and his Shop will Disappear for the Rest of the Night.",
