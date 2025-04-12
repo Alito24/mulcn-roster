@@ -114,4 +114,9 @@ const sections = [
         name: "DOORS",
         bannerImage: "banners/doors.webp"
     },
+    {
+        id: "tprr",
+        name: "TPRR",
+        bannerImage: "banners/tprr.png"
+    },
 ];
