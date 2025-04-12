@@ -1327,7 +1327,7 @@ const characters = [
     },
     {
         name: "Unadventure Redbear",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/Unadventure_White_Rabbit.png",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ef/Unadventure_Redbear.webp",
         description: "If you see him in the monitor, stare at him to make him go away.",
         section: "oo"
     },
