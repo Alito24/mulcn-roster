@@ -125,6 +125,11 @@ const sections = [
         bannerImage: "banners/tprr.png"
     },
     {
+        id: "oo",
+        name: "One-Offs",
+        bannerImage: "banners/oo.webp"
+    },
+    {
         id: "umulcnr",
         name: "Unofficial Multiverse Custom Night Roster",
         bannerImage: "banners/umulcnr.png"
