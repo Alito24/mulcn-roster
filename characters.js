@@ -372,9 +372,9 @@ const characters = [
         section: "fnaffr"
     },
     {
-        name: "Glamrock Lolbit",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Glamrock_Lolbit.png",
-        description: "Glamrock Lolbit will randomly appear on your screen during the night and make lots of noise! Open your camera monitor and type L-O-L using the system modes that have the corresponding letters next to them. The order they appear in switches every time.",
+        name: "Alien S.T.A.F.F. Bot",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/85/Alien_STAFF_Bot.webp",
+        description: "A tractor beam will follow your cursor. When the cursor is over the beam, it'll go up. If the cursor is on the top of the screen, and is in the tractor beam, Alien Bot will jumpscare you. His AI determines the speed of the tractor beams horizontal movement.",
         section: "fnafsb"
     },
     {
