@@ -1339,7 +1339,7 @@ const characters = [
     },
     {
         name: "Matriarch",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Matriarch.png/revision/latest?cb=20250325235346",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Matriarch.png",
         description: "The Matriarch will be sitting in the Basement floor, accumulating agony to power it's hive, which will be shown as a meter on the camera. You can reset the Meter by turning on the Heater for 2 seconds, which will boil the Agony it was acuminating. If the meter completely fills, a horde of Agony Robots will invade your office, which you can survive by keeping your mask on for about five seconds until they all collectively leave. Survive the night to win.",
         section: "tprr"
     },
