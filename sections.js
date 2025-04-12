@@ -119,4 +119,9 @@ const sections = [
         name: "TPRR",
         bannerImage: "banners/tprr.png"
     },
+    {
+        id: "umulcnr",
+        name: "Unofficial Multiverse Custom Night Roster",
+        bannerImage: "banners/umulcnr.png"
+    },
 ];
