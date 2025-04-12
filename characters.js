@@ -1266,6 +1266,60 @@ const characters = [
         section: "tprr"
     },
     {
+        name: "Animatronix Blacklight Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f6/Animatronix_Blacklight_Freddy.png",
+        description: "His face will fade in the view of Floor 2. His weakness is UV light. Unfortunately, the Floor 2 flashlight is not a UV flashlight. Fortunately, you can recreate the effect of the UV flashlight by having Power A/C on while flashing any camera on Floor 2, making Animatronix Blacklight Freddy fade away.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Blacklight Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/Animatronix_Blacklight_Bonnie.png",
+        description: "Turning on any flashlight may make him disable your Neon Walls temporarily. Reduce the effect by having Power A/C on.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Blacklight Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/Animatronix_Blacklight_Chica.png",
+        description: "The visibility of your cursor will decrease if the UV Flashlight isn't used frequently.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Blacklight Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/85/Animatronix_Blacklight_Foxy.png",
+        description: "The left Neon Wall will be colored green and raise the Toxic Meter. The right neon wall will be colored blue and drain the Oxygen Meter. Having on All-Off mode will stop the effects for the time being.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Phantom BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/32/Animatronix_Phantom_BB.png",
+        description: "His body will appear in the office whenever you look at Floor 3. His body will be split in 2 pieces on the other sides of the office. You’ll have to put them back together to make him go away, or he will jumpscare you, causing errors.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b6/Animatronix_Phantom_Foxy.png",
+        description: "He will appear in your office with his hook in the side vent, you can pick it up and give it back to him, if you take too long he will jumpscare you so bad you die... yeah.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/Animatronix_Phantom_Freddy.png",
+        description: "There is now a flashlight that is usable on the Telescope System, by pressing Z while viewing the system. Animatronix Phantom Freddy will slowly fade in, and you'll have to use the flashlight on him to make him vanish. If he fully fades in, he will jumpscare you and disable the Telescope System for one hour.",
+        section: "axhw"
+    },
+    {
+        name: "Animatronix Withered Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b7/Animatronix_Withered_Golden_Freddy.png",
+        description: "He will be in your office, slumped over. He will wither away completely if you have the mask on for a few accumulative seconds depending on the AI level. Get rid of him before 4AM.",
+        section: "axhw"
+    },
+    {
+        name: "Virtual Freddy Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4d/Virtual_Freddy_Frostbear.png",
+        description: "When the temperature gets too high, he will start to thaw off in the Ice Caverns on Floor 7. If he fully thaws off, he will make his way down to the Christmas Jukebox, and permanently keep it at its maximum volume. Once this happens, its only a matter of time before the music makes you go deaf for the rest of the night.",
+        section: "axhw"
+    },
+    {
         name: "Alito Virtual Yenndo Duo",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Alito_Virtual_Yenndo_Duo.png",
         description: "These two bone heads will be on different floors. One will be on Floor 3 and one on Floor 8, keep them both away from the elevator by using the Audio Lure on F3 along side the Alarm System on F8 to lure them away from both of the floor's elevators. Yup, looks like you got this night down to the bone!",
