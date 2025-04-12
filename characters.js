@@ -1416,6 +1416,90 @@ const characters = [
         section: "axhw"
     },
     {
+        name: "Withered Bonca",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/Withered_Bonca.webp",
+        description: "They will appear in the Right Vent camera on F2 during the night, the sounds of loud vent banging will be heard when their in the vent. You must go to the camera and light-flash it to get them to scram, or a jumpscare will follow! You can also get rid of them by turning off the camera.",
+        section: "yt"
+    },
+    {
+        name: "Malware Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3b/Malware_Mangle.webp",
+        description: "A part of Malware Mangle will appear on a random Floor 7 camera. Avoid hovering your mouse over them, or she will assemble in your office. If he's fully formed the next time you lift up the monitor, you're dead!",
+        section: "yt"
+    },
+    {
+        name: "Bloodbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/32/Bloodbear_Revamp.webp",
+        description: "He will spawn at exactly 3:AM (how ironic), This will activate the 'Bloodbear Event'. When the Event happens, you MUST defend yourself from him at all costs. He will appear at the Doorways. Sometimes there will be random images flashing on your screen, distracting you, Make it to 5:AM and he will be gone.",
+        section: "yt"
+    },
+    {
+        name: "Mr. Puzzles",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/93/Mr_Puzzles_Resize.png",
+        description: "He's trying to achieve that PERFECT five star rating, and he's using YOU to achieve it. The better you do in a night, the more stars will appear in the top left corner. Doing poorly however will make the ratings go down. Avoid having the ratings too high or too low for too long, or he'll kill you.",
+        section: "yt"
+    },
+    {
+        name: "Rewind Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/43/Rewind_Freddy.png",
+        description: "He'll attempt to rewind time, causing the timer to go backwards instead of forwards. To stop this, skip a video on the Youtube System to make time go back to normal.",
+        section: "yt"
+    },
+    {
+        name: "Ransomware Freday",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6b/Ransomware_Freday_Resize.png",
+        description: "When using the monitor too often, he'll block your monitor with a 'Anti-Piracy screen'. To remove it, pay them 20 Faz-Coins to get rid of it. If you don't, he'll steal your code. (Death).",
+        section: "yt"
+    },
+    {
+        name: "Doodle Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6b/Ransomware_Freday_Resize.png",
+        description: "He will lose his cake each hour. Quickly find the cake in your office or he'll lock you from Floor 1! However, the cake it will be will affect certain mechanics throughout the night. Vanilla: It'll cover up the timer and clock. Chocolate: It'll cover up the meters in the bottom left corner. Strawberry: It'll cover up the system buttons on the monitor. Raspberry: It'll appear in a large portion of your office, covering it up. Whipped Creamed Cake: It does nothing.",
+        section: "yt"
+    },
+    {
+        name: "Dawko",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e2/Dawko.png",
+        description: "Dawko will be playing a FNaF Fan-game in Floor 4, changing cameras every now and then. Avoid using the control shock when he is on a camera, or his gameplay will fizzle out. If you shock him a bunch of times, his game will crash, and he will kill you in a fit of rage.",
+        section: "yt"
+    },
+    {
+        name: "The Boiled One",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/35/The_Boiled_One.png",
+        description: "Randomly in the night, The Boiled One may hijack your camera monitor. If you flip down your monitor and wait a few seconds, he will go away, however if you stay and watch him for a few seconds, he will lock your cursor for a while before you can regain control.",
+        section: "yt"
+    },
+    {
+        name: "Tony The Clock",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/65/Tony_The_Clock.webp",
+        description: "The digital clock that appears on the top right of your UI will instead be replaced by Tony's head. Tony will sometimes get out of hand, making a lot of noise with his obnoxious beeping, and when this happens, you'll need to click the bottom of the him to delay him. If you change the clock while it isn't delayed, it will still work, meaning that he will delay himself. If Mechiplier is active, then a cover will appear over the clock.",
+        section: "yt"
+    },
+    {
+        name: "Weegee",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/07/Weegee_icon.png",
+        description: "His head will sometimes appear in the video inside the Youtube System, click the Next Button to skip the video. Not doing so will result in the Weegee Army rushing to each doorway, close the corresponding doorway (Left or Right doorway) to prevent death.",
+        section: "yt"
+    },
+    {
+        name: "Jumpscare Purple Fan",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/89/FNaF_4_Fan_Jumpscare.png",
+        description: "Every time he appears in the office, you must shine the flashlight on him. If you don't, he will scare you.",
+        section: "yt"
+    },
+    {
+        name: "Vintage Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a8/Vintage_Freddy.webp",
+        description: "At the start of the night, the Fazbear Entertainment Video Manual will teach you how to repair Freddy. Remember the tapes instructions well, as at the end of the night, you'll have to repair Vintage Freddy. Repairing him wrong will force you to climb inside his torso and accept your death.",
+        section: "yt"
+    },
+    {
+        name: "Vintage Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2f/Vintage_Foxy.webp",
+        description: "He will start his Pirate Cove Pre-Show in the Kitchen on F1 when the night begins. The real show will begin 10 in game minute's after the Pre-Show is over, and seeing that your the only other person in the building, Vintage Foxy will make YOU his audience and you don't want that to happen as it wont be very pleasant. There will be a Cassette Tape that you can rewind on the Kitchen camera to restart the Pre-Show and halt Vintage Foxy's arrival, but make sure you use it wisely, as if you use it more then five times, it will not work and the show will inevitably begin. (Death).",
+        section: "yt"
+    },
+    {
         name: "Alito Virtual Yenndo Duo",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Alito_Virtual_Yenndo_Duo.png",
         description: "These two bone heads will be on different floors. One will be on Floor 3 and one on Floor 8, keep them both away from the elevator by using the Audio Lure on F3 along side the Alarm System on F8 to lure them away from both of the floor's elevators. Yup, looks like you got this night down to the bone!",
