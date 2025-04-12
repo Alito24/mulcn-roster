@@ -125,6 +125,11 @@ const sections = [
         bannerImage: "banners/tprr.png"
     },
     {
+        id: "axhw",
+        name: "Animatronix: Help Wanted",
+        bannerImage: "banners/axhw.png"
+    },
+    {
         id: "oo",
         name: "One-Offs",
         bannerImage: "banners/oo.webp"
