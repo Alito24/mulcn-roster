@@ -396,6 +396,66 @@ const characters = [
         section: "fnac"
     },
     {
+        name: "Vision Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9e/Vision_Foxy.png",
+        description: "If you hear humming it means Vision Foxy is about to run down one of two Halls (Left Hall or Right Hall) on Floor 1. Check either hall camera, and then pull down the camera and shine your flashlight on the doorway of the hall he's coming to until he goes away. If you do not look at the cam he's in or flash him quick enough, you will receive a fatal jumpscare.",
+        section: "fntr"
+    },
+    {
+        name: "Vision Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/98/Vision_Freddy.png",
+        description: "He can appear at either of the doorways in the office. If you flash him with your light, then he will disable your flashlight for a short period of time. Simply close the door to get rid of him.",
+        section: "fntr"
+    },
+    {
+        name: "Vision Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/50/Vision_Bonnie.png",
+        description: "His icon may appear on one of the televisions in the office. When this happens, you only have a short amount of time to find him on the cameras of Floor 1 and stare him down until he goes away.",
+        section: "fntr"
+    },
+    {
+        name: "Vision Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/Vision_Chica.png",
+        description: "If you see her on a camera, quickly switch cameras to avoid a camera system error.",
+        section: "fntr"
+    },
+    {
+        name: "Bunnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/40/FNtR_%282024%29_Bunnie.png",
+        description: "She will be on Floor 7 and will bother you by sticking her face up on the camera screen. You need to get rid of her by pressing her nose.",
+        section: "fntr"
+    },
+    {
+        name: "H.I.M",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c8/FNtR_%282024%29_H.I.M.png",
+        description: "He will sit in the basement, you need to make sure that the cake that is next to him does not disappear. If something goes missing from the cake, you will get an infinite number of bugs (Death).",
+        section: "fntr"
+    },
+    {
+        name: "FNtR (2024) Ben",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/66/FNtR_%282024%29_Ben.png",
+        description: "He will sometimes interfere with you, take pictures of you and blind you with a flash.",
+        section: "fntr"
+    },
+    {
+        name: "FNtR (2024) Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9d/FNtR_%282024%29_Bonnie.png",
+        description: "He will try to steal your flashlight and other things, to stop this you need to raise the temperature to the maximum then he will leave.",
+        section: "fntr"
+    },
+    {
+        name: "FNtR (2024) Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/FNtR_%282024%29_Fredbear.png",
+        description: "He will slowly move around the room. If it reaches the monitor, you must press Spacebar and close the monitor. If you don't cover the monitor, it will scare you and kill you.",
+        section: "fntr"
+    },
+    {
+        name: "FNtR (2024) Yellow Bear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5a/FNtR_%282024%29_Yellow_Bear.png",
+        description: "He has 4 ways of attacking you throughout the night, and will switch after each attack is successfully dealt with. If you fail to deal with him in time, he'll mess your night up badly. He will appear in one of the doorways. Don't shine your flashlight at him, or else it will be disabled for a short while. He leaves by himself randomly. If you hear the sounds of beeping, look for him in Floor 1. He will appear in either Cam 03, 04, 06, and 07. You have a short time to stare him down to make him go away. He will randomly appear on a random camera upon viewing it. Look away from him, or he will disable that camera for a short period of time. If you hear giggling, check the two F4 hallway cams for him. If you see him, Light-Flash him before he kills you.",
+        section: "fntr"
+    },
+    {
         name: "Dark Blacklight Glamrock Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Dark_Blacklight_Glamrock_Freddy.png",
         description: "If you’re using too much power usage, he’ll run into your office. Turn off as much power you can and shine him with the UV flashlight or else he’ll end your game.",
