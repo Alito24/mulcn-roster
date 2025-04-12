@@ -75,6 +75,11 @@ const sections = [
         bannerImage: "banners/fnac.png"
     },
     {
+        id: "fntr",
+        name: "Five Nights To Remember",
+        bannerImage: "banners/fntr.png"
+    },
+    {
         id: "funko",
         name: "Funko",
         bannerImage: "banners/funko.png"
