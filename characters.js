@@ -749,4 +749,142 @@ const characters = [
         description: "Your cursor will be given a stamina meter and an icon of SCP-109 will be at the bottom of the screen. If you start slowing down, click on SCP-109 to drink from it and relieve energy. If you try to drink SCP-109 while you're out of stamina entirely, you'll get sick and throw up while distorting visuals appear on your screen for the duration of your vomiting.",
         section: "scp"
     },
+    {
+        name: "Rush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/Rush_Revamp.png",
+        description: "When the office lights flicker, that means Rush is coming. Quickly put on the mask and wait for it to pass before taking off the mask. If you don't put on the mask in time, you'll be jumpscared.",
+        section: "doors"
+    },
+    {
+        name: "Hide",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9a/Hide_Revamp.webp",
+        description: "It'll start to appear when the mask is kept up for too long, flashing images on your screen. Simply take the mask off to stop it. If you ignore its warnings for too long, it'll kick you out of the mask anyways and fill the toxic meter by 65%.",
+        section: "doors"
+    },
+    {
+        name: "Seek",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/93/Seek_Resize.webp",
+        description: "At the end of the night, Seek will chase you throughout the building. Avoid the many obstacles scattered throughout the building, including fallen props and fires in the buildings to reach the exit and win the night. If it reaches you, a jumpscare is all you should expect.",
+        section: "doors"
+    },
+    {
+        name: "Figure",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/61/Figure_Resize.webp",
+        description: "When it growls, that means it has appeared in the power room on Floor 7. When that happens, do not have any percentage of the noise meter filled while viewing said floor, or he'll rush to the elevator and jumpscare you.",
+        section: "doors"
+    },
+    {
+        name: "Screech",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/15/Screech_Remake.png",
+        description: "When you hear it make it's 'Psst' sound, that means it's appeared in the light system. Quickly find it on the light system and shine the light on it to make it disappear. If it sticks around for too long, it'll jumpscare you, not killing you but increasing the toxic meter by 25%.",
+        section: "doors"
+    },
+    {
+        name: "Halt",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e8/Halt_Resize.webp",
+        description: "It'll occasionally appear on either the left and right side of the office. If it appears on the left, keep your cursor on the right. If it's on the right, keep the cursor on the left. If you keep your cursor on its side for too long, it'll fill up the toxic meter by 50%.",
+        section: "doors"
+    },
+    {
+        name: "Timothy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/Timothy_Resize.webp",
+        description: "It has a chance to appear on any system and on any floor and any camera. If it does, it'll jumpscare you, filling the toxic meter by 10%.",
+        section: "doors"
+    },
+    {
+        name: "Jeff The Killer NPC",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a3/Heknowsyourcrimes.png",
+        description: "Jeff The Killer will bide in your office, counting how many crimes you've done so far in the night (Like closing the doors/vents when theres nobody to close off, or accidentally using the mask when there's nobody to trick.) And when 7 crimes have been committed, he'll give you a riddle to solve, if you fail the riddle, he'll stab you, increasing the Toxic Meter by 75%.",
+        section: "doors"
+    },
+    {
+        name: "Bob",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/Bob.png",
+        description: "He will be sitting on the Balcony on Floor 8, just chilling. You can interact with him by holding E on his camera, but nothing will happen.",
+        section: "doors"
+    },
+    {
+        name: "Glitch",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/71/Glitch.gif",
+        description: "If the Player Remains Motionless in the Office for an Extended Period of Time, Glitch will Jumpscare them, Filling up the Toxic Meter by a lot.",
+        section: "doors"
+    },
+    {
+        name: "El Goblino",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/El_Goblino.png",
+        description: "Due to his insatiable greed for gold, he has made Fazcoins more rare to find! Survive the night to win!",
+        section: "doors"
+    },
+    {
+        name: "Jack",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Jack.png",
+        description: "Randomly upon putting on the Mask, Jack will jumpscare you. While it's jumpscare is not lethal, it forces the Mask off, potentially causing you to die.",
+        section: "doors"
+    },
+    {
+        name: "Guiding Light",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/37/Guiding_Light.png",
+        description: "After Dying with Guiding Light Active, it will give you a Tip on how to not get Killed by certain Enemies.",
+        section: "doors"
+    },
+    {
+        name: "Ambush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Ambush.png",
+        description: "When you hear Ambush's sounds, quickly put on the Mask. Once Ambush reaches the Office, it will dash back and forth multiple times before finally disappearing. If the Mask is off at any point while Ambush is in the Office, you will die.",
+        section: "doors"
+    },
+    {
+        name: "Circuit Breaker Puzzle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4f/Circuit_breaker.png",
+        description: "It will be on the wall in the Light System. Solve the puzzle before 5AM or your screen will be pitch black for the remaining hour!",
+        section: "doors"
+    },
+    {
+        name: "Dread",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/Dread.png",
+        description: "Staying on a Floor for too long will trigger Dread to spawn. Its kill timer is 10 seconds. Turn on All-Off mode for 5 seconds to make it fade away.",
+        section: "doors"
+    },
+    {
+        name: "Dupe",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7f/Dupe.png",
+        description: "Occasionally, the number on a Floor button will be different than what it normally is. Press and hold the 'Report' button until the number is back to normal before it's too late.",
+        section: "doors"
+    },
+    {
+        name: "Eyes",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ae/Eyes_icon.png",
+        description: "When Switching Cameras, Eyes can Suddenly Appear. You must either Switch Cameras or Pull the Monitor Down. If you Stare at Eyes, it will Begin to Rapidly Fill the Toxic Meter until you either Look Away or Die.",
+        section: "doors"
+    },
+    {
+        name: "Shadow",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/Shadow.png",
+        description: "Randomly upon lowering the Monitor, Shadow will appear and flicker the office lights for a few seconds.",
+        section: "doors"
+    },
+    {
+        name: "Shadow",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/Shadow.png",
+        description: "Randomly upon lowering the Monitor, Shadow will appear and flicker the office lights for a few seconds.",
+        section: "doors"
+    },
+    {
+        name: "Jeff",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Jeff.png",
+        description: "At 3AM, Jeff will Appear and Give the Player Helpful Boosts. Each Boost Costs a Different Amount of Faz-Coins to Purchase. After 3AM Ends, both Jeff and his Shop will Disappear for the Rest of the Night.",
+        section: "doors"
+    },
+    {
+        name: "Gloombats",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/Gloombats.png",
+        description: "One will spawn everytime you turn on the Flashlight or Straplight. It will fly towards your mouse cursor at a speed depending on its AI level for 2 seconds before giving up on you. Letting your mouse cursor hit one will take away 1 HP. They can't spawn while the Power A/C is on.",
+        section: "doors"
+    },
+    {
+        name: "Void",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Void.png",
+        description: "If time is stopped by a character for too long, Void will attack, dealing 20-40 damage to the HP bar.",
+        section: "doors"
+    },
 ];
