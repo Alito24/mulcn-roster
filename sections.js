@@ -135,8 +135,8 @@ const sections = [
         bannerImage: "banners/oo.webp"
     },
     {
-        id: "umulcnr",
-        name: "Unofficial Multiverse Custom Night Roster",
-        bannerImage: "banners/umulcnr.png"
+        id: "wiki",
+        name: "Multiverse Custom Night Wiki",
+        bannerImage: "banners/wiki.png"
     },
 ];
