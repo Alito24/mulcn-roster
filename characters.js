@@ -1481,4 +1481,34 @@ const characters = [
         description: "If Fredbear spawns in your office, you'll need to go the left hall camera on F1 and find the Freddy poster. Once you find it, you need to click it until it turns into a missing texture, then Fredbear will go away. If you fail to do this, then you'll die!",
         section: "oo"
     },
+    {
+        name: "Alito24",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Alito24.png",
+        description: "Sometimes one of the floor buttons will be replaced with themselves. If you click a floor button that they are covering then they will jumpscare you and add a new threat into your night, but don't worry as you can get rid of the new nuisance by looking though the floor that Alito24 was on and looking though the cameras for the characters AI Value, quickly set the Value to 0 by using the down arrow next to the number. If you are not quickly enough then that new threat will find you and end your night with a jumpscare! Game over.",
+        section: "wiki"
+    },
+    {
+        name: "Maundeplays",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/Maundeplays_Revamp.webp",
+        description: "Maunde will be sitting in the Master Storage Room on Floor 8, wearing a VR headset and being strapped to a machine (said machine being the MMN simulation). You'll have to get her out of her trance before something comes to get her! You'll be able to purchase a pair of wirecutters on the Task System, and use them to disconnect Maunde from the machine! Once she does, she'll give you some extra fazcoins. If you don't get her out by the end of the night, He will kill you!",
+        section: "wiki"
+    },
+    {
+        name: "Number1GrimFoxyFan",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2c/Number1GrimFoxyFan_%28Revamp%29.png",
+        description: "He will not stop gushing about Grimm Foxy despite being a variant of him. You must lure him to Grimm Foxy on the GPS System to make him stay near him, which raises a happiness meter on top of his icon. However, Grimm Foxy is very non-social and likes to move away from him as much as possible. Keep GrimFoxyFan near Grimm Foxy to raise his happiness, or he will jumpscare you in anger for not meeting his idol!",
+        section: "wiki"
+    },
+    {
+        name: "GrugMoment123",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/44/GrugMoment123.png",
+        description: "Once activated into the night, Grug will show up (Duh). Due to his status as the creator of the game, he is able to randomly activate a random character, in a random AI level, or he will remove a character, at a random point in the night, at ANY time. This means that the entire roster will randomly shift characters and AI in random points to your night. You cannot stop this at all!",
+        section: "wiki"
+    },
+    {
+        name: "Derpyguy205",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ad/Derpyguy205.webp",
+        description: "He is haunting the Child's Bedroom, randomly showing up in that camera now and then. Avoid looking at him before he causes a blackout with a non-lethal jumpscare",
+        section: "wiki"
+    },
 ];
