@@ -1751,4 +1751,112 @@ const characters = [
         description: "Their hook will descend from the ceiling of the office (indicated by a distorted version of Foxy's hum). The player must click on Oxy's hook to send them back, in order to prevent him from jumpscaring them, which they will do if the hook descends too much.",
         section: "fnaf1r"
     },
+    {
+        name: "Movie Skeleton",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/ba/Movie_Skeleton_%28Minecraft%29.png",
+        description: "It will be shooting flaming arrows at you whenever you have the Power Generator active. Getting hit by one will raise the temperature by 10% and also cause you to lose 5 HP from the HP bar. If your HP goes to 0, it's game over.",
+        section: "mc"
+    },
+    {
+        name: "Movie Steve",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2f/JackBlack.png",
+        description: "Movie Steve will be with you the entire night, guiding you along the way. Occasionally, he'll say a line from his famous movie 'A Minecraft Movie' which will correlate to something that is happening. 'Chicken Jockey!': A Chicken Jockey has appeared and you have to fight it to move on, similar to Mini-P. 'Flint and Steel!': Fire will appear on the screen and rapidly spread and raise the temperature, click on the fire to stomp it out. 'An Ender Pearl': An ender pearl will fall from the top of the screen and if it hits the bottom, it'll randomize your floor and camera your looking at. Click on it to grab it before it touches the bottom. 'This, is a Crafting Table!': For the next hour, clicking on your systems will not fix them. Instead, you need to grab ingredients from the camera you're looking at and craft your broken system again to repair it.",
+        section: "mc"
+    },
+    {
+        name: "Glowstone",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5a/GlowstoneBlock.png",
+        description: "Floor 1 is completely in darkness! Exactly like Floor 2, but you don't have nothing to illuminate. Almost, because Glowstone is there, to glow. Yeah. You can click and drag it to illuminate the Floor 1.",
+        section: "mc"
+    },
+    {
+        name: "Grass Block",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/ba/MC_Grass_Block.png",
+        description: "That's the main face of Minecraft! To maintain its glory you must constantly hydrate it to prevent its beautiful layer of grass from disappearing and transforming into a simple block of common dirt. You can use the bucket filled with water conveniently placed in your office for this. If you let it dehydrate, it will kill you for it.",
+        section: "mc"
+    },
+    {
+        name: "Skeleton",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f6/Skeleton_%28Minecraft%29.png",
+        description: "The skeleton will be shooting arrows on the Light System. If they hit your cursor, you will lose 5 HP from the HP bar. If your HP goes to 0, the Skeleton will kill you. Alternatively, you can shine the Light System's flashlight directly onto the Skeleton, burning him to death. Unfortunately, since it is dead now, half of its point value will be subtracted from the night.",
+        section: "mc"
+    },
+    {
+        name: "Animal Gang",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Animal_Gang.png",
+        description: "All of the animals (apart from the Cod who is on the aquarium camera on Floor 4) will be in the Jungle Room on Floor 8. When you hear one of them make a dying sound, go into the Task System and click on the corresponding mob's spawn egg to bring them back. If all of them die, they will all spawn back in and kill you.",
+        section: "mc"
+    },
+    {
+        name: "Minecraft Lord Shen",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fb/Minecraft_Lord_Shen.png",
+        description: "He is plotting a plan to take over the entire building. He will be leading an army of wolves and a whole stockpile of cannons in the GPS System. Click on the wolves to drive them back, and use the forcefield to reflect the cannons to Lord Shen. Failure to beat him before 6:AM will result in death.",
+        section: "mc"
+    },
+    {
+        name: "Diamond Sword",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0f/Diamond_Sword_Resize.webp",
+        description: "Occasionally a Zombie will appear in a hallway from Floor 4. Quickly click X to swing the sword to kill the zombie, or they will kill you with their own diamond swords.",
+        section: "mc"
+    },
+    {
+        name: "Minecraft Miss Circle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f4/Minecraft_Miss_Circle.webp",
+        description: "She will build a wall of blocks blocking the view of 5 cameras on Floor 8. If you wish to get rid of them go to the Prize Counter and buy the Maga TNT Block for 1 Red Rupee to completely get rid of all the blocks!",
+        section: "mc"
+    },
+    {
+        name: "Minecraft Miss Circle 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/75/Minecraft_Miss_Circle_2.webp",
+        description: "She will appear in your office four times per night. If she happens to appear in your office, you will need to give her a Oreo. To give her an Oreo, press the E key on your keyboard to give her the Oreo, afterwards she will leave. If you pull up the monitor while she's in the office, she will kill you!",
+        section: "mc"
+    },
+    {
+        name: "Blaze",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bd/Blaze.png",
+        description: "At 2 AM and 4 AM, a Blaze will spawn on either side of your screen, shooting fireballs in a linear direction. If the fireballs hit your cursor, it will make your temperature rise by AI degrees. If you ever get hit by a fireball and your temperature goes over 120 degrees, you will burn to death.",
+        section: "mc"
+    },
+    {
+        name: "Creeper",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/Creeper.webp",
+        description: "He can appear at your left or right sides of the office. Make sure your cursor isn't around him for too long as he'll start to puff up and explode resulting in death.",
+        section: "mc"
+    },
+    {
+        name: "Witch",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d4/Minecraft_Witch.webp",
+        description: "At 3:AM, the witch will appear, and 4 potions will rapidly randomize in front of you. You have to click on the potions in order to not get jumpscared by the witch before 4:AM. However, each potion has a negative affect which will hinder your night. Poison Potion: Your toxic meter will rise up slowly, you cannot prevent this. Slowness Potion: The camera and office movement speed is decreased.  Weakness Potion: Your power will become 50% and the temperature will randomly reset to 60% or 120%. Damage Potion: Non-lethal jumpscares can now actually kill you.",
+        section: "mc"
+    },
+    {
+        name: "Elder Guardian",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3e/Elder_Guardian.webp",
+        description: "From time to time, he will jumpscare you, resulting in some things being slowed down. This effect goes away after a few seconds.",
+        section: "mc"
+    },
+    {
+        name: "Guardian",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/35/Guardian.webp",
+        description: "They will occassionally perform a vertical laser attack at your cursor. It takes (2-(AI/20)) seconds for it to charge up. Letting your cursor hit the beam will cause 'Clicking Fatigue' for a whole hour, which means that every action that requires a single click will now require a double click.",
+        section: "mc"
+    },
+    {
+        name: "Enderman",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f0/Enderman.webp",
+        description: "He will appear in your office. If your cursor touches him, he'll teleport to a different location in your office. There is a bar next to him. Each time he teleports the bar goes down. It refills overtime unless it's empty. If it's empty you will die.",
+        section: "mc"
+    },
+    {
+        name: "Yellow Minecraft Yoshi",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Yellow_Minecraft_Yoshi_Resize.webp",
+        description: "He will be streaming games In the Master Storage Room on Floor 8. Make sure your internet is high enough so the game doesn’t buffer. If the game buffers and he is left waiting for too long, he will start blowing aggressively into his mic, raising the noise meter by 2 bars.",
+        section: "mc"
+    },
+    {
+        name: "Zombie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e5/Minecraft_Zombie.webp",
+        description: "They will occasionally show up in both Doorways, in which you need to use the Fazblaster to send them away. Failure to do so will result in death.",
+        section: "mc"
+    },
 ];
