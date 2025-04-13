@@ -600,6 +600,72 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Ultra Mono Freddy Mask",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/Ultra_Mono_Freddy_Mask.png",
+        description: "You can't see your meters while using the mask.",
+        section: "ulcn"
+    },
+    {
+        name: "Bromine",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fd/Bromine.webp",
+        description: "The toxic meter is now red-brown. The capacity of the oxygen meter is reduced by the amount of current toxicity, capping at 50 % of its normal capacity.",
+        section: "ulcn"
+    },
+    {
+        name: "Adventure Funtime Blood Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/Funtime_Blood_Puppet.webp",
+        description: "He will be in The Graveyard on Floor 5 trying to start a campfire and you need to help him. Help him by cutting down (AI level/2) trees on the Lumber Co. floor where every time you cut down a tree it will give Funtime Blood Puppet wood to put into the fire. After giving him enough wood his campfire will finally start which will make him happy. If his campfire fails to start by 4:AM he will get sad, then he'll blame it on you! (Death).",
+        section: "ulcn"
+    },
+    {
+        name: "Negate Rainbow Plushbabies",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c1/Negate_Rainbow_Plushbabies.webp",
+        description: "Every time you go into the Light System, another one spawns on it. If too many spawn, or there are less than 5 of them at 5:AM, they will jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Negate Rainbow Totem Panic",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Totem_Panic_Negate_Rainbow.webp",
+        description: "When his loud ambience song starts playing, that means he will attack and turn back time to one hour before! You need to go to one of the closets in Floor 4 and drag his pieces to build him to avoid his attack.",
+        section: "ulcn"
+    },
+    {
+        name: "Neon Emerald Toy Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d4/Neon_Emerald_Toy_Chica.webp",
+        description: "Neon Emerald Toy Chica will go through the Vent System. She can bypass the Vent Snare and the vent door. Your only defense is to use the Lever right next to the vent to make her go back.",
+        section: "ulcn"
+    },
+    {
+        name: "Neon Emerald Toy Chica V2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4e/NETC_Resize.png",
+        description: "She will wander around the 3rd floor, avoid using an Audio Lure on her, or else she will go down to your office, and you will have to put on your mask.",
+        section: "ulcn"
+    },
+    {
+        name: "Neon Totem Panic",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/31/Neon_Totem_Panic.webp",
+        description: "He will be having a rave party in the Master Bedroom on Floor 5, unfortunately it's so loud, you can hear it in the office. You need to pull the lever in the office to cut the power and end the party, or you'll have a thumping headache by 4:AM.",
+        section: "ulcn"
+    },
+    {
+        name: "Abominable Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4e/NETC_Resize.png",
+        description: "Abominable Toy Freddy will appear in the Ice Caverns on Floor 7, indicated by him growling. If he escapes into Santa's Workshop, turn on the Heater to drive him back. If he gets in, it's game over.",
+        section: "ulcn"
+    },
+    {
+        name: "Amber Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c6/Amber_Freddy.webp",
+        description: "He is encased in a carbonate of amber in the Prop Storage camera in Floor 4. If you use the heater for too long, the amber will melt, making some of your modes sticky, thus making it so that you have to press a mode button twice to turn it on. If the amber carbonate fully melts all the way, he will kill you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bad Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e6/Bad_Freddy_Resize.png",
+        description: "If you have the Power A/C activated for a long time, it will appear in the YouTube System and cover your screen, leaving the floor unusable! To make him quit, you need to Spam-Click his nose!",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
