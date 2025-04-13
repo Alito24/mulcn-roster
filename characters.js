@@ -1676,7 +1676,7 @@ const characters = [
     {
         name: "Golden Chungus",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Golden_Chungus.webp",
-        description: "He will appear in your office at random with hallucinations. Quickly type "GC" to get him away, or you will get jumpscared.",
+        description: "He will appear in your office at random with hallucinations. Quickly type 'GC' to get him away, or you will get jumpscared.",
         section: "oo"
     },
     {
