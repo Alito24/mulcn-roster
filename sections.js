@@ -155,8 +155,8 @@ const sections = [
         bannerImage: "banners/wiki.png"
     },
     {
-        id: "lol",
+        id: "wmtc",
         name: "Who made this character?",
-        bannerImage: "https://i.imgflip.com/9qoxry.jpg"
+        bannerImage: "banners/wmtc.png"
     },
 ];
