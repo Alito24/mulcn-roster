@@ -517,7 +517,7 @@ const characters = [
     },
     {
         name: "Action Figure Nightmare Bonnie",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Action_Figure_Lefty.png",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cd/Action_Figure_Nightmare_Bonnie.png",
         description: "He will be trying to obtain 20/20 vision! Unfortunately, 2020 has already happened, and if he obtains it, it will cause the collapse of time itself! To prevent this from happening, collect his Nightmarionne arm on Floor 4 to take away his obsession of vision.",
         section: "funko"
     },
