@@ -135,6 +135,11 @@ const sections = [
         bannerImage: "banners/axhw.png"
     },
     {
+        id: "mc",
+        name: "Minecraft",
+        bannerImage: "banners/mc.webp"
+    },
+    {
         id: "yt",
         name: "YouTube",
         bannerImage: "banners/yt.png"
