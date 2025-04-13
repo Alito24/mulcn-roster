@@ -649,7 +649,7 @@ const characters = [
     },
     {
         name: "Abominable Toy Freddy",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4e/NETC_Resize.png",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Abominable_Toy_Freddy.webp",
         description: "Abominable Toy Freddy will appear in the Ice Caverns on Floor 7, indicated by him growling. If he escapes into Santa's Workshop, turn on the Heater to drive him back. If he gets in, it's game over.",
         section: "ulcn"
     },
