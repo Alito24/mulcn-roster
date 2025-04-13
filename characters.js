@@ -1607,4 +1607,28 @@ const characters = [
         description: "He is haunting the Child's Bedroom, randomly showing up in that camera now and then. Avoid looking at him before he causes a blackout with a non-lethal jumpscare",
         section: "wiki"
     },
+    {
+        name: "Fun Bear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/Fun_Bear.png",
+        description: "He has three separate ways he can attack you, changing how he attacks each time he does: 1. He will laugh, forcing you to track down what Floor 5 camera is on and stare him down to get him to leave. 2. He will appear directly in front of you in the Office. Stare him down to get him to disappear. 3. He will make a keypad descend from the ceiling of the Office. You will have to pay attention of the order of which the keys flash, and input that code again to avoid death.",
+        section: "fnaf1r"
+    },
+    {
+        name: "Bonny",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/28/Bonny.png",
+        description: "He will appear in one of the office doorways, you must close the correct door on him to survive. However, the keybinds and monitor buttons of the doors will not work anymore, and you will have to drag the doors down to close them.",
+        section: "fnaf1r"
+    },
+    {
+        name: "Buddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0d/Buddy.png",
+        description: "He will occasionally cause a virus to appear in the form of a pop-up on a random camera, in which the player will need to close the pop-up quickly, or else it will completely drain the power. He will also cause one of the TVs in the office to turn on, in which the player will need to click on them to turn them off, or they'll start to drain the power quickly.",
+        section: "fnaf1r"
+    },
+    {
+        name: "Oxy Pirate",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b6/Oxy_Pirate.png",
+        description: "Their hook will descend from the ceiling of the office (indicated by a distorted version of Foxy's hum). The player must click on Oxy's hook to send them back, in order to prevent him from jumpscaring them, which they will do if the hook descends too much.",
+        section: "fnaf1r"
+    },
 ];
