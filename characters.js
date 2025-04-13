@@ -1644,6 +1644,60 @@ const characters = [
         section: "oo"
     },
     {
+        name: "Cardboard Freddy Mask",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/84/Cardboard_Freddy_Mask.png",
+        description: "The mask is possessed which will make it levitate. When it appears in your office use the Pizza Cutter to cut the mask in half to release the spirit otherwise it will take (AI level/3) amount of power.",
+        section: "oo"
+    },
+    {
+        name: "Nightmare Flipbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6d/Nightmare_Flipbear.png",
+        description: "He is invisible to the cameras and can only be seen once he reaches your doorways. Once he's there, he'll teleport to one of the doorways you're looking at, if you stare it him for too long, he'll kill you! Flip-flop between each doorway until he eventually goes away.",
+        section: "oo"
+    },
+    {
+        name: "Plush Based Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c3/Plush_Based_Mangle.webp",
+        description: "She can appear in one of the two vents in Floor 2. While there you can faintly hear her usual garble sounds. Put on the mask until she goes away otherwise she'll get in and kill you.",
+        section: "oo"
+    },
+    {
+        name: "Stretched Virtual Bucket Bob",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a1/Svbb.png",
+        description: "When the temperature is way too high, he will appear and become stretched and disable your mask. To get rid of him, use the flashlight to make him leave.",
+        section: "oo"
+    },
+    {
+        name: "Proxy Blacklight Foxy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Proxy_Blacklight_Foxy_2.png",
+        description: "He'll be waiting for the release of Multiverse Custom Night. But he doesn't want to ask when it will come out, so he'll just be waiting for the game to release before he thinks about anything else. So i guess you get free points for now.",
+        section: "oo"
+    },
+    {
+        name: "Golden Chungus",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Golden_Chungus.webp",
+        description: "He will appear in your office at random with hallucinations. Quickly type "GC" to get him away, or you will get jumpscared.",
+        section: "oo"
+    },
+    {
+        name: "Adventure Stuffed Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/Adventure_Stuffed_Freddy.png",
+        description: "He'll be sitting in the Master Storage Room camera on Floor 8. Sometimes he'll stand up and weird garbled sounds will start playing. On that camera, there will be an Emotional State button. When clicked, the 'Run Memories' program will start. An image alongside text will start to appear, cycling through good and bad memories. Wait until you find a 'good memory' and press the 'Lock Memory' button to lock it in. Afterwards Adventure Stuffed Freddy will be at ease. Otherwise death is what you should expect.",
+        section: "oo"
+    },
+    {
+        name: "Chroma Blue Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1d/ChromaBlueFreddyProfilePic.png",
+        description: "When Chroma Blue Freddy appears in your office, he will slowly start turning your office chroma blue. If the office becomes fully chroma blue, you die. When he appears, one of the modes will be highlighted. You must switch to the highlighted mode. The chroma blue effect goes away slowly while the correct mode is active. The highlighted mode can never be the same one twice in a row.",
+        section: "oo"
+    },
+    {
+        name: "The Averaged",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/41/The_averaged_icon.png",
+        description: "When they attack, they will use one of 12 mechanics, which are slightly modified versions of mechanics from the original Ultimate Custom Night. The mugshot image of the original animatronic associated with the active mechanic will appear in the top-left corner of the screen, providing a visual cue for the player. This will help the player quickly identify which mechanic they need to handle. If the mechanic succeeds (only for non-lethal jumpscares, mechanics, and attacks), fails to reach the player, or takes too long to act, they will switch to a different mechanic for their next attack. The mechanics that can be used are: 1. They approach from the left hall. Keep track of them on the monitor and shut the door when they are standing in the doorway. They move faster as the building gets warmer. 2. While they don't care if the music box is wound up, they can grow tired of the selection playing. When the sound of pots and pans stops, you only have a short amount of time to change the music. The Global Music Box can also soothe them. 3. Put on your Freddy Fazbear mask quickly when they sneak into your room to fool them and make them go away. 4. They navigate through the vents, attempting to reach the opening. If they get there, they will jumpscare you. Use the vent-snare to stop them. 5. They will occasionally appear in your office. Throw on your Freddy mask or pull up your monitor quickly to cause them to disappear. 6. When you see them on your monitor, quickly close it or change the cam, otherwise they will jumpscare you and create an audio disturbance. 7. They are invisible to the cameras and can only be seen when they reach your right or left doorway. Close the door on their face to send them back into the darkness! 8. Don't let your mouse cursor linger over them for too long! 9. They make their way toward your office using the air ducts. Use the audio-lure to hold them in place, or the heater to push them back. 10. Check the left and right hallways, then place the wet-floor sign on the same side as them. They won't enter if the sign is in place. 11. They become active from noise and heat. They are too far away from the music box to be soothed by it, but the global music box can calm them down. 12. When they call, quickly mute them, otherwise it will create a lengthy audio disturbance. The mute button will appear in different places each time.",
+        section: "oo"
+    },
+    {
         name: "Alito24",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Alito24.png",
         description: "Sometimes one of the floor buttons will be replaced with themselves. If you click a floor button that they are covering then they will jumpscare you and add a new threat into your night, but don't worry as you can get rid of the new nuisance by looking though the floor that Alito24 was on and looking though the cameras for the characters AI Value, quickly set the Value to 0 by using the down arrow next to the number. If you are not quickly enough then that new threat will find you and end your night with a jumpscare! Game over.",
