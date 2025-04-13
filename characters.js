@@ -474,6 +474,186 @@ const characters = [
         section: "funko"
     },
     {
+        name: "Glow Toxic Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/84/Glow_Toxic_Springtrap.webp",
+        description: "Green slugs will move all across your screen for the entire night, starting at the top right of the screen. If your cursor touches too many of them, Glow Toxic Springtrap will kill you!",
+        section: "funko"
+    },
+    {
+        name: "Glow Orville Elephant",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b1/GlowOrvilleElephant.png",
+        description: "He'll start to fade into the office whenever the Shakelight is being used. Use the Silent Ventilation to make him fade back out. If he fully fades in, he'll jumpscare you, and take a percentage of power depending on how long the Shakelight was used.",
+        section: "funko"
+    },
+    {
+        name: "Blacklight Roxanne Wolf",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/Blacklight_Roxanne.png",
+        description: "She will appear in Party Room B and will quickly get up to leave the room, and into the office. When she is in your office, use the Fazer-Baster or Faz-Cam to send her away! The Silent Ventilation slows her down.",
+        section: "funko"
+    },
+    {
+        name: "Action Figure Black Heart Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/Action_Figure_Blackheart_Bonnie.png",
+        description: "When you hear his loud heartbeat, use the UV Flashlight to reveal his heart in a doorway. If his eyes appear instead, close the door, or he'll take your own heart!",
+        section: "funko"
+    },
+    {
+        name: "Action Figure Dreadbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Action_Figure_Dreadbear.webp",
+        description: "He'll appear on any camera on Floor 3. When he does, stare at him to make him disappear. If you switch the cameras too much, he'll destroy the last camera he was on.",
+        section: "funko"
+    },
+    {
+        name: "Action Figure Glow Rockstar Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/Action_Figure_Glow_Rockstar_Freddy.png",
+        description: "A piece of him will fall off every ingame hour. Find the piece in the Task System. If you don't collect the piece by the next hour, Action Figure Glow Rockstar Freddy will attack you.",
+        section: "funko"
+    },
+    {
+        name: "Action Figure Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Action_Figure_Lefty.png",
+        description: "The more noise is being made, the more often he will show up in a random Floor 2 camera. Simply shine your light at him before he jumpscares you.",
+        section: "funko"
+    },
+    {
+        name: "Action Figure Nightmare Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Action_Figure_Lefty.png",
+        description: "He will be trying to obtain 20/20 vision! Unfortunately, 2020 has already happened, and if he obtains it, it will cause the collapse of time itself! To prevent this from happening, collect his Nightmarionne arm on Floor 4 to take away his obsession of vision.",
+        section: "funko"
+    },
+    {
+        name: "Balloon Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b6/Balloon_Bonnie.webp",
+        description: "If the left door is open for too long, he’ll send out his balloon. When you see it in your office, use the pizza-cutter to get rid of it or else Balloon Bonnie will jumpscare you! The Power A/C makes the chances of the balloon appearing more.",
+        section: "funko"
+    },
+    {
+        name: "Balloon Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c8/Balloon_Chica.webp",
+        description: "If the right door is open for too long, she’ll send out her balloon. When you see it in your office, use the pizza-cutter to get rid of it or else Balloon Chica will jumpscare you! The heater makes the chances of the balloon appearing more.",
+        section: "funko"
+    },
+    {
+        name: "Balloon Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f9/Balloon_Foxy.webp",
+        description: "If the front vent door is open for too long, he’ll send out his balloon. When you see it in your office, use the pizza-cutter to get rid of it or else Balloon Foxy will jumpscare you! The Silent Ventilation makes the chances of the balloon appearing more.",
+        section: "funko"
+    },
+    {
+        name: "Balloon Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a8/Balloon_Freddy.webp",
+        description: "If the right vent door is open for too long, he’ll send out his balloon. When you see it in your office, use the pizza-cutter to get rid of it or else Balloon Freddy will jumpscare you! The power generator makes the chances of the balloon appearing more.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Tie-Dye_Bonnie.webp",
+        description: "When he enters your office, you have to type 'Tie Dye' in the textbox that appears on top of him to make him go away.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Bonnie Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8b/Tie-Dye_Bonnie_Plush.webp",
+        description: "He’ll be in the GPS system with a meter on top of him. The power generator will charge the meter and the heater will wind it down. If it fills up, he’ll run to the player and end the night.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4f/Tie-Dye_Chica.webp",
+        description: "Once activated into the night, The Lumber Co. floor will be covered in yellow tie-dye colored mist. There's no way to stop this.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Chica Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Tie-Dye_Chica_Plush.webp",
+        description: "She might be seen when looking through the light system. When this happens, quickly use the Faz-Cam in your office to get rid of her.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4b/Tie-Dye_Cupcake.webp",
+        description: "The longer the cameras are up, the more chance of him appearing on your desk increases. When he’s there, he will replace your UV flashlight with the normal flashlight until you drop down from the cameras for several seconds.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/49/Tie-Dye_Foxy_Resize.webp",
+        description: "Thrice per night, he will try to pick a fight with you in the Fury Rage floor. After beating him, he will become a sore loser and will cause one of the systems to malfunction. Use the controlled shock in your office by the number of times you fought him to prevent that from happening.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Foxy Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/54/Tie-Dye_Foxy_Plush.webp",
+        description: "Whenever a system goes out, he’ll run into your office. Shine the UV flashlight in his face to fed him off.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Freddy Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/17/Tie-Dye_Freddy_Plush.webp",
+        description: "When you see him in your office, click an 8-bit version of him on the Task System to make him go back before he kills you! The 8-bit version will go move at random spots each second.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Funtime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/Tie-Dye_Funtime_Foxy.webp",
+        description: "Her tie-dye fog will start to block the view of the Task System. Turn on the fan or the Power A/C to get rid of it. If the entire system is fully fogged up, he'll jumpscare you.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Mangle Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b5/Tie-Dye_Mangle_Plush.webp",
+        description: "She will start in Kids’ Cove and slowly get up. When he does, she’ll get into the elevator and make non-stop static, rising the noise meter. Look at the monitor to get rid of him.",
+        section: "funko"
+    },
+    {
+        name: "Tie-Dye Springtrap Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d3/Tie-Dye_Springtrap_Plush.webp",
+        description: "He’ll start in Floor 4 and make his way towards the elevator. When he goes into the office, he won’t be visible. Use the Faz-Cam to get rid of him.",
+        section: "funko"
+    },
+    {
+        name: "Toon Balloon Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3d/Toon_Balloon_Foxy_Revamp.png",
+        description: "When he appears one of the Televisions by the front wall. You need to change the channel to get rid of him. If you leave him there for too long, he'll disable your comments section on the YouTube System.",
+        section: "funko"
+    },
+    {
+        name: "Funko Livewire Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7d/Funko_Livewire.png",
+        description: "Due to Funko painting his eyes white, not green, he's blind. He got off the elevator on the wrong floor. He'll be roaming around Floor 7, and slowly make his way towards the Power Room. You need to use the Christmas Jukebox to lure him away, otherwise, he'll overload it, causing your office to go dark.",
+        section: "funko"
+    },
+    {
+        name: "Funko Phantom BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e6/Funko_Phantom_BB.webp",
+        description: "Sometimes Funko Phantom BB will show up in a random camera in Floor 3. If he is, use the audio lure onto him to get him away. If he stays there for too long, he jumpscares you, causing the ventilation to break.",
+        section: "funko"
+    },
+    {
+        name: "Funko POP Dark Blacklight Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e7/POP_Blacklight_Foxy.png",
+        description: "Due to his POP being on every child's list, he'll put the Toy Duplicator Machine into overdrive and make an army of himself. They'll march soulless towards you down the Festive Hallway on Floor 7. Turn on the Heater to melt them all. If they get in. The true Pop Dark Blacklight Foxy will make you into fish bait!",
+        section: "funko"
+    },
+    {
+        name: "Funko POP Dark Blacklight Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Funko_POP_DBF.webp",
+        description: "Due to his POP being on every child's list, he'll put the Toy Duplicator Machine into overdrive and make an army of himself. They'll march soulless towards you down the Festive Hallway on Floor 7. Shine the UV Flashlight into the Forward Vent to blind them all. If they get in. The true Pop Dark Blacklight Freddy will give you his bear hug of death!",
+        section: "funko"
+    },
+    {
+        name: "Funko Pop TV Lolbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/TV_Lolbit.webp",
+        description: "They will replace the middle television in the office. When it turns on, garbled gibberish will emit from it. You need to type FUNKO FALL 2017 into the textbox in the Task System to turn it off.",
+        section: "funko"
+    },
+    {
+        name: "Funko Pop Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Funko_POP_WB.png",
+        description: "He will be in the Left Closet, being sad since he doesn’t have red eyes like the other cool Withered Bonnie variants. But controlled shocking him will make his eyes red. He will be so happy and start jumping up and down. But he has under estimated his weight and will crash to Floor 3. Now because the floor has a hole in it, the audio lures on Floor 3 will stop working. Not shocking him before 5:AM will result in death.",
+        section: "funko"
+    },
+    {
         name: "Digital Glow Nightmare Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/Digital_Glow_Nightmare_Foxy.png",
         description: "He will appear in your office at random points during the night. When he appears there will be two Nightmare Foxy's next to him. Use the Fazer-Blaster to shoot the one that's glowing.",
