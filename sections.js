@@ -75,11 +75,6 @@ const sections = [
         bannerImage: "banners/fnac.png"
     },
     {
-        id: "fntr",
-        name: "Five Nights To Remember",
-        bannerImage: "banners/fntr.png"
-    },
-    {
         id: "funko",
         name: "Funko",
         bannerImage: "banners/funko.png"
@@ -95,14 +90,24 @@ const sections = [
         bannerImage: "banners/ulcn.webp"
     },
     {
-        id: "bb",
-        name: "Baldi's Basics",
-        bannerImage: "banners/bb.webp"
+        id: "fntr",
+        name: "Five Nights To Remember",
+        bannerImage: "banners/fntr.png"
+    },
+    {
+        id: "fnaf1r",
+        name: "FNAF 1 Remake",
+        bannerImage: "banners/fnaf1r.png"
     },
     {
         id: "fnati",
         name: "Five Nights at Treasure Island",
         bannerImage: "banners/fnati.png"
+    },
+    {
+        id: "bb",
+        name: "Baldi's Basics",
+        bannerImage: "banners/bb.webp"
     },
     {
         id: "gmod",
