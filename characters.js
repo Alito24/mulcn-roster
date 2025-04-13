@@ -1752,6 +1752,12 @@ const characters = [
         section: "fnaf1r"
     },
     {
+        name: "Chick",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/95/Chick.png",
+        description: "Their teeth will slowly begin to close in on you, change the music on the Kitchen Camera on Floor 1 to make her jaws open and prevent her from killing you.",
+        section: "fnaf1r"
+    },
+    {
         name: "Movie Skeleton",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/ba/Movie_Skeleton_%28Minecraft%29.png",
         description: "It will be shooting flaming arrows at you whenever you have the Power Generator active. Getting hit by one will raise the temperature by 10% and also cause you to lose 5 HP from the HP bar. If your HP goes to 0, it's game over.",
