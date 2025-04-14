@@ -414,6 +414,48 @@ const characters = [
         section: "fnac"
     },
     {
+        name: "Minigame Shadow Candy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/MSCandy.png",
+        description: "He may appear while looking at the YouTube system, in which case you must look at the Maze system, and vice versa. Looking at any other system will result in a jumpscare.",
+        section: "fnac"
+    },
+    {
+        name: "Minigame Old Candy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2b/Minigame_Old_Candy.webp",
+        description: "A minigame will appear at the side of the screen involving Old Candy crossing platforms. Use the Arrow keys to control him. Failing the minigame will make you lose access to the Arcade Room in Floor 3 for 10 seconds.",
+        section: "fnac"
+    },
+    {
+        name: "Phantom Candy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/02/Phantom_Candy_Resize.webp",
+        description: "He will appear on a floor button, randomly switching for a couple of seconds. Clicking on the button he's on will make you get a ventilation and audio error.",
+        section: "fnac"
+    },
+    {
+        name: "Jumpscare RAT",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/33/Jumpscare_RAT.webp",
+        description: "It can appear on any camera that leads directly to the elevator. If he does, quickly shut the respective door to divert his attack. If he does get in, he'll do a non-lethal Jumpscare that inverts your screen for an in-game hour.",
+        section: "fnac"
+    },
+    {
+        name: "Withered Chester",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/83/Withered_Chester_Revamp.png",
+        description: "He will crawl through the vent system, in which using the vent snares will hold him back. However, he will instantly jumpscare you as soon as he reaches the vent opening.",
+        section: "fnac"
+    },
+    {
+        name: "Lollipop",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/87/Lollipop.webp",
+        description: "He will appear in the office when too much noise is being made. If he is on the left, type LOL to get rid of him. If he is on the right, type POP to get rid of him.",
+        section: "fnac"
+    },
+    {
+        name: "Monster Vinnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2e/Monster_Vinnie.webp",
+        description: "He will appear in both Floor 1 Hallways at random times. You must Light-Flash them to send him away. However, he will rapidly switch between the 2 cameras in order to avoid your attack. Failure to do so in a long time will result in death.",
+        section: "fnac"
+    },
+    {
         name: "Vision Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9e/Vision_Foxy.png",
         description: "If you hear humming it means Vision Foxy is about to run down one of two Halls (Left Hall or Right Hall) on Floor 1. Check either hall camera, and then pull down the camera and shine your flashlight on the doorway of the hall he's coming to until he goes away. If you do not look at the cam he's in or flash him quick enough, you will receive a fatal jumpscare.",
