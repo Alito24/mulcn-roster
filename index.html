@@ -137,6 +137,23 @@
         .hidden-link:hover {
             text-decoration: underline;
         }
+
+        .bottom-left-image {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            z-index: 1000;
+        }
+
+        .bottom-left-image img {
+            width: 40px; /* Adjust size as needed */
+            height: 40px; /* Adjust size as needed */
+            transition: transform 0.2s;
+        }
+
+        .bottom-left-image img:hover {
+            transform: scale(1.1); /* Slight grow effect on hover */
+        }
     </style>
 </head>
 <body>
