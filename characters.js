@@ -949,19 +949,19 @@ const characters = [
     },
     {
         name: "Inverted El Chip",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Funny_Face_Latex_Mask.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/21/Inverted_El_Chip.webp",
         description: "He's in the Basement, slowly filling the noise and toxic meters, as well as draining the internet and oxygen meters, but he can only drain one at a time. Click him to change which meter he is currently affecting.",
         section: "ulcn"
     },
     {
         name: "Insult Withered Freddy",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Funny_Face_Latex_Mask.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f0/InsultWFreddy.png",
         description: "Everything the Sea Bonnies said was true, not to you, but to Withered Freddy, he is an idiot. He failed High-School and now he's gotta retake a test to pass, and his final grade matches with your points, so if he fails, -500 points will be removed! To prevent this, help him study by training him and showing basic math equations on Window Room 1 on Floor 8. He'll begin his test at 5AM, just make sure you've made him study enough so that he can pass and add +500 points to your final point value!",
         section: "ulcn"
     },
     {
         name: "Jack-O-Mr. Hippo",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dc/Dark_Foxy%27s_Revenge.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a5/Jack-O-Mr_Hippo.webp",
         description: "He will travel through the left side of F4. He'll get mad whenever the office temperature is low, because it makes him cold. Keep the temperature high to prevent him from coming to your office and killing you.",
         section: "ulcn"
     },
