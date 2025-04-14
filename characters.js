@@ -924,6 +924,84 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Eggy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d3/Eggy.webp",
+        description: "Everytime you view the task system, an egg will be balancing on a wobbly wooden shelf. Use the right and left arrow keys to keep it steady so that the egg doesn't fall. If the egg falls, the animation time for all doors in the office will be doubled, making door timings need more precision.",
+        section: "ulcn"
+    },
+    {
+        name: "Dark Totem Panic 666",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/Dark_Totem_Panic_666.webp",
+        description: "His aura will slowly envelop your screen and he'll jumpscare you, if you have the Christmas Jukebox on the Christmas Floor on loud volume for too long. Turning it down or off, reverses his progression.",
+        section: "ulcn"
+    },
+    {
+        name: "Dark Foxy's Revenge",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dc/Dark_Foxy%27s_Revenge.webp",
+        description: "He's back and he wants revenge. He will make a lap around the first floor, starting at Funtime Cove and going through Pirate Cove, Left Hall and Right Hall. To make him move backwards, turn off the power generator. If he runs a full lap, you're removed from the game (Death).",
+        section: "ulcn"
+    },
+    {
+        name: "Funny Face Latex Mask",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Funny_Face_Latex_Mask.webp",
+        description: "He is in the Duct System, trying to sell you dank memes. His memes are very dank to the point where they give you nausea. Shut the corresponding Duct Door that he is going to, otherwise your vision will be slightly dizzy.",
+        section: "ulcn"
+    },
+    {
+        name: "Inverted El Chip",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Funny_Face_Latex_Mask.webp",
+        description: "He's in the Basement, slowly filling the noise and toxic meters, as well as draining the internet and oxygen meters, but he can only drain one at a time. Click him to change which meter he is currently affecting.",
+        section: "ulcn"
+    },
+    {
+        name: "Insult Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Funny_Face_Latex_Mask.webp",
+        description: "Everything the Sea Bonnies said was true, not to you, but to Withered Freddy, he is an idiot. He failed High-School and now he's gotta retake a test to pass, and his final grade matches with your points, so if he fails, -500 points will be removed! To prevent this, help him study by training him and showing basic math equations on Window Room 1 on Floor 8. He'll begin his test at 5AM, just make sure you've made him study enough so that he can pass and add +500 points to your final point value!",
+        section: "ulcn"
+    },
+    {
+        name: "Jack-O-Mr. Hippo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dc/Dark_Foxy%27s_Revenge.webp",
+        description: "He will travel through the left side of F4. He'll get mad whenever the office temperature is low, because it makes him cold. Keep the temperature high to prevent him from coming to your office and killing you.",
+        section: "ulcn"
+    },
+    {
+        name: "Mario Panic",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f7/MarioPanic.webp",
+        description: "A tube will be in your office during the whole night! You need to seal it up when Mario Panic starts talking to avoid Mario Panic appearing! You need to double-click the tube to seal it! If the tube isn't sealed, Mario Panic will appear in the tube and after that, Mario Panic will end your run with a jumpscare.",
+        section: "ulcn"
+    },
+    {
+        name: "Mario Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Mario_Toy_Freddy.webp",
+        description: "Once per night he will appear in your office and have Several Paragoomba's fly downwards towards the bottom of the screen. Avoid hitting them with your mouse until their all gone, unless you want to meet a. early demise.",
+        section: "ulcn"
+    },
+    {
+        name: "Miner 8-Bit Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/Miner_8-Bit_Baby.png",
+        description: "She is tunneling her way through the ground in search for diamonds. You need to use the Radio Jammer to stop her, otherwise the floor will collapse beneath you, burying you alive.",
+        section: "ulcn"
+    },
+    {
+        name: "Clicky",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/71/Clicky.webp",
+        description: "Every time you double click anywhere on the monitor screen, there is a chance that a Windows 3.0 pop up will appear as a distraction. Click on the red X button to close it.",
+        section: "ulcn"
+    },
+    {
+        name: "Crimson Rose Freddy Corpse",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/63/Crimson_Rose_Freddy_Corpse.webp",
+        description: "His corpse will sometimes litter all over your screen, covering certain HUD modes. Sweep them out by moving your mouse over him.",
+        section: "ulcn"
+    },
+    {
+        name: "Totem Fear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/Totem_FEAR.webp",
+        description: "He will move to you like the normal Freddy Fazbear throughout Floor 2. You only can see him in the darkness because he will hide if you shine the light at him! When he reaches one of the vent cameras, you need to close the corresponding door, but that will only stall him! You need to flash him constantly to break him, because he can't hide in those vents! When he breaks, he will reset to the Show Stage. If you click his nose, he will instantly become faster and kill you because that's annoying!",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
