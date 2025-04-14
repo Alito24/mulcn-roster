@@ -660,6 +660,78 @@ const characters = [
         section: "quidd"
     },
     {
+        name: "Digital Glow Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f0/Digital_Glow_Bonnie.webp",
+        description: "He will stay in your office. If you don't use the Mask or the Monitor, then he will start glowing. Having the mask up will cause him to stop glowing, and using the monitor resets his glowing process. If he glows too much, then you will die.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Bidybab",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c0/Frozen_Over_Bidybab.webp",
+        description: "She will move through the Vent System, if the temperature is too high she will move very slowly as she is not used to those environments, keep the temperature as high as possible because the vent snares and the door only take her back a few steps!",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/Frozen_Over_Foxy.webp",
+        description: "He works very similar to Burnt Foxy. If you see his icon above the temperature meter, that means he appeared on the Foxy Hall on Floor 3. When he's there, he'll constantly lower your temperature, all the way down to 60°C. To make him go away, turn on the heater for a couple of seconds, or look at him on the Foxy Hall for a bit.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Funtime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/Frozen_Over_Funtime_Foxy.webp",
+        description: "He will show up in your office if you are there for too long. He can be so angry that the temperature drops at 10 degrees every 5 seconds, all the way to 0 degrees. Turn off the fan to make him melt, but it only works at 120 degrees. If your temperature ends at 0 degrees, you will die.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/Frozen_Over_Mangle.webp",
+        description: "She will randomly appear in your office if you put down the monitor. His radio static is loud enough to cause icicles to fall from the ceiling. Avoid the icicles on your screen so that Frozen Over Mangle can leave on her own. Getting hit by an Icicle will cause the temperature to lower by 30%. If the temperature is at 60% when you hit an icicle, you will be bitten by her.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/73/Frozen_Over_Puppet.webp",
+        description: "A frozen music box will be in the Ice Caverns on Floor 7, where you will need to keep it wound up by clicking and holding over the blue button over the frozen music box. The Power A/C can also be used to keep the music box wound up. If it fully wounds down, the temperature of the building will slowly go down to 60°, and when it hits 60°, it will stay like that for the rest of the night.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/Frozen_Over_Toy_Freddy.webp",
+        description: "When the internet drains too much, he'll use his bone chilling powers to completely freeze the cameras over.",
+        section: "quidd"
+    },
+    {
+        name: "Frozen Over Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/Frozen_Over_Springtrap.webp",
+        description: "He will fade in on the Beta System whenever you use the Power A/C. If he fades in all the way, he will freeze up the camera and prevent you from looking at it. The only way to make him fade out is to use the Heater for a few seconds.",
+        section: "quidd"
+    },
+    {
+        name: "Nightlight Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7e/Nightlight_Mangle_Revamp.png",
+        description: "He will be visible in the darkness in Floor 2 in random cameras. Avoid using the Floor 2 flashlight on her or he will glow more. If she glows too much, he will kill you.",
+        section: "quidd"
+    },
+    {
+        name: "Nightlight Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/Nightlight_Puppet_Revamp.png",
+        description: "A music box will be on the Light System. Keep it wound by shining the light at her nightlight music box or the buttons to change systems and floors will randomly move around.",
+        section: "quidd"
+    },
+    {
+        name: "Nightlight Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2f/Nightlight_Springtrap.webp",
+        description: "He'll be on the GPS system. Using the flashlight (office or floor 2) will make him move towards you. Using the Silent Ventilation will push him back. If he reaches you, a jumpscare is all you should expect.",
+        section: "quidd"
+    },
+    {
+        name: "Quidd Shadow Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/77/Quidd_Shadow_Bonnie_Resize.webp",
+        description: "If you stare at him for too long at the GPS System when he shows up, he will corrupt it and disable it. You must quickly go to the Task System and fix it when that happens.",
+        section: "quidd"
+    },
+    {
         name: "Nightmare Gumball Swivelhands",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/12/Ngbsh.webp",
         description: "He stays at the very right side of your office and will swivel his hands faster and faster if a system error remains unfixed for too long. If they swivel too fast, he will jumpscare you. His hands will start to swivel slower and slower when there are no errors to fix.",
