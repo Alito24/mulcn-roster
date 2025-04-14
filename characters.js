@@ -336,6 +336,12 @@ const characters = [
         section: "fnafw"
     },
     {
+        name: "Gargoyle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/44/Gargoyle.png",
+        description: "Occasionally, one of the Gargoyles on the manor entrance of Floor 5 will be replaced by it. To change it back to normal state, you will have to use the pixelation slider on the Task System and increase it to over 75%. If it stays for too long, it will kill you.",
+        section: "fnafw"
+    },
+    {
         name: "Maskless Ennard",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
         description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
