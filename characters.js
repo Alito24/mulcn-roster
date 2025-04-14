@@ -1116,6 +1116,114 @@ const characters = [
         section: "fnati"
     },
     {
+        name: "Acephalous",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5c/Acephalous_Revamp_2.png",
+        description: "He will travel through the duct system, and once he reaches your office, stay still to make him leave. Not doing so will make him end your game.",
+        section: "fnati"
+    },
+    {
+        name: "Animatronic Alice",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/59/Animatronic_Alice_Resize.webp",
+        description: "She is always in your office. She will occasionally stand up when you are switching floors. Click on her when she stands up before she kills you.",
+        section: "fnati"
+    },
+    {
+        name: "Nightmare Suicide Mouse",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/83/Nightmare_Suicide_Mouse_Revamp.png",
+        description: "He can appear in Oxygen Storage or Prop Storage. Shock him to make him teleport into the office, then use the flashlight on him to prevent death!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Acephalous",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/02/Classic_Ace_Resize.webp",
+        description: "He might appear in your office. Whatever number of fingers he holds up is what floor you must turn off a camera in. Not doing so will result in death!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Disembodied",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/Classic_Disembodied_Revamp.png",
+        description: "If he appears in your office, that means he blocked your Right Duct Door. Turn on the fan and the A/C to make him stop.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Daisy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3a/Classic_Daisy_Revamp.png",
+        description: "If she appears in your office, that means she has blocked your Left Duct Door. Turn on the fan and the heater to make her stop.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Henry",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5e/Classic_Henry_Resize.webp",
+        description: "If he's in your office, do not turn off a camera or he'll end your night. Pull the lever to make him leave.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Hourglass",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f0/Classic_Hourglass_Revamp.png",
+        description: "He will be invisible to the duct system. Once he reaches the bottom, he will break the duct door and poke his head out. Flash the flashlight on him to get rid of him! Afterwards, you need to fix the duct door via a task in the task system, that is if he did break the door.",
+        section: "fnati"
+    },
+    {
+        name: "Classic MickMick",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4e/Classic_MickMick_Revamp.png",
+        description: "Whenever the ventilation goes out, he spawn in floor 1. Quickly turn off the camera he is on to make sure he won't kill you!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Oswald",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/Revamped_Classic_Oswald.png",
+        description: "If there is noise for too long, he will walk into your office. Turn off a camera to make him run off!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Pete",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1d/Classic_Pete_Resize.webp",
+        description: "Thrice per night, he will try to pick a fight with you in the Fury Rage floor. After beating him, he will become a sore loser and run towards your office. Use the F4 controlled shock in your office after beating him to prevent that from happening.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Photo-Negative Mickey",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/18/Classic_Photo-Negative_Mickey.png",
+        description: "Every time you turn off a camera, he will go farther down the vent system. Eventually he will end up in your office, then you must quickly turn off another camera to make him leave!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Photo-Negative Minnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/Classic_PNM_Revamp.png",
+        description: "Every time you turn off a camera, she will go farther down the duct system. Eventually she will end up in your office, then you must quickly turn off another camera to make her leave!",
+        section: "fnati"
+    },
+    {
+        name: "Classic Pluto",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/22/Classic_Pluto.png",
+        description: "He will make it so you will manually fix the camera once you disabled it by going to the task system.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Slester",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Classic_Slester_Resize.webp",
+        description: "Rainbow static will start engulfing your screen. Go to the glitch floor to make him stop.",
+        section: "fnati"
+    },
+    {
+        name: "Classic The Face",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cd/Classic_Face_Resize.webp",
+        description: "He can randomly appear in your office. Pull up your monitor to make him go away. Putting your mask on will also make him go away, but he will take your mask away for a couple of seconds as well.",
+        section: "fnati"
+    },
+    {
+        name: "Classic Undying",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3f/Classic_Undying.png",
+        description: "He'll always be at Party Room A. When his figurine of him is on the desk, do not visit his camera or else you'll meet a deadly surprise.",
+        section: "fnati"
+    },
+    {
+        name: "Goofy's Head",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fc/Goofy%27s_Head_Revamp.png",
+        description: "He will replace the exotic butters. Clicking him has a 50/50 chance to turn off a random camera.",
+        section: "fnati"
+    },
+    {
         name: "Red Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/85/RedFreddy.png",
         description: "He's trying to make a new Freddy Fazbear's Pizza in Floor 5 but he needs ideas first, you need to pick the right choice for him to build his Pizzeria, failing or picking the wrong one will cause him to say 'WHY YOU' or 'ITS MY MAP' and will kill you.",
