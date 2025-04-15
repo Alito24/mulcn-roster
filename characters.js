@@ -108,6 +108,36 @@ const characters = [
         section: "fnaf2"
     },
     {
+        name: "Freddy's Left Ear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/96/Freddy%27sLeftEarIcon.png",
+        description: "Every second you're not looking at the left hall camera on Floor 1, it gets angrier. If it gets too angry, it will jumpscare you, deafening you for (AI/0.5)/1.25 seconds and causing an audio error.",
+        section: "fnaf1"
+    },
+    {
+        name: "Freddy's Right Ear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a0/Freddy%27sRightEarIcon.png",
+        description: "Every second you're not looking at the right hall camera on Floor 1, it gets angrier. If it gets too angry, it will jumpscare you, deafening you for (AI/0.5)/1.25 seconds and causing an audio error.",
+        section: "fnaf1"
+    },
+    {
+        name: "Standing Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6a/Standing_Golden_Freddy.png",
+        description: "He is slumped over in your office. Sometimes he will stand in your office at any time of the night. When this happens, you will have to look at the cameras or put on the mask, or your night will end.",
+        section: "fnaf1"
+    },
+    {
+        name: "Fun Time! Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/65/Fun_Time%21_Revamp_2.png",
+        description: "Every 5 seconds, a poster will appear in the cam system, even if you have the monitor down, or if you are in another system. Honk the nose to make them disappear. Having too many posters will result in death.",
+        section: "fnaf1"
+    },
+    {
+        name: "Yellow Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d7/Yellow_Cupcake_Resize.png",
+        description: "The longer the cameras are down, the more chance of him appearing in your office. When he's there, not much will happen besides you being unable to change the state of the fan in your office. Once he appears, he will not leave, instead you'll need crush him by clicking on him! This will kill him and make him unable to appear again for the rest of the night. If your wondering if he'll appear again in your next night, don't worry, we'll just use one of his many clones to take his place. Survive the night to win!",
+        section: "fnaf1"
+    },
+    {
         name: "Mike",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6a/Mike_Skull.png",
         description: "All 4 corners of him will be in the 4 corners of your screen. Throughout the night, they will slowly close into the centre of your screen. You can use the Shakelight in the center of your screen to make them go further back. If they ever fully connect, Mike will kill you.",
@@ -342,6 +372,60 @@ const characters = [
         section: "fnafw"
     },
     {
+        name: "Adventure Grass",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f6/Adventure_Grass.png",
+        description: "There will be a new meter a the top of the screen, if it goes down all the way you will very slowly start to pass out. The only way to refill this is to go to the GPS System, which will be replaced with grass. Hover your mouse over it to refill it. Go touch some grass in other words.",
+        section: "fnafw"
+    },
+    {
+        name: "Dogfight",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a0/Dogfight.png",
+        description: "As the night begins, two dogfights will fight each other in your office, shooting bullets. If a bullet hits your cursor, the lever will break for a few seconds. Buy a flag in the Prize Counter and flash your light on it with the Power A/C on to turn it into a white flag, thus giving them a truce.",
+        section: "fnafw"
+    },
+    {
+        name: "Flan Crew",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/61/Flan_Gang_Resize.png",
+        description: "They will accumulate in your desk the more you flip your monitor. Quickly shock them before they jumpscare you.",
+        section: "fnafw"
+    },
+    {
+        name: "Flying JJ & Talking JJ",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/38/Fjatjj.png",
+        description: "They are distractions in your offce. Flying JJ will just fly around your office. Talking JJ will show up sometimes and say her line from foxy fighters.",
+        section: "fnafw"
+    },
+    {
+        name: "Half-Bake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/98/Half-Bake.webp",
+        description: "Everytime you look at the Duct System, she’ll walk farther in the vent system. If she reaches your office, you’re dead. There is no way to reverse her process, though you can use the front vent door to stop her.",
+        section: "fnafw"
+    },
+    {
+        name: "Mechrab",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Mechrab.png",
+        description: "He will be in the Duct System, heading towards the exit to your office. You must use the Neon Wall to repel him, since the Duct Snare and Duct Doors can't work on him. If he gets in your office, it will dance in your office alongside other Mechrabs, distracting you.",
+        section: "fnafw"
+    },
+    {
+        name: "Quad Endo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/Quad_Endo_Revamp.png",
+        description: "When you close either the left or right door, he will run through the duct system to the respective side. Put the neon wall to the respective side quickly to avoid his jumpscare. If both doors are closed at the side time, however, he won’t attack.",
+        section: "fnafw"
+    },
+    {
+        name: "Reaper Bytes",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Reaper_Bytes.webp",
+        description: "They'll be at the top of your screen. Occasionally, one of them will throw their scythe at your cursor. Quickly move your cursor to dodge their attacks. If it hits, there's a 90% chance it'll fill up the toxic meter by 65%, and a 10% chance it'll instantly kill you.",
+        section: "fnafw"
+    },
+    {
+        name: "Sub-Tunnel Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/79/Sub-Tunnel_Freddy.webp",
+        description: "He will randomly appear on the Glitch Floor, and will make your camera stuck in there. Alongside him there will also be an exit to the Glitch Floor, you have to drag him to the portal to fix your camera.",
+        section: "fnafw"
+    },
+    {
         name: "Maskless Ennard",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
         description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
@@ -405,6 +489,30 @@ const characters = [
         name: "Shadow Freddles",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c6/Shadow_Freddles_Resize.webp",
         description: "When you lift up the monitor, they will start to appear in front of you. Shine your UV Flashlight to make them go away. If you let too many of them appear, you will die.",
+        section: "tnt"
+    },
+    {
+        name: "Trailer Stage Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f2/Trailer_Stage_Bonnie.webp",
+        description: "He'll occasionally create duplicates of the Mask and Monitor buttons. The duplicates will not activate said mechanics. There's no way to prevent this.",
+        section: "tnt"
+    },
+    {
+        name: "Trailer Stage Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Trailer_Stage_Chica.webp",
+        description: "She'll occasionally create duplicates of the 'Change Music' button on the Kitchen Camera. The duplicates will not change the music box's music. There's no way to prevent this.",
+        section: "tnt"
+    },
+    {
+        name: "Trailer Stage Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Trailer_Stage_Chica.webp",
+        description: "He'll occasionally create duplicates of the GPS functions (Lure, Radio Jammer, Forcefield, ORCA Device). The duplicates will not activate the said functions. There's no way to prevent this.",
+        section: "tnt"
+    },
+    {
+        name: "Golden Mechrab",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0f/Golden_Mechrab.webp",
+        description: "It will appear in the office after it reaches 3:AM, and its shell will shine very brightly, blocking your view tremendously. Use the Silent Ventilation to lower the brightness.",
         section: "tnt"
     },
     {
