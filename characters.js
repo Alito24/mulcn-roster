@@ -462,6 +462,12 @@ const characters = [
         section: "fnafar"
     },
     {
+        name: "Candy Crazed Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/19/Candy_Crazed_Toy_Freddy.png",
+        description: "His shop will be set up in the Monkey Room, selling sweets and chocolates, that's it...what, you think the sweets are deadly and will kill you if you eat too many? You think Candy Crazed Toy Freddy thinks you're a sweet and come kill you? Get real, broski!",
+        section: "fnafar"
+    },
+    {
         name: "Bat Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Bat_Foxy_Revamp.png",
         description: "He will fly on top of the Fury’s Rage Floor. If you jump under him, you’ll take damage. The higher the AI, the more faster he’ll go.",
@@ -1149,6 +1155,144 @@ const characters = [
         name: "Totem Fear",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/Totem_FEAR.webp",
         description: "He will move to you like the normal Freddy Fazbear throughout Floor 2. You only can see him in the darkness because he will hide if you shine the light at him! When he reaches one of the vent cameras, you need to close the corresponding door, but that will only stall him! You need to flash him constantly to break him, because he can't hide in those vents! When he breaks, he will reset to the Show Stage. If you click his nose, he will instantly become faster and kill you because that's annoying!",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/Bonnie_2.png",
+        description: "He'll be having a rad guitar solo on the Show Stage! Occasionally, his guitar skills would be so rad, it'll max out the noise meter. Buy some scissors from the prize counter and use them to cut the strings of his guitar. He'll repair his guitar eventually, though.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 3",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Bonnie_3.webp",
+        description: "He'll be making a delicious carrot cake in the Grand Kitchen, but he needs your help for finding ingredients. Whenever you get a math question right on the Task System, you'll get one carrot. Collect AI + 7 carrots by the end of the night, or he'll burn the pizzeria down with you still inside it! (Death).",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 4",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f2/Bonnie_4.webp",
+        description: "He's not Bonnie, he's actually Shattered Glass Bonnie from the Mirror Dimension, using holographic technology. Don't fall for his deception by Camera Flashing him. If he gets in, you're dead.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 5",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ca/Bonnie_5.png",
+        description: "He'll occasionally appear in the Disco Room on Floor 8, his eyes being blacked out. However, when his eyes appear, that signals he's about to attack. Use the Alarm System on the camera to scare him away. If you don't, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 6",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/Bonnie_6.png",
+        description: "His face will block a random camera on Floor 5. You can't change the camera its on, but it'll change every hour.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 7",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9f/Bonnie_7.webp",
+        description: "When he appears in the office, he'll be playing his guitar, raising the noise meter. Use the Golden Flashlight to scare him off.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 8",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d3/Bonnie_8.png",
+        description: "He'll go through the vent system, unaffected by the vent snares, vent door and lever. When he reaches the vent opening (Signalled by a guitar strum), Shine the UV Flashlight on the Front Vent to send him away.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 9",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/Bonnie_9.png",
+        description: "He sits in the Power Room on Floor 7. Occasionally, his rabbit instincts will take over and he'll start gnawing on the wires. Turn the volume of the Christmas Jukebox up to make him stop. If you don't do it in time, he'll chew through the wires, causing a blackout.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 10",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/Bonnie_10.png",
+        description: "Similarly to Raised Eyebrow Rock, he appears in the top right corner, judging you. He will nod his head if you do bad enough in the night, and if you beat it, he will give you less points based on his AI. However, if you prevent a character from attacking too much, then he will raise his eyebrow on your succes, raising the noise meter with a massive vine boom.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 11",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/15/Bonnie_11.png",
+        description: "This Bonnie does not exist physically, rather as jumbled code on the Glitch Floor. When his spirt starts to fade him on that system, quickly switch between the UV and Golden Flashlights to make him fade out again. If he fully fades in, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 12",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Bonnie_12.png",
+        description: "Similarly to Bonnie 6, his face will block a random system. You can't change the system its on, but it'll change every hour.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 13",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2b/Bonnie_13.webp",
+        description: "At 3AM, he'll appear in the Office. Although he's invisible, you can use the Shakelight to locate him. Find him and shine the Shakelight on him to send him away. If you don't, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 14",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/36/Bonnie_14.webp",
+        description: "His figurine will be on sale in Candy Crazed Toy Freddy's shop (Don't ask why). If you buy it, he'll start rocking out on your monitor, regaining lost power!",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 15",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9c/Bonnie_15.png",
+        description: "He'll be in each Party Room on Floor 2, crying. Occasionally, one of the Bonnie's will stand up, preparing to run into your office and jumpscare you. If the one in Party Room A stands up, shine the flashlight and turn on any mode but all OFF. If its the right one, shine the flashlight and turn on all OFF. If you do the wrong action or simply take too long, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 16",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1e/Bonnie_16.png",
+        description: "He'll occasionally appear in place of where the Bonnie figurine would normally be. Don't worry though, he's here to spread morale support! When he appears, he'll drain the Toxic Meter.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 17",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/46/Bonnie_17.png",
+        description: "He will go through the Duct System. He'll be affected by the Audio lure, but not for long. The higher the noise levels, the faster he'll move. If he reaches you, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 18",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a2/Bonnie_18.png",
+        description: "He'll be smashing up all the pumpkins on the Pumpkin Patch in Floor 5! However, if he smashes up all the pumpkins, he'll have nothing to break, and he'll come to your office to smash you! (Death). To stop this, press the 'REPLENISH PUMPKINS' button on the Pumpkin Patch camera to distract Bonnie 18!",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 19",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4b/Bonnie_19.png",
+        description: "He stays, watching.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 20",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/98/Bonnie_18.webp",
+        description: "He will be in the House Kitchen on Floor 6 where he will be making a variety of drinks. When he's finished making one, he will appear in your office with the drink he has made, then he will ask if you want it or not, where you can say Yes or No. Some drinks will have a positive affect while some will have a negative effect, so choose wisely, as you can only say no five times before he just gives it to you anyway. Monty Gator's Green with Envy! = Takes 30% of your Oxygen. Superstar Daycare Strawberry Shake = Gives 15% more Power. Foxy's Fruity Cove Cooler = Gives 10 Faz Coins. Sodaroni Slushy = Adds 30% to your Toxic Meter.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 21",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/71/Bonnie_4.png",
+        description: "He still thinks 9+10=21, so you'll need to teach him how to do basic math. He'll stay in the Task System, watching the math bar. Complete AI÷2 math questions to make him learn again. If you don't, he'll be angry you failed to teach him and jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 22",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/87/Bonnie_22.png",
+        description: "He stays on Parts and Services on Floor 2, plotting something... He's too busy plotting though, so he won't come to attack you.",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 23",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Bonnie_23.png",
+        description: "He'll be on a random camera on Floor 5. Check up on him from time to time, he's pretty lonely :(",
+        section: "ulcn"
+    },
+    {
+        name: "Bonnie 24",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fa/Bonnie_24.webp",
+        description: "He will be in the cheese room, why? Because he think it looks cool. While he's taking in the beauty of the room, he will start to think about you. You two are friends after all. Remember that time you two went on that cruise ship? That was a lot of fun, good times. So while thinking about you, he will remember that you told him that your a big fan of cheese sandwich's, so he wants to show you how cool the cheese room is! But he forgot that a mortal cannot view the room as it's on a higher plan of existence. So when he shows you it, you will pass out from shock (and maybe die). So when he appears in your office and asks you if you want to see the cheese room, you will need to type 'NO' on your keybord to make him leave. He will understand your request and not bother you for the rest of the night, as you did give him that milkshake a few days ago, and MAN that was a good milkshake! Also don't forget to survive the night to win!",
         section: "ulcn"
     },
     {
