@@ -1962,6 +1962,12 @@ const characters = [
         section: "scp"
     },
     {
+        name: "The Femur Breaker",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b9/FemurBreaker.png",
+        description: "The Femur Breaker acts as a universal audio-lure against sound sensitive animatronics on all floors. Press the 'Activate Femur Breaker' button on your camera monitor to activate the Femur Breaker, just make sure you flipped the lever in your office first before activating it to turn on the buildings PA system, otherwise it won't work. The Femur Breaker only has one use, so use it in a pinch! The Femur Breaker works especially on SCP-106, which will remove him from the night. The higher the AI level, the slower the animatronics will be lured towards it.",
+        section: "scp"
+    },
+    {
         name: "Rush",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/Rush_Revamp.png",
         description: "When the office lights flicker, that means Rush is coming. Quickly put on the mask and wait for it to pass before taking off the mask. If you don't put on the mask in time, you'll be jumpscared.",
