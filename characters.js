@@ -561,7 +561,7 @@ const characters = [
         name: "Candy Crazed Toy Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/19/Candy_Crazed_Toy_Freddy.png",
         description: "His shop will be set up in the Monkey Room, selling sweets and chocolates, that's it...what, you think the sweets are deadly and will kill you if you eat too many? You think Candy Crazed Toy Freddy thinks you're a sweet and come kill you? Get real, broski!",
-        section: "fnafar"
+        section: "ausd"
     },
     {
         name: "Bat Foxy",
