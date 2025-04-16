@@ -426,6 +426,102 @@ const characters = [
         section: "fnafw"
     },
     {
+        name: "Seagoon",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/Seagoon_Revamp.png",
+        description: "Though you can’t see his icon, he will walk around the Duct System. If your cursor hovers over him, he’ll run into your office. Quickly flip the mask on and off to not be killed.",
+        section: "fnafw"
+    },
+    {
+        name: "Totemole",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2d/Totemole.png",
+        description: "He acts similar to Totem Panic. His parts will come from the sides of your screen from the left to right, but your cursor cannot go through them. If a part of him crushes your cursor to the other side of your screen, it’s game over.",
+        section: "fnafw"
+    },
+    {
+        name: "Tombstack",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5b/Tombstack.webp",
+        description: "His parts will be coming from the top of your screen, but your cursor cannot go through them. If he crushes you to the bottom of the screen, it’s game over.",
+        section: "fnafw"
+    },
+    {
+        name: "UFOS",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/UFOS.webp",
+        description: "AI-7 (atleast 1) UFOS will spawn on the Fury's Rage Floor, shooting lasers in a vertical direction. Defeat them before they beat you.",
+        section: "fnafw"
+    },
+    {
+        name: "Universe End Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4a/Universe_End_Fredbear.webp",
+        description: "If Universe End Fredbear 2 is in the night, the game will close. Other then that, Survive the night to win!",
+        section: "fnafw"
+    },
+    {
+        name: "Universe End Fredbear 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Universe_End_Fredbear_2.webp",
+        description: "If Universe End Fredbear is in the night, the game will close. Other then that, Survive the night to win!",
+        section: "fnafw"
+    },
+    {
+        name: "Chop 'N Roll",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c7/Chop_N%27_Roll.webp",
+        description: "You can buy one of 4 Chop 'N Rolls in the Prize Corner that will cut down a tree for you in the Lumber Co camera. But be careful because one of these Chop 'N Rolls' will give you an immediate jumpscare if you buy it.",
+        section: "fnafw"
+    },
+    {
+        name: "Chillax",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9d/Chillax.webp",
+        description: "It will run back and forth in Lumber Co.. Do not cut a tree while it runs by it or it’ll jumpscare you.",
+        section: "fnafw"
+    },
+    {
+        name: "Cheesehead",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/64/Cheesehead_Resize.png",
+        description: "He will add a hunger meter to your night! Chicken legs will appear like Faz-Coins, hovering over them will collect them and add them to the meter. It will slowly go down as time progresses. If it goes fully down, you’ll die to starvation. Pizza will also appear, but avoid collecting them as that will decrease a bit of your hunger meter.",
+        section: "fnafw"
+    },
+    {
+        name: "Blacktrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cf/Blacktrap.webp",
+        description: "The higher the AI, the more chance it will appear on a random camera box in Floor 3 & 4. If you go on the same camera as it, you’ll be stuck inside the camera for 10 seconds and 50% of your power will be drained.",
+        section: "fnafw"
+    },
+    {
+        name: "Cccccc",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5e/Cccccc.webp",
+        description: "Not keeping them sealed on the Glitch Floor by keeping your toxic meter in check will result in them breaking out and infecting the Duct System, disabling the seal ducts and audio lure.",
+        section: "fnafw"
+    },
+    {
+        name: "Big Jack",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/Big_Jack.webp",
+        description: "He stays on the Cam System and becomes larger and larger over time, thus blocking more and more of your view. Use the Global Music Box to reverse his progress.",
+        section: "fnafw"
+    },
+    {
+        name: "Beartrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/Beartrap_Revamp.png",
+        description: "The higher the AI, the more chance it will appear on a random camera button in Floor 1 & 2. If you go on the same camera as it, you’ll be stuck inside the camera for 5 seconds and 25% of your power will be drained.",
+        section: "fnafw"
+    },
+    {
+        name: "Bard Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/02/Bard_Chica.webp",
+        description: "If you use the Flashlight (Both the office and Floor 2 one) too frequently, Bard Chica may appear in your office and use her ability to temporally disable the Global Music Box.",
+        section: "fnafw"
+    },
+    {
+        name: "Boxbyte",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Boxbyte_Revamp.png",
+        description: "He will appear in the Oxygen Storage camera and steal the energy from the breaker box to charge himself. This unfortunately drains your Power. Quickly use the Control Shock (Floor 4) to send him away.",
+        section: "fnafw"
+    },
+    {
+        name: "Anchovy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/Anchovy_Revamp.webp",
+        description: "Small fish will appear alongside the Faz-Coins when you go on a camera. Do not hover over them or your toxic meter will go up.",
+        section: "fnafw"
+    },
+    {
         name: "Maskless Ennard",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Maskless_Ennard.webp",
         description: "When you hear a metallic sound, look for his eyes in both doors and vents and close the corresponding door.",
@@ -511,7 +607,7 @@ const characters = [
     },
     {
         name: "Trailer Stage Freddy",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/82/Trailer_Stage_Chica.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ca/Trailer_Stage_Freddy.webp",
         description: "He'll occasionally create duplicates of the GPS functions (Lure, Radio Jammer, Forcefield, ORCA Device). The duplicates will not activate the said functions. There's no way to prevent this.",
         section: "tnt"
     },
