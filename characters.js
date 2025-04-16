@@ -564,6 +564,108 @@ const characters = [
         section: "ausd"
     },
     {
+        name: "Shamrock Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Shamrock_Bonnie.png",
+        description: "Occasionally, a loud siren will blare out, which signals he has installed malware onto the Monitor! You will have to find the infectious popup on any of the systems and click on the X to get it to go away. If he stays for too long, Barack Obama himself will jumpscare you, disabling your monitor for a short while!",
+        section: "ausd"
+    },
+    {
+        name: "Discarded Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/14/Discarded_Lefty.png",
+        description: "He has a lame music box mechanic, but he wants to get rid of it! His Discarded Music Box will stay on the Telescope System, but he will make it as hard as he can to be able to wind it. Meteors will circle the button to wind the music box, and if your cursor hits the meteors too many times, one of the meteors will be sent off of his course and hit the telescope, disabling the system. If the Discarded Music Box ever winds down too much, Discarded Lefty will now be able to attack normally, with a unique mechanic! If you ever see vines coming through the ducts in your Office, quickly cut them with the Pizza Cutter to avoid Discarded Lefty getting into the Office and killing you!",
+        section: "ausd"
+    },
+    {
+        name: "Abomination Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4b/Abomination_Springtrap.png",
+        description: "Deemed a failed experiment, He is locked in The Laboratory on Floor 5. Whenever he appears on that camera, you must look away to another camera or use the Camera Flash to get him away. Staring at him will cause your Vision Meter to steadily rise and distort your vision for a few seconds.",
+        section: "ausd"
+    },
+    {
+        name: "Celebrator Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Celebrator_Freddy.webp",
+        description: "His body clock has gone nuts. He will pop his head through either office door, asking if it's Halloween or Christmas? You can send him to either Floor 5 or the Christmas Floor. However, if you send Celebrator Freddy to the same floor too often throughout the night, he'll realise you've tricked him, rush back to the elevator and kill you.",
+        section: "ausd"
+    },
+    {
+        name: "Scrapyard Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f4/Scrapyard_Withered_Foxy.png",
+        description: "He'll slowly start to approach you on the GPS System. He is unaffected by any of the tools until he gets close, where he will make the sound of metal scraping. You will have a split second to use the forcefield to send him back. If he gets in, he'll use his metal blade arm on one of the doors, breaking them for the rest of the night. He will continue to try and do this until he has broken all four doors.",
+        section: "ausd"
+    },
+    {
+        name: "Carved Balloon Boy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fc/Carved_BB_Revamp.png",
+        description: "Carved Balloon Boy is the maintenance man of Floor 5. He will fuel the boiler to keep the house heated. However, he'll run out of coal. You need to collect 10 lumps of coal from the basement, or ask Santa Freddy to deliver it to him. If the boiler goes out, the room will go cold, causing Carved Balloon Boy's candle to go out, and he'll die.",
+        section: "ausd"
+    },
+    {
+        name: "Candy Master Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/00/Candy_Master_Toy_Freddy.png",
+        description: "He will always be in your office, making a special ingredient for his new brand of candy! Help him out by finding an AI level of candy pieces scattered around the cam system. Do so, and you will get a fantastic treat that somehow has the ability to spawn extra Faz-Coins. Not getting the pieces before 5:AM will make the candy bland, and eating its blandness will cause you to die... somehow?",
+        section: "ausd"
+    },
+    {
+        name: "Decaying Pumpkin",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9c/Decaying_Pumpkin_Revamp_2.png",
+        description: "If you stay in your office for a long time, he will appear and raise the toxic meter. Open the monitor for a few seconds to make him disappear and drain the toxic meter.",
+        section: "ausd"
+    },
+    {
+        name: "Demeath-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1f/Demeath-O-Bonnie_Resize.png",
+        description: "You will know when he's in your office by his demented growl. Pull down your monitor and quickly blind him with the Fazcam, or you'll be greeted by this Hell-beast's jumpscare!",
+        section: "ausd"
+    },
+    {
+        name: "Disheveled Jack-O-Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d3/Disheveled_Jack-O-Chica.png",
+        description: "Having the temperature too high will cause her to fade into the Basement. You must quickly shut the right vent door and use the Power/AC to get her away before she kills you.",
+        section: "ausd"
+    },
+    {
+        name: "Headless Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5a/Headless_Withered_Bonnie.webp",
+        description: "Once per night, he'll laugh, which will signal that he has set a few Floor 2 cameras on fire. Find them and drag the holy water on every camera he set fire on before he throws his pumpkin head at you, burning you alive! (death).",
+        section: "ausd"
+    },
+    {
+        name: "Overgrown-Paradise Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/40/Paradise_Freddy_Revamp.png",
+        description: "Flowers and vines will start covering the Lumber Co. camera. You need to make your office go above 100o to make them wither and die. if they fully cover the cam, Overgrown-Paradise Freddy will end your run!",
+        section: "ausd"
+    },
+    {
+        name: "Silent Performer Bon-Bon",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c3/Silent_Performer_Bon-Bon.png",
+        description: "He will be on the GPS System. If you use the Forcefield to keep him out for too long, he'll silently cry. This will cause the map to go monochrome.",
+        section: "ausd"
+    },
+    {
+        name: "Silent Performer Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/97/Silent_Performer_Funtime_Freddy.png",
+        description: "He'll be in the Foxy Hall on Floor 3. He needs to start up his show by 3:AM, but unfortunately his hat broke and scattered across multiple locations. At the start of the night, the pieces of his hat will be scattered across 4 random systems. Find the pieces and recollect them to rebuild Silent Performer Funtime Freddy's hat! If you do it before 3:AM, he'll reward you with a generous sum of power. If not, he'll just jumpscare you.",
+        section: "ausd"
+    },
+    {
+        name: "The Beast",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/29/The_Beast.png",
+        description: "He will sneak up from behind you, breathing down your neck for his next prey. To put him back in the Ice Caverns on Floor 7, you must turn up the heater and the oven at the same time.",
+        section: "ausd"
+    },
+    {
+        name: "Undead Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1a/Undead_Toy_Bonnie.png",
+        description: "He will escape his grave in The Graveyard on Floor 5. Once he enters the office, use the Shock Button to send him offline or you die.",
+        section: "ausd"
+    },
+    {
+        name: "Anniversary Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6c/Anniversary_Withered_Freddy.png",
+        description: "A Chase Pinata will hang from the ceiling in your office. Anniversary Withered Freddy will try to hit it (because he hates Paw Patrol for taking their spotlight). Unfortunately, if you have too much noise, he'll end up accidentally hitting you in the eye, temporarily blinding you. If he's successful, he'll give you his prize at the end of the night.",
+        section: "ausd"
+    },
+    {
         name: "Bat Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Bat_Foxy_Revamp.png",
         description: "He will fly on top of the Fury’s Rage Floor. If you jump under him, you’ll take damage. The higher the AI, the more faster he’ll go.",
