@@ -1110,6 +1110,12 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "OMC Ringmaster Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/OMC_Ringmaster_Foxy.png",
+        description: "OMC Faz-Coins will be scattered on the Task System. Collecting them will subtract 1 Faz-Coin instead of gaining one. At a random point during the night however, OMC Ringmaster Foxy will appear on the Light System. Have AI X 3 OMC Faz-Coins by the time he appears, or he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
         name: "Ultra Mono Freddy Mask",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/Ultra_Mono_Freddy_Mask.png",
         description: "You can't see your meters while using the mask.",
