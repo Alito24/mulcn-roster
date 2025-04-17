@@ -1566,6 +1566,66 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "CHAOS Dreadbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1e/CHAOS_Dreadbear.webp",
+        description: "Due to being the main antagonist of his debut game, he has full command over the roster behind the scenes. To unlayer the truth, you must find 3 hidden artifacts all over the place in the night. Not finding the artifacts before 6:AM will result in CHAOS Dreadbear restarting the night from the very beginning. If you manage to find them before 6:AM hits, you will be sent to a boss fight with CHAOS Dreadbear. Avoid his attacks and deal damage to him so you can finally win the night.",
+        section: "ulcn"
+    },
+    {
+        name: "Crewmate",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/24/Crewmate.webp",
+        description: "Every hour, there will be a Fix Wires task in the Task System. Fix it before the next hour or you won't be able to set Vent Snares for the rest of the night! Task difficulty depends on the AI level.",
+        section: "ulcn"
+    },
+    {
+        name: "Roster Builder Redbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Roster_Builder_Redbear.webp",
+        description: "When he appears in your office, click on all the Floor and System buttons to get rid of him. Taking too long will send you back to the roster screen with all sections jumbled up.",
+        section: "ulcn"
+    },
+    {
+        name: "Spambit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/Spambit.webp",
+        description: "His shop will stay in The Sewers. Using Faz-Coins, you can buy items like Death Coins. However, if you try to buy a item without the required amount of Faz-Coins, he'll jumpscare you.",
+        section: "ulcn"
+    },
+    {
+        name: "Special Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/Special_Freddy_Resize.webp",
+        description: "He'll be making very special food in the Grand Kitchen on Floor 7. When he's finished making food, he'll appear in your office with the very special food, and leave it on your desk. Unfortunately, he's coated the special food with special poison, so if you eat it, it'll kill you.",
+        section: "ulcn"
+    },
+    {
+        name: "Summer Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Summer_Frostbear.png",
+        description: "He'll sit on your desk. Do not, under any circumstances drink him! If you click (drink) him, you will start hallucinating, raising your panic meter till you die! The only way to stop the effects is to use the Normal Pills.",
+        section: "ulcn"
+    },
+    {
+        name: "The Hobos",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2d/The_Hobos.webp",
+        description: "They stay on the Light System. Sometimes, one of their heads will be colored red (because they're angry!!) and the flashlight will soothe their head. If you do not do it fast enough, they will start to drain your power twice as fast until you flash the respective head.",
+        section: "ulcn"
+    },
+    {
+        name: "The Slayer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fd/The_Slayer.webp",
+        description: "He will run back and forth between the left and right hall on F4. If he's on a different camera than these two, find him and shock him. The longer the Power Generator is on, the stronger he becomes.",
+        section: "ulcn"
+    },
+    {
+        name: "VR Guest",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/VR_Guest.webp",
+        description: "He can appear in your office whenever you use the Shock Panel. When he does, you mustn't let the noise meter above 3, otherwise, VR Guest kills you the next time you use the Shock Panel.",
+        section: "ulcn"
+    },
+    {
+        name: "Withered Dr. Pepper Chicken FNAF",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/Withered_Dr_Pepper_Chicken_FNAF.webp",
+        description: "When the fan is on for too long, various types of Fanart will begin to appear on various cameras. You must look at the Fanart to make it go away. If too much Fanart is summoned, you'll experience your end.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
