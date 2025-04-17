@@ -1500,6 +1500,72 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Nonexistence Augmented Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0e/Nonexistence_Augmented_Plushtrap.png",
+        description: "He will appear randomly in the Supply Closet and the Prop Storage camera from time to time. If he appears in the Prop Storage, control shock him via cameras, if he appears in the Supply Closet however, control shock him via the office. When it hits 4:AM, the roles will reverse. If you shock him wrongly or take too long, he'll end your night.",
+        section: "ulcn"
+    },
+    {
+        name: "Nonexistence Challenger Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a8/Nonexistence_Challenger_Fredbear.png",
+        description: "He will be in your office. Where he will give you tasks to do each hour. (Ex: Hey can you turn on the Power A/C for me?) After completing his task he will reward you by adding 500 points to your score. If you miss one he will let you slide by without any punishment, but if you miss too many, then you will be punished by him, resulting by him taking your points off for each task you fail. (AI level X 100 points).",
+        section: "ulcn"
+    },
+    {
+        name: "Nonexistence Challenger Nightmare Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/41/Nonexistence_Challenger_Nightmare_Freddy.png",
+        description: "He appears in the office, nothing is going to happen since his mechanic is completely useless.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d1/Optimized_Popgoes_2.webp",
+        description: "He will be in the Duct System quickly moving towards your office. When he makes it to the opening he will pop out of the duct, quickly use the Neon Wall to push him back into the Duct System.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 3",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/Optimized_Popgoes_3.webp",
+        description: "He will be in the Vent System slowly moving towards your office. When he makes it to the Vent opening use the Faz-Cam to send him back into the Vent System.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 4",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fb/Optimized_Popgoes_4.webp",
+        description: "He will be on the GPS System making his way towards the building. When he makes it to the building he will walk right in and kill you. Just turn on the Radio Jammer once and a while to keep him at bay.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 5",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Optimized_Popgoes_5.webp",
+        description: "He sent you a picture of himself on the Task System, That’s nice! You will need to delete it by clicking it which will take a (AI level) amount of time.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 6",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d9/Optimized_Popgoes_6.webp",
+        description: "He will go through the side house map on the Duct System. Use the door buttons to keep him out, otherwise he will end you.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes 7",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a5/Optimized_Popgoes_7.webp",
+        description: "He will be on the Light System for no reason. Just check up on him to keep him company.",
+        section: "ulcn"
+    },
+    {
+        name: "Optimized Popgoes Gang",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dc/Optimized_Popgoes_Gang.webp",
+        description: "???",
+        section: "ulcn"
+    },
+    {
+        name: "Buff Toy Moyai",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Buff_Toy_Moyai.webp",
+        description: "The Moyai will slowly roll through the vents. When it reaches your office, close the vent on your right to imitate his famous vine boom sound before he kills you.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
