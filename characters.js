@@ -558,6 +558,96 @@ const characters = [
         section: "fnafar"
     },
     {
+        name: "Avatar Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/Avatar_Freddy_Revamp_2.png",
+        description: "He will be on the GPS System, slowly moving towards your avatar. If he reaches you, he will disable your monitor for 1 ingame hour. Quickly use the lure to prevent this.",
+        section: "fnafar"
+    },
+    {
+        name: "Torch Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Torch_Cupcake.jpg",
+        description: "He will be on your desk with his candle lit up. If his candle isn't lit up, shine the flashlight on him to reignite his candle. If his candle isn't lit up for a while, he will leave and make your office cool for the rest of the night.",
+        section: "fnafar"
+    },
+    {
+        name: "Special Delivery Box",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/88/Special_Delivery_Box_Revamp.png",
+        description: "A box will appear in your office, tumbling. It is taped. You have a tape roller on your desk. Your package will sometimes rip the tape from inside the box with an audio cue, so you must fix it. There are four levels. If your package gets past all of the tape, they will attack you.",
+        section: "fnafar"
+    },
+    {
+        name: "Silhouette Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/28/Silhouette_Springtrap.png",
+        description: "Silhouette Springtrap will be in your office. By 3:AM, he will fully become animated, and jumpscare you as there are no obstacles in his way. Cut the silhouette into pieces with the Pizza Cutter before 3:AM to survive.",
+        section: "fnafar"
+    },
+    {
+        name: "Silhouette Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/06/Silhouette_Mangle.png",
+        description: "Silhouette Mangle will appear in the ducts, lurking in the system, barely visible. You will have to lure her away so she doesn't get to the end, where she would spark your monitor to close it and cause a vent error. Your duct and vent snares will also be forced open.",
+        section: "fnafar"
+    },
+    {
+        name: "Serpent Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Serpent_Mangle.webp",
+        description: "She'll be on Floor 6 in the Utility Room and will slowly start coming out of the ground. Using the Controlled Shock in the office will push him back one step. Use the Controlled Shock multiple times to push her back all the way and prevent his attack.",
+        section: "fnafar"
+    },
+    {
+        name: "Scorching Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/40/Scorching_Cupcake.webp",
+        description: "It will appear on random cameras. If you stay on the camera that it is currently on for too long, it will come into the office and make the heat go up faster than usual.",
+        section: "fnafar"
+    },
+    {
+        name: "Livewire Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/14/Livewire_Toy_Freddy_Revamp.webp",
+        description: "He will be in Parts & Service, plugged into the system. However this will allow him to make you play his crappy and rigged 8-bit games on your screen. If you beat them, Livewire Toy Freddy will overload from his failure and make himself explode. If you fail his games, he will jumpscare you.",
+        section: "fnafar"
+    },
+    {
+        name: "Malware Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3b/Malware_Mangle.webp",
+        description: "A part of Malware Mangle will appear on a random Floor 7 camera. Avoid hovering your mouse over them, or she will assemble in your office. If he's fully formed the next time you lift up the monitor, you're dead!",
+        section: "fnafar"
+    },
+    {
+        name: "Moldy Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/Moldy_cupcake.png",
+        description: "The longer the cameras are down, the more chance of him appearing on your desk. When he's there, you will be unable to use the Pizza Cutter until you click on it, which increases toxicity by 25%.",
+        section: "fnafar"
+    },
+    {
+        name: "Calavera Cupcake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/02/Calavera_Cupcake.webp",
+        description: "If the temperature gets too high, he'll appear. If he does, the heater will be disabled until the office is cooled down.",
+        section: "fnafar"
+    },
+    {
+        name: "Glitch Black Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/Black_Bonnie.png",
+        description: "He will randomly make the floor buttons invisible, with random ones being invisible or not. This is unavoidable.",
+        section: "fnafar"
+    },
+    {
+        name: "Choco Glitch Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/72/Choco_Glitch_Bonnie_Revamp.png",
+        description: "He will stay in the Glitch Floor and will sometimes go to your office. When he is in the office, he will be invisible. The only way you can see him is to find glitched out visuals in the office. Click on the glitched visuals to send him back. Not doing so on time will result in your run to end.",
+        section: "fnafar"
+    },
+    {
+        name: "Easter Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/Easter_Chica.webp",
+        description: "AI value * 3 eggs have been hidden across the cameras, which you can click on to collect. Your life is on the line by the way, because if you don't find them all by the end of the night, a jumpscare is all you'll get.",
+        section: "fnafar"
+    },
+    {
+        name: "%-Bit Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/06/%25-Bit_Baby.webp",
+        description: "4 numbers (From 1-20) will be on floors 1-4. Type them out in word form by 3:AM, or your cameras will be glitching out for the rest of the night. The higher the AI, the more glitchy the cameras would be.",
+        section: "fnafar"
+    },
+    {
         name: "Candy Crazed Toy Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/19/Candy_Crazed_Toy_Freddy.png",
         description: "His shop will be set up in the Monkey Room, selling sweets and chocolates, that's it...what, you think the sweets are deadly and will kill you if you eat too many? You think Candy Crazed Toy Freddy thinks you're a sweet and come kill you? Get real, broski!",
