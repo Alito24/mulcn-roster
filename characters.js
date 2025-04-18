@@ -169,13 +169,13 @@ const characters = [
     },
     {
         name: "Dream Puppet",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Dream_Yellow_Bear_Revamp.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Dream_Puppet_Revamp.webp",
         description: "Using the Global Music Box for too long will make Dream Puppet slide towards you in your office and block the view with his face. Turn off the Global Music Box to make him go back.",
         section: "fnaf2"
     },
     {
         name: "Dream Yellow Bear",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Dream_Puppet_Revamp.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Dream_Yellow_Bear_Revamp.webp",
         description: "Sometimes when you take off your mask, he will show up right in front of you. Quickly flip up the monitor to make him disappear before he kills you.",
         section: "fnaf2"
     },
@@ -645,6 +645,198 @@ const characters = [
         name: "%-Bit Baby",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/06/%25-Bit_Baby.webp",
         description: "4 numbers (From 1-20) will be on floors 1-4. Type them out in word form by 3:AM, or your cameras will be glitching out for the rest of the night. The higher the AI, the more glitchy the cameras would be.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Clown Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c1/0%25_Conditioned_Clown_Springtrap.png",
+        description: "At random moments of the night, distorted circus music will start playing quietly in your Office. When this happens, you must search through Floor 8, as 1 camera will have the distorted music play louder, you must use The Alarm on the camera to make the music stop. If you take too long, 0% Conditioned Clown Springtrap will smack the camera with a hammer, making you unable to view said camera, nor be able to use the Alarm on said camera either.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Broiler Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8d/0%25_Conditioned_Broiler_Baby.png",
+        description: "She will slowly approach your office in the GPS system, desperate for repair. When she appears in the office, use the Faz-Wrench on her a couple of times to fully repair her! All you need to know is that she is a ticking time bomb whose explosion would engulf the office in deadly flames!",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Arctic Ballora",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2c/0%25_Conditioned_Arctic_Ballora.png",
+        description: "She is slowly freezing you, making you slower. Either turn off the fan or turn on the heater to slowly remove the freezing. Turning both on will make the freezing go down faster. If both are left on for 30 seconds, 0% Conditioned Arctic Ballora will melt away.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Ballora",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/21/0%25_Conditioned_Ballora.png",
+        description: "Looking at any system other than the camera system for a combined amount of an in game hour will lead to distorted music to start playing when looking at said system, if this happens, leave the system as soon as possible and look for 0% Conditioned Ballora on Floor 1 of the camera system, when you find her, turn on the global music box on the camera you find her to calm 0% Conditioned Ballora down. You can now use the system until the global music box is turned off, in which you will need to repeat the process.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/79/0%25_Conditioned_Baby.png",
+        description: "She will sometimes appear in your office whenever you drop your monitor, poised to attack. Right click on her faceplates to make her endo show up and spam click her with the left mouse button to make her leave before she kills you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Balloon Boy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/0%25_Conditioned_Balloon_Boy.png",
+        description: "This annoying child is scampering around in the Light System. If you see him with his eyes blue, shine your light on him. Seeing him with his eyes red is a sign to leave the system to avoid his attack. But if his eyes are white, stay on the system and leave him alone before he leaves on his own.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Bare Endo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/0%25_Conditioned_Bare_Endo.png",
+        description: "He will accidentally wind up on the Glitch Floor due to his condition. Spray him with a convenient hose that appears to not only drive him out, but will also clean him. If he stays in that floor for too long, he will kill you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Black Ice Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d8/0%25_Conditioned_Black_Ice_Frostbear.png",
+        description: "He somehow got the wrong mechanic script sent to him! He works way different from other ice/cold characters. He actually can tolerate hot office temperatures but hates cold office temperatures. He'll just be chilling is your office, sitting on a lawn chair. If the office is cold for too long, he'll be so mad that he will stand up off of his lawn chair and kill you shortly after! However, if the office is hot, you will be fine. However, at 5:AM he will remember that he's actually supposed to hate hot office temperatures and like cold office temperatures, so you will need to keep the office cool and not hot.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/0%25_Conditioned_Bonnie.png",
+        description: "When he appears in the office, quickly go to the Prize Corner and honk on the Bonnie Plushie's nose to drive him away before he kills you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Firework Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/63/0%25_Conditioned_Firework_Freddy.png",
+        description: "He's in this state specifically because a firework blew up in his face last week, because of this, he now is AFRAID of them. He'll be paying a visit to your office for reasons that have been yet to be documented, but, someone very mischievous (Like one of the many Balloon Boy clones that inhabit this place, god they are annoying, am I rambling on something else? Sorry.) has placed fireworks in your office, some only appearing later in the night. You need to click on them to get rid of them. If he gets in your office and there is a firework in it, he won't be scared but MAD. He'll scream in anger! After a few seconds of him screaming in anger, he'll make you go deaf for the rest of the night.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Easter Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/0%25_Conditioned_Easter_Bonnie.png",
+        description: "Oh Dear, He's in the vent system completely invisible, he is currently chucking rotten eggs at other vent animatronics, Those who get eggs have a 50% change to speed up from anger, and another 50% chance to slow down instead. If there are no other vent animatronics active, he will disable himself and you won't get his points for the night. Survive the night to win!",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/0%25_Conditioned_Chica.png",
+        description: "She will throw stale cupcakes at your cursor throughout the night. Getting hit by one will cause dirt to engulf a part of your screen. Clean the dirt off by shaking your screen with your cursor.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Frost Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/44/0%25_Conditioned_Frost_Plushtrap.png",
+        description: "He'll be in the Duct System. He'll appear on either the left or right Duct depending on the current temperature. If it's at 80° or lower he'll be at the left Duct, if it's at 81° or higher he'll be at the right Duct. He'll attack once per night at 3:AM, Have the Neon Wall at the correct Duct he's about to attack from before he kills you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7f/0%25_Conditioned_Freddy.png",
+        description: "You must use 2 things at the same time 1-20 times on your screen depending on the difficulty. You’ll hear a check mark noise when you’ve completed the goal. If you do not reach the goal, you die. He has a 0.999% chance of him entering your office and killing you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3e/0%25_Conditioned_Golden_Freddy.png",
+        description: "His limbs will be floating around in your office. If his legs and arms appear, click on them. If his head and torso appear, double-click on them. If all of his limbs are here at the same time, Golden Freddy will conjoin himself and jumpscare you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0c/0%25_Conditioned_Jack-O-Bonnie.png",
+        description: "He wanders around Floor 3, always showing up every now and then. If you happen to encounter this roasted rabbit in one of those cameras, the temperature will rapidly raise up. Perhaps your ability to switch the buttons on your monitor will ward him off...",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Jack-O-Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2c/0%25_Conditioned_Jack-O-Chica.png",
+        description: "Leaving the temperature cold for too long will make her fade into the office since she really loves the heat. Turn up the temperature to make her fade away.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/0%25_Conditioned_Mangle.png",
+        description: "Clicking on a random keybind of its choice will increase the chances of her to appear in your office. Put on your mask to ward her off.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Swamp BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/0%25_Conditioned_Swamp_BB.jpg",
+        description: "The more noise is being made, the more he will move towards you in the GPS System. Lower the noise to slowly make him move back before he kills you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Toxic Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/0%25_Conditioned_Toxic_Springtrap.png",
+        description: "Having only one tool enabled in the GPS System will make the Toxic Meter fill up.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ae/0%25_Conditioned_Toy_Bonnie.png",
+        description: "He is in the middle of recharging himself in Party Room B, signified by his eyes glowing more greener. To stop him from fully charging, shine the light at him for a while as the light weakens his battery power. If he fully charges up, you will die.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Toy Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/42/0%25_Conditioned_Toy_Chica.png",
+        description: "Her beak will somehow come to life and will chase your mouse cursor around your screen. Avoid her beak until it decides to give up. If the beak manages to catch up to you, it will clamp down on your cursor and trap it in place. Shake your mouse like a madman to make it fall off to the bottom of the screen.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/ba/0%25_Conditioned_Toy_Freddy.png",
+        description: "When he appears on your monitor, switch cams to make him go away. Otherwise he will cover that exact camera with mold that blocks your view. Wash off the mold by Light-Flashing the camera.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Woodland Toy Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/51/0%25_Conditioned_Woodland_Toy_Freddy.png",
+        description: "Fungai will sometimes grow on your screen, and will grow bigger and bigger to the point of covering most of your view. Uproot the fungai by holding and dragging your cursor onto them. The bigger the fungai, the longer it takes to uproot it.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c3/0%25_Conditioned_Springtrap.png",
+        description: "He will randomly appear and haywire at the far right of your office when the monitor is flipped down. If his eyes are white, stare at him. If his eyes are red, look away from them. Doing the incorrect action will result in death.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/0%25_Conditioned_Plushtrap.png",
+        description: "If you somehow manage to find him in a random camera, you must be required to clean him up. First you need to buy a bottle of soap in the Prize Corner, then you need to find him again, and then double click him to use the soap to clean him up. Failure to do so before 4:AM will cause Plushtrap to leave out dust on every camera of whatever floor he was last seen in.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Melted Chocolate Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/69/0%25_Conditioned_Melted_Chocolate_Bonnie.png",
+        description: "He will appear in your office, he will melt a lot of chocolate when the temperature is at 110 degrees. Stay fresh so that the chocolate does not melt by decreasing it to 60 degrees. If it gets too much hot in your office, he will kill you.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Heartsick Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ed/0%25_Conditioned_Heartsick_Baby.png",
+        description: "Looking at the light system for too long will cause her glowing eyes to fade in to the middle of the system, highlighting your mouse to her eyes if she fully fades in will lead to your demise. you can make her fade out of the light system via clicking the exotic butters (Ai level) Times.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/50/0%25_Conditioned_Foxy.png",
+        description: "He will always be in the Oxygen Storage camera, always trying to leave. Watch over him, and use the Floor Shock Button on him if he appears to have almost left the camera view. Letting him escape will somehow cause your Oxygen to fully drop.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Boulder Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/18/0%25_Conditioned_Boulder_Toy_Bonnie.webp",
+        description: "A rock will be in the Child's Bedroom, where you must take care of it. You will have to give it five sprinkles per hour, which you can do by clicking the rock itself. Not giving the rock enough food will make it start crying, which will increase the Noise Meter. Letting the rock cry for too long will end with you getting a jumpscare.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Flamethrower Bare Endo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/0%25_Conditioned_Flamethrower_Bare_Endo.png",
+        description: "He is currently addicted to setting things on fire, he will be in your office and try and set certain things on fire, like your fan, your Exotic Butters, or any of the doors if they are shut. Shining the golden flashlight on him will get him to stop whatever he's doing. if an object burns for too long, it will turn into a pile of ash making said burned object no longer work.",
+        section: "fnafar"
+    },
+    {
+        name: "0% Conditioned Flaming Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/0%25_Conditioned_Flaming_Springtrap.png",
+        description: "Having the Heater on while viewing a camera will cause its button to have a fiery outline, forcing you to view another camera. Attempting to view the affected camera will drain your oxygen. Have the fan and Silent Ventilation on for a bit to extinguish its flames.",
         section: "fnafar"
     },
     {
