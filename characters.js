@@ -3221,4 +3221,112 @@ const characters = [
         description: "They will occasionally show up in both Doorways, in which you need to use the Fazblaster to send them away. Failure to do so will result in death.",
         section: "mc"
     },
+    {
+        name: "G1 Megatron",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7a/G1_Megatron.png",
+        description: "He will be on floor 4, attempting to sabotage you depending on which room he's in, or just trying to kill you. You can cause him to move to another camera by using a controlled shock, but he'll move on his own too. If he's at one of the halls or the vent, using a controlled shock with the corresponding door open will cause you to die. Oxygen storage: Drains oxygen slowly. Prop storage: Blocks access to the prize counter. Left Closet: Forces the left duct open. Right Closet: Forces the right duct open. Aquarium: He will attempt to break the glass, flooding the building and causing you to get springlocked if you use the mask. Use a controlled shock to prevent this. Left/Right Hall: Close the corresponding door or he'll kill you. Vent: Close the front vent or he'll kill you.",
+        section: "tf"
+    },
+    {
+        name: "G1 Soundwave",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/G1_Soundwave.png",
+        description: "He will be on your desk recording your night. You must change the noise meter (changing levels or source of noise) at least once per hour, or he will have nothing to record and he'll just kill you instead.",
+        section: "tf"
+    },
+    {
+        name: "G1 Shockwave",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/75/G1_Shockwave.png",
+        description: "There will be 25 Energon cubes scattered throughout random cameras, and a space bridge on the task system. If you click an Energon cube, it will be sent to the space bridge. You can activate the space bridge at the cost of 5% power, and it will send all Energon cubes in it to Cybertron. You must send at least AI Energon cubes to Cybertron before the end of the night, or Shockwave will kill you. The space bridge has a limit of 5 Energon cubes at once, however.",
+        section: "tf"
+    },
+    {
+        name: "G1 Thundercracker",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/86/G1_Thundercracker.png",
+        description: "He’ll sometimes fly through the GPS system. You need to use the forcefield while he’s nearby or the noise meter will get maxed out!",
+        section: "tf"
+    },
+    {
+        name: "G1 Skywarp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/G1_Skywarp.png",
+        description: "He’ll sometimes teleport into the GPS system. While he’s there, don’t use the lure or you’ll lure him towards you. If he reaches you, it’s game over. He’ll disappear on his own given enough time.",
+        section: "tf"
+    },
+    {
+        name: "G1 Rainmakers",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d1/G1_Rainmakers.png",
+        description: "They will appear on the Fury’s Rage floor together once per night, creating a storm that weakens your defence, normal, and special attacks. It will last 1 in-game hour. The higher the AI level, the bigger the stat debuffs.",
+        section: "tf"
+    },
+    {
+        name: "G1 Galvatron",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/14/G1_Galvatron.png",
+        description: "After too many uses of the controlled shock (either office or f4), he will appear on Floor 2, and will begin to make his way to either one of the air vents. He can be slowed down by the GMB. If he’s in the right vent, close the right door, If he’s in the left vent, close the left door. He will remove 2% power and reset back to before you used the controlled shock. If both doors are closed, he will remove 5% power instead of 2%.",
+        section: "tf"
+    },
+    {
+        name: "G1 Cyclonus",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e4/Cyclonus_Revamp.png",
+        description: "He will roam around the Maze System. If he gets to you, it's game over. He is not fooled by the decoy. If you are outside his radius, he will continue in the direction he last saw you in. at the start of the night, he will move randomly, and he will also move randomly if you are outside his radius for long enough. Detection Radius: 3 Tiles.",
+        section: "tf"
+    },
+    {
+        name: "G1 Wreck-Gar",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/74/G1_Wreck-Gar.png",
+        description: "Once per night, the TVs will show the big broadcast of 2006. You must take a normal pill and then turn off the TV, or 5 random characters will be added to your night!",
+        section: "tf"
+    },
+    {
+        name: "Animated Beachcomber",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4f/Animated_Beachcomber.png",
+        description: "He will be on Floor 3, messing around with the Audio Lures and replace them with his own music. His music will not work on any character since it is not an affective lure. To fix the Audio Lure, find him on a F3 camera and light-flash him.",
+        section: "tf"
+    },
+    {
+        name: "Animated Blurr",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4d/Animated_Blurr.png",
+        description: "He will be on the GPS System, but he's not actually there but rather on a seperate kind of maze with a circle like exit which you can toggle between, if he reaches the exit he will appear in your office just so he can start yapping for the rest of the night, raising the noise meter, you can double click on a button to close the door and if you had him cornered with both doors closed with no escape, press the 'CRUSH' button to kill the speedy blue racer! but you won't get any Faz-Coins out of him.",
+        section: "tf"
+    },
+    {
+        name: "Animated Lugnut",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/Animated_Lugnut.png",
+        description: "He will stay in your office, sitting in front of your desk. Thrice per night, his eyes will glow red. Use the controlled shock before he jumpscares you.",
+        section: "tf"
+    },
+    {
+        name: "Animated Megatron",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Animated_Megatron.png",
+        description: "He will lurk in the top of the GPS System. At random times, he'll transform into his vehicle mode and start blasting at your forcefield until it breaks. He only appear if you use the alarm on floor 8 too often.",
+        section: "tf"
+    },
+    {
+        name: "Animated Perceptor",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0e/Animated_Perceptor.png",
+        description: "Selecting an office equipment with the cursor instead of the function keys may disable it for a short while.",
+        section: "tf"
+    },
+    {
+        name: "Animated Shockwave",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/81/Animated_Shockwave.png",
+        description: "He crawls in the duct system, and will always head towards the left duct exit. Use the lure to send him away from that duct, otherwise he will kill you.",
+        section: "tf"
+    },
+    {
+        name: "Animated Starscream",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cb/Animated_Starscream.png",
+        description: "He crawls in the Duct System, and will always head towards the right duct exit. Use the Heater to send him away from that duct exit before he kills you.",
+        section: "tf"
+    },
+    {
+        name: "Animated Swindle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/Animated_Swindle.png",
+        description: "Any time you buy something in the Prize Counter, he will replace the bought item with an action figure of himself. Light-Flash that camera to send those figures away. Buying a figure will cause a piece of Swindle to appear in your office. Buying too many figures will cause Swindle to fully put himself together and kill you.",
+        section: "tf"
+    },
+    {
+        name: "Animated Blitzwing",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d7/Animated_Blitzwing.png",
+        description: "There will be a Blitzwing figurine on your desk, and Blitzwing will appear on the GPS System. When you put down the monitor, the Blitzwing figurine will change the face it's showing. When it has a specific face, you must activate the corresponding mode, or Blitzwing will move closer on the GPS System. He can be slowed down by the O.R.C.A Device, however. If he reaches you, it's game over. Fiery Blitzwing: Power A/C. Icy Blitzwing: Heater. Random Blitzwing: Global Music Box.",
+        section: "tf"
+    },
 ];
