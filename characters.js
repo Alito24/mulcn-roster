@@ -3329,4 +3329,10 @@ const characters = [
         description: "There will be a Blitzwing figurine on your desk, and Blitzwing will appear on the GPS System. When you put down the monitor, the Blitzwing figurine will change the face it's showing. When it has a specific face, you must activate the corresponding mode, or Blitzwing will move closer on the GPS System. He can be slowed down by the O.R.C.A Device, however. If he reaches you, it's game over. Fiery Blitzwing: Power A/C. Icy Blitzwing: Heater. Random Blitzwing: Global Music Box.",
         section: "tf"
     },
+    {
+        name: "The Mind-Fractured Mistake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d4/Lord_Maddox.png",
+        description: "Turning him on will somehow cause every characters AI difficulty up to 2x the max AI level. That means that his 2x multiplier causes character AI to go to 40! This is very concerning as this means that your night will literally become a living hell than ever before. What did you do? Why are they so aggressive all of a sudden? I don't think its that important... unless...you-",
+        section: "wmtc"
+    },
 ];
