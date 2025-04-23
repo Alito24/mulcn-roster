@@ -1908,6 +1908,12 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "The Pig",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7d/The_Pig.webp",
+        description: "He's such a pig on Floor 1. Put your mask on to stop it.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
