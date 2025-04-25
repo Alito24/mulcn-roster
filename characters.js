@@ -3344,13 +3344,25 @@ const characters = [
     {
         name: "Captain Olimar",
         imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364060803301447/baemhnrhtuyc1.png?ex=680d09df&is=680bb85f&hm=2effff9f2afe99003475a34c0c2073e0d164590ef272b62911b46415f6ca9e54&=&format=webp&quality=lossless&width=188&height=250",
-        description: "He would go to either the left or right door. Once there he would use his whistle. Close the door on the side you hear the whistle. otherwise you die",
+        description: "He would go to either the left or right door. Once there he would use his whistle. Close the door on the side you hear the whistle. otherwise you die.",
         section: "pikmin"
     },
     {
         name: "Flies",
         imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364766062809160/cbhslb5emfae1.png?ex=680d0a87&is=680bb907&hm=8b7a64f7b091f283cc820d7c79fee5fb5df056d0bcfee80d62586c830e5c56e7&=&format=webp&quality=lossless&width=188&height=250",
         description: "They would be added one by one onto your screen when the toxic meter rises. They don't do anything except be distractions.",
+        section: "pikmin"
+    },
+    {
+        name: "Character A",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365367217088237568/gw9gxnqlosrd1.png?ex=680d0ccf&is=680bbb4f&hm=a4bd8b722ec04ec2d15039b66dce14ce0da5f9104808d42fc8683aa056c454ef&=&format=webp&quality=lossless&width=188&height=250",
+        description: "He would go through the vents. However, he is completely invisible to the map. You'öö only know he's there when the map gets replaced an image of him. Close the vent door otherwise you'll be jumpscared.",
+        section: "pikmin"
+    },
+    {
+        name: "Character D",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365367808313266256/h9wf5xqf2esd1.png?ex=680d0d5c&is=680bbbdc&hm=32feb453085c4c5a1d6a75388ef36cb431744dd7fce7870846c03e7c3289817f&=&format=webp&quality=lossless&width=188&height=250",
+        description: "Due to him being 'Dead' at the start of the night, he can't attack you. However, he can mess with the meters by making them randomly change their values.",
         section: "pikmin"
     },
 ];
