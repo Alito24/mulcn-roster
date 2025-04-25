@@ -1938,6 +1938,12 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Gumball Scribblehands",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365378902813446297/Gumball_Swivelart.png?ex=680d17b1&is=680bc631&hm=338c07b0242bbe8e50f23e7c22b4abd864558e47b6c5190f0e0010f87f4e606d&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would appear on top of the vent system radar, blocking your view. Use the Global Music box to make it go away.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
@@ -3393,6 +3399,18 @@ const characters = [
         name: "Character D",
         imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365367808313266256/h9wf5xqf2esd1.png?ex=680d0d5c&is=680bbbdc&hm=32feb453085c4c5a1d6a75388ef36cb431744dd7fce7870846c03e7c3289817f&=&format=webp&quality=lossless&width=188&height=250",
         description: "Due to him being 'Dead' at the start of the night, he can't attack you. However, he can mess with the meters by making them randomly change their values.",
+        section: "pikmin"
+    },
+    {
+        name: "Sketch Bulborb",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365376598789980160/l9enyy4ps96e1.png?ex=680d158c&is=680bc40c&hm=214d7bc4dadc72af1a5f52ad181dd4f5c4714233e97bbceb9e9f802843d5744c&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would be in your office however he won't attack you because its a chill creature. However, you must keep the office below 80° otherwise it will kill you.",
+        section: "pikmin"
+    },
+    {
+        name: "Remembered Old Buddy",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365377263847084063/jaiy0lxduxme1.png?ex=680d162b&is=680bc4ab&hm=e918b5fa9556e0f5a259a0f2a79f69030e04d73996e1fc68b70acfca306dd4db&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would be on your desk. When its lenses turn green, use the controlled shock as it would waste power when the lenses are green.",
         section: "pikmin"
     },
 ];
