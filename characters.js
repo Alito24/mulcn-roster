@@ -3228,6 +3228,12 @@ const characters = [
         section: "mc"
     },
     {
+        name: "Management Wanted Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/60/MW_Freddy_Fazbear.png",
+        description: "The W and F shortcuts for the vent doors don't work anymore, instead, you have to use the conveniently placed door levers there to close them.",
+        section: "mc"
+    },
+    {
         name: "G1 Megatron",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7a/G1_Megatron.png",
         description: "He will be on floor 4, attempting to sabotage you depending on which room he's in, or just trying to kill you. You can cause him to move to another camera by using a controlled shock, but he'll move on his own too. If he's at one of the halls or the vent, using a controlled shock with the corresponding door open will cause you to die. Oxygen storage: Drains oxygen slowly. Prop storage: Blocks access to the prize counter. Left Closet: Forces the left duct open. Right Closet: Forces the right duct open. Aquarium: He will attempt to break the glass, flooding the building and causing you to get springlocked if you use the mask. Use a controlled shock to prevent this. Left/Right Hall: Close the corresponding door or he'll kill you. Vent: Close the front vent or he'll kill you.",
