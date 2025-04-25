@@ -3341,4 +3341,16 @@ const characters = [
         description: "Turning him on will somehow cause every characters AI difficulty up to 2x the max AI level. That means that his 2x multiplier causes character AI to go to 40! This is very concerning as this means that your night will literally become a living hell than ever before. What did you do? Why are they so aggressive all of a sudden? I don't think its that important... unless...you-",
         section: "wmtc"
     },
+    {
+        name: "Captain Olimar",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364060803301447/baemhnrhtuyc1.png",
+        description: "He would go to either the left or right door. Once there he would use his whistle. Close the door on the side you hear the whistle. otherwise you die",
+        section: "pikmin"
+    },
+    {
+        name: "Flies",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364766062809160/cbhslb5emfae1.png",
+        description: "They would be added one by one onto your screen when the toxic meter rises. They don't do anything except be distractions.",
+        section: "pikmin"
+    },
 ];
