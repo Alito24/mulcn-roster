@@ -978,6 +978,24 @@ const characters = [
         section: "fnafhw2"
     },
     {
+        name: "Virtual Glamrock Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/88/Virtual_Glamrock_Chica.png",
+        description: "Every 2 hours, she will appear on the other side of your desk, wanting something to eat or drink. Look on the GPS System to find the meal she requested and click on it to give it to her. If you take too long, she will take a bite out of you! (Death).",
+        section: "fnafhw2"
+    },
+    {
+        name: "Virtual Shattered Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7f/Virtual_Shattered_Chica.png",
+        description: "She will go around the Vent System, eating trash manufactured by the Trash Factory, so that it doesn't make the air in the building toxic. However, she ate some spoiled pizza last night and called in sick for work, therefore you'll have to do her job instead! Eat trash by clicking on it in the Vent System. Letting too much of it accumulate will make the toxic meter rise on its own.",
+        section: "fnafhw2"
+    },
+    {
+        name: "Virtual Funtime Foxy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/Virtual_Funtime_Foxy_2.png",
+        description: "Your flashlight will be replaced by a Flash Beacon. This will make it so the Flashlight would turn for a couple of seconds before becoming deactivated again. You can use it by pressing right click. However if you flash too much, Funtime Foxy will jumpscare you.",
+        section: "fnafhw2"
+    },
+    {
         name: "Shadow Freddles",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c6/Shadow_Freddles_Resize.webp",
         description: "When you lift up the monitor, they will start to appear in front of you. Shine your UV Flashlight to make them go away. If you let too many of them appear, you will die.",
