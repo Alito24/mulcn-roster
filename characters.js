@@ -3343,13 +3343,13 @@ const characters = [
     },
     {
         name: "Captain Olimar",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364060803301447/baemhnrhtuyc1.png",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364060803301447/baemhnrhtuyc1.png?ex=680d09df&is=680bb85f&hm=2effff9f2afe99003475a34c0c2073e0d164590ef272b62911b46415f6ca9e54&=&format=webp&quality=lossless&width=188&height=250",
         description: "He would go to either the left or right door. Once there he would use his whistle. Close the door on the side you hear the whistle. otherwise you die",
         section: "pikmin"
     },
     {
         name: "Flies",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364766062809160/cbhslb5emfae1.png",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364766062809160/cbhslb5emfae1.png?ex=680d0a87&is=680bb907&hm=8b7a64f7b091f283cc820d7c79fee5fb5df056d0bcfee80d62586c830e5c56e7&=&format=webp&quality=lossless&width=188&height=250",
         description: "They would be added one by one onto your screen when the toxic meter rises. They don't do anything except be distractions.",
         section: "pikmin"
     },
