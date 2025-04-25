@@ -972,6 +972,12 @@ const characters = [
         section: "fnafhw2"
     },
     {
+        name: "Springtrap Cutout",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ef/Springtrap_Cutout.png",
+        description: "There will now be a Fazerblaster button on all of the Floor 3 cameras. If Springtrap Cutout ever appears on them, quickly press the button before he jumpscares you, disabling the Floor 3 Audio Lure for a short while.",
+        section: "fnafhw2"
+    },
+    {
         name: "Shadow Freddles",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c6/Shadow_Freddles_Resize.webp",
         description: "When you lift up the monitor, they will start to appear in front of you. Shine your UV Flashlight to make them go away. If you let too many of them appear, you will die.",
