@@ -486,12 +486,6 @@ const characters = [
         section: "fnafw"
     },
     {
-        name: "Cccccc",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5e/Cccccc.webp",
-        description: "Not keeping them sealed on the Glitch Floor by keeping your toxic meter in check will result in them breaking out and infecting the Duct System, disabling the seal ducts and audio lure.",
-        section: "fnafw"
-    },
-    {
         name: "Big Jack",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/Big_Jack.webp",
         description: "He stays on the Cam System and becomes larger and larger over time, thus blocking more and more of your view. Use the Global Music Box to reverse his progress.",
