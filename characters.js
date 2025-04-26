@@ -2508,6 +2508,36 @@ const characters = [
         section: "doors"
     },
     {
+        name: "Retro Rush",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723181742297260/Retro_Rush.png?ex=680e5854&is=680d06d4&hm=2aceee48f3aad0ac8403d96f7bbcc85dc0e3935dbb6a887041e2ca1a2011d976&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would appear in any of the Floor 2 cameras. Once you hear the sound cue, close the monitor and put on the mask as otherwise you'll die.",
+        section: "doors"
+    },
+    {
+        name: "Retro Eyes",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723561800634509/Retro_Eyes.png?ex=680e58af&is=680d072f&hm=0debda7c0ec3d81fd7a1006810c19c86d06896f54287ed860c5d43ae594d720c&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would appear over one of the vent snares. if you have the vent snare on top of it, the Exposure meter will increase.",
+        section: "doors"
+    },
+    {
+        name: "Retro Screech",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723890223157358/Retro_Screech.png?ex=680e58fd&is=680d077d&hm=9d4f711e78302b8c7e8a3b0d9ee307dd0c1ec8a64ecd2239f8fb232f8f31f534&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It will shoot out a rocket launcher shot. Keep both doors open as if it hits one of the doors, it will become broken and unable to be closed.",
+        section: "doors"
+    },
+    {
+        name: "Retro Ambush",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365724513802653736/Retro_Ambush.png?ex=680e5992&is=680d0812&hm=94454493c8a1b2b25e45f70d10e0692c83a7b273992021c019ac840940f165ef&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It appears in the GPS System, replacing your avatar. Quickly close the monitor and put on the mask as otherwise you'll die.",
+        section: "doors"
+    },
+    {
+        name: "DRAKOBLOXXER",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365724834163851397/DRAKOBLOXXER.png?ex=680e59de&is=680d085e&hm=909ffd74fc39afb51f6f1cad5ef3866a20f13f9ff45808b7a6c457900cca1240&=&format=webp&quality=lossless&width=188&height=250",
+        description: "A roblox obby would appear as a seperate screen from time to time. Complete the obby in the time limit as if you run out of time. DRAKOBLOXXER is spawned and it would kill you.",
+        section: "doors"
+    },
+    {
         name: "Ambush",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Ambush.png",
         description: "When you hear Ambush's sounds, quickly put on the Mask. Once Ambush reaches the Office, it will dash back and forth multiple times before finally disappearing. If the Mask is off at any point while Ambush is in the Office, you will die.",
