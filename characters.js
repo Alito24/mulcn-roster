@@ -3444,6 +3444,12 @@ const characters = [
         section: "tf"
     },
     {
+        name: "2005 IDW Scrapper",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/2005_IDW_Scrapper.png",
+        description: "The light of the flashlight may duplicate as a mirrored light, adding an extra bar of usage and can affect light-sensitive characters. Fuse the two lights into one by keeping them in the center of the screen for a short time until you hear an energy sound cue.",
+        section: "tf"
+    },
+    {
         name: "Animated Swindle",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/Animated_Swindle.png",
         description: "Any time you buy something in the Prize Counter, he will replace the bought item with an action figure of himself. Light-Flash that camera to send those figures away. Buying a figure will cause a piece of Swindle to appear in your office. Buying too many figures will cause Swindle to fully put himself together and kill you.",
