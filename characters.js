@@ -2274,6 +2274,36 @@ const characters = [
         section: "gmod"
     },
     {
+        name: "Purple Man",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b5/PurpleMale.png",
+        description: "He appears time and time again in your office and will go and help you to mute Phone Guy for you, though it will only last for a minute.",
+        section: "gmod"
+    },
+    {
+        name: "Purple87Guy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ca/Purple87Guy.png",
+        description: "He is confused on the fact he never appeared in the events map, go and explain a good reason why he was left out, giving him a bad reason would result him killing you.",
+        section: "gmod"
+    },
+    {
+        name: "Old Purple Guy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b8/OldPurpleGuy.png",
+        description: "Many animatronic parts will scatter and flood your entire office, put the parts in a container to stop the flow and prevent yourself from drowning.",
+        section: "gmod"
+    },
+    {
+        name: "Purple Male",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/80/PurpleMan.png",
+        description: "He will be at Floor 3 relaxing, but after Dee-Dee summons another character, he will go and try to disable the character's AI but he doesn't know who it is, help him by telling him what character Dee-Dee activated so he can go and disable the character's AI, failing would result him disabling all your cameras for 3 minutes.",
+        section: "gmod"
+    },
+    {
+        name: "Purple Person",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e4/PurplePerson.png",
+        description: "He has send Black Mesa hitmen after you and will appear in your office, try to stop and kill them by using a gun he gave you and shoot all of the hitmen in the office, failing this would lead to death.",
+        section: "gmod"
+    },
+    {
         name: "Splinks Bonnie",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/Splinks_Bonnie.png",
         description: "He will sit on Floor 3, and the more noise you make, the closer he will be. When he appears in the office, you urgently need to put on a mask, otherwise he will kill you. If you don't make noise, he doesn't come to your office, but will continue to sit on the third floor.",
@@ -3105,6 +3135,12 @@ const characters = [
         name: "Stretched Virtual Bucket Bob",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a1/Svbb.png",
         description: "When the temperature is way too high, he will appear and become stretched and disable your mask. To get rid of him, use the flashlight to make him leave.",
+        section: "oo"
+    },
+    {
+        name: "Black-and-White Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2d/B%26W_Chica.png",
+        description: "If she appears in your office, it will turn black-and-white. If you do anything (open camera, change mode, turn on flashlight, open and close doors, etc.), you will die. She will leave after a short time.",
         section: "oo"
     },
     {
