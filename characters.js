@@ -2466,6 +2466,12 @@ const characters = [
         section: "doors"
     },
     {
+        name: "SEEKINGWALL!!!!",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365720022890184834/SEEKING_WALL.png?ex=680e5563&is=680d03e3&hm=c57884fd06e3082617f6c0276611d8d1b5a02b474c1840f4f3ba515619936fac&=&format=webp&quality=lossless&width=188&height=250",
+        description: "It would appear on the Fury's Rage Floor. When it appears it would rush you. Quickly block it as otherwise you'll die.",
+        section: "doors"
+    },
+    {
         name: "Jeff The Killer NPC",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a3/Heknowsyourcrimes.png",
         description: "Jeff The Killer will bide in your office, counting how many crimes you've done so far in the night (Like closing the doors/vents when theres nobody to close off, or accidentally using the mask when there's nobody to trick.) And when 7 crimes have been committed, he'll give you a riddle to solve, if you fail the riddle, he'll stab you, increasing the Toxic Meter by 75%.",
