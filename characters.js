@@ -2461,7 +2461,7 @@ const characters = [
     },
     {
         name: "Hide",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9a/Hide_Revamp.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/00/HideDozerIsHereIcon.png",
         description: "It'll start to appear when the mask is kept up for too long, flashing images on your screen. Simply take the mask off to stop it. If you ignore its warnings for too long, it'll kick you out of the mask anyways and fill the toxic meter by 65%.",
         section: "doors"
     },
