@@ -3407,4 +3407,22 @@ const characters = [
         description: "It would be on your desk. When its lenses turn green, use the controlled shock as it would waste power when the lenses are green.",
         section: "pikmin"
     },
+    {
+        name: "Louie",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365423307444457552/t13c2sq3a11d1.png?ex=680de9cc&is=680c984c&hm=b07127486302c2de4bf53845de10e4fabc77ca1ae769d882bedefc305289ac1f&=&format=webp&quality=lossless&width=188&height=250",
+        description: "He would be at the Kitchen Camera, making Bulborb filets. when he comes to your office, make sure to eat his meal. However it causes slight food poisoning and increases the toxicity meter. If you dont eat his meal the 2nd time he appears. he will get pissed and kill you.",
+        section: "pikmin"
+    },
+    {
+        name: "Yellow Wollywog",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365436111593148416/making-a-ucn-mechanic-for-a-pikmin-character-until-pikmin-5-v0-hthaihi7ixzd1.png?ex=680df5b9&is=680ca439&hm=9e61e668c932d417a7170852626fb93be02731c86240aa57472ed7c8e40956ee&=&format=webp&quality=lossless&width=188&height=250",
+        description: "If your mouse cursor is below 25% of the screen, Yellow wollywog has a chance to appear which means you'll die.",
+        section: "pikmin"
+    },
+    {
+        name: "Gamepad User & Attraction Pikmin",
+        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365629490876780574/making-a-ucn-mechanic-for-a-pikmin-character-until-pikmin-5-v0-7n8fenddjhhd1.png?ex=680e0112&is=680caf92&hm=e6bc04ea09859cfa7953e98ef26b50510fd518f720242e7e1e90d0e003c2bed5&=&format=webp&quality=lossless&width=188&height=250",
+        description: "He would throw one of the pikmin into either duct, alongside this, there is a orb on the desk with it either being, red, yellow or blue which you can change via the + button on the Numberpad. change the color to the pikmin he throws, otherwise you'll die.",
+        section: "pikmin"
+    },
 ];
