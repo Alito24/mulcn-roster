@@ -2442,6 +2442,145 @@ const characters = [
         section: "scp"
     },
     {
+        name: "SCP-169",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0f/SCP-169.png",
+        description: "SCP-169 is way to large to fit inside the building, so instead it sits where it original was, sleeping. If too much noise is made SCP-169 will awake from its slumber, and if noise is still being after that or just after some time, SCP-169 will attack the entire building by sending a tsunami! To make sure this doesn't happen, make as little noise as possible, and have the Global Music Box turned on, specifically to 'Swan Lake: Conclusion' to make SCP-169 fall back asleep faster.",
+        section: "scp"
+    },
+    {
+        name: "SCP-173",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9d/SCP-173.png",
+        description: "SCP-173 will slowly advance to your office of Floor 4, looking at him on the cameras will stop him from moving any further. If he manages to reach the entrance, he will not reset and wait until the door is open and you have the monitor up to slip in.",
+        section: "scp"
+    },
+    {
+        name: "SCP-205",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3d/SCP-205.png",
+        description: "The flashlight on the Light System has been replaced by SCP-205, which will always start being off. To turn SCP-205 on, click the left or right buttons on the sides to turn one instance on, illuminating half of the room. A woman's silhouette will appear on either one of the flood lamps, make sure the light is on for her before closing the monitor. If horned men appear, quickly turn off the flood lamp that shown on them, otherwise you will die. If Virtual Funtime Foxy is active, the buttons will create a quick flash instead, and if the horned men appear, flash the opposite light where they were.",
+        section: "scp"
+    },
+    {
+        name: "SCP-215",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/54/SCP-215.png",
+        description: "SCP-215 will be attached to the Freddy Fazbear Mask the entire night. Wearing the mask for too long will cause paranoia, making you believe that certain objects in your office are sentient, raising the panic meter overtime. The time it takes for the panic meter to start going up is reset every time the mask is put on.",
+        section: "scp"
+    },
+    {
+        name: "SCP-498",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/35/SCP-498.png",
+        description: "Every 45 seconds, SCP-498 will go off. Check the cameras between Floor 1 - 4 to find SCP-498, then hit snooze to reset it. Every 10 seconds that SCP-498 is not found, it will get louder overtime, raising the noise meter. If SCP-498 gets too loud, it will temporarily deafen you. If it gets even louder past that point, it will eventually kill you.",
+        section: "scp"
+    },
+    {
+        name: "SCP-500",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fd/SCP-500.png",
+        description: "SCP-500 will be added to the pills shelf. If a pill from SCP-500 is taken, all meters and effects will be reset, examples being the Panic Meter and the bright yellow effects from Jumpscare Golden Freddy, as well as returning health back to 100% from healthbars for characters with boss fights, such as Mini-P. The higher the AI level is, the less pills there will be, and SCP-500 cannot be restocked.",
+        section: "scp"
+    },
+    {
+        name: "SCP-513",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4b/SCP-513.png",
+        description: "If you clap 3 times in 2 seconds, you'll ring SCP-513. After that, SCP-513-1 will appear on the cameras and quickly disappear once seen, raising your panic meter by a little bit each time he's seen.",
+        section: "scp"
+    },
+    {
+        name: "SCP-682",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/682.png",
+        description: "While SCP-682 can't be seen through out the entire night doesn't mean that it isn't there. He'll wander around the building, occasionally roaring and shaking the screen. At one point, he'll attack one of your tools, whether that'd be a door, video, audio, ventilation, systems, or vent snare which can't be fixed until 15 seconds later (with the exception of the ventilation). At 3AM, SCP-682 will break out of the building and have a fight with MTF helicopters, however, the MTF will always loose. Shortly after this fight, Alpha-Warheads will be detonated 90 seconds later, quickly search every camera and floor to find the button that disables it, after which MTF helicopters will return to recontain SCP-682, and SCP-682 will resume wreaking havoc on the building.",
+        section: "scp"
+    },
+    {
+        name: "SCP-714",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/SCP-714.png",
+        description: "You can wear SCP-714 at any time during the night by clicking it on the desk, doing so will overtime wear you out as well as slowing you down and making your vision darker, however, wearing SCP-714 will block the Panic Meter and Toxicity Meter from rising, while also keeping the Oxygen Meter at the same level. If a non-lethal character jumpscares you, there's a chance that they'll take it away from you for the rest of the night.",
+        section: "scp"
+    },
+    {
+        name: "SCP-867",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/SCP-867.png",
+        description: "On certain occasions, one of the trees on the Lumber Co. floor will be replaced with SCP-867. If SCP-867 grows fully, it'll shoot it's needles into you, causing the tree to grow inside and eventually cause your death! Cut it down before it grows to it's full size!",
+        section: "scp"
+    },
+    {
+        name: "SCP-895",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fe/SCP-895.png",
+        description: "When viewing the cameras, SCP-895 may sometimes appear on one of the cameras. When it does, quickly change the camera otherwise visual hallucinations will appear on the monitor and raise your panic meter.",
+        section: "scp"
+    },
+    {
+        name: "SCP-914",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/SCP-914.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "scp",
+        link: "https://multiverse-custom-night.fandom.com/wiki/SCP-914"
+    },
+    {
+        name: "SCP-1128",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dd/SCP-1128.png",
+        description: "Before the night started, you were affected by SCP-1128. Staring too long at the Aquarium or Bathroom camera will cause you to see shadows of SCP-1128 in the water swimming around, looking at these shadows for too long will cause your panic meter to rise. Occasionally, staring at SCP-1128 will cause him to make a sound, slowly raising the panic meter more even when you're not looking at SCP-1128.",
+        section: "scp"
+    },
+    {
+        name: "SCP-1471-A",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/21/SCP-1471.png",
+        description: "SCP-1471-A will sometimes try to install 'MalO ver1.0.0' on your monitor, hit cancel when the download pops up. If you fail to hit cancel before it downloads, SCP-1471-A will occasionally appear on your camera monitor, the longer you look at them, the more your panic meter starts to rise!",
+        section: "scp"
+    },
+    {
+        name: "SCP-1733",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e6/SCP-1733.png",
+        description: "A new rewind button is added on the monitor, pressing it and holding it will allow you to go a few seconds or minutes back into the night to fix any mistakes you've made. The more you press this button and go back, the more the characters selected for the night remember each playback, and grow more aggressive and desperate to end your run, getting faster each time. Eventually, if you hit the rewind button an amount of times, the lighting of all cameras and your office will shift to a deep reddish-hue.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001-J - 'Sheaf of Playas'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bd/SheafofPlayas.png",
+        description: "Love is in the air for everyone in MCN, this applies to animatronics to humans and to anomalies! However, they're not sure how to get to each other, so it's up to you to help them. When a new notification pops up in the corner of your screen, one new character will ask you to create a page for them, and they'll pay you a somewhat handsome faz-coin prize. When you're writing the page, actually give them a good description and describe their personality traits, if you make them look bad, they'll kill you instead.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001-J",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/SCP-001-J.png",
+        description: "SCP-001-J will sit on the far left side of your office for the entire night, push it if you want to die.",
+        section: "scp"
+    },
+    {
+        name: "SCP-001½-J",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/SCP-001andaahalf-J.png",
+        description: "SCP-001½-J will sit on the far right side of your office for the entire night, push it to restart the night.",
+        section: "scp"
+    },
+    {
+        name: "SCP-420-J",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/420J.png",
+        description: "Listen, dude, if your not hitting this stuff constantly, what are you doing?! You're gonna start feelin' tired and eventually pass out, dude! So here's the deal, you gotta hit this stuff about every... hour... or so, so you don't pass out! But there is a side effect to this! You smoke that doobie and you'll see some craaazy stuff, hahahahahahaha! Talk to you later, man!",
+        section: "scp"
+    },
+    {
+        name: "SCP-789-J",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/SCP-789-J.png",
+        description: "Anytime you check Cam 6 (on any floor), SCP-789-J will create a loud and auditory disturbance.",
+        section: "scp"
+    },
+    {
+        name: "Dr. Bright's Killer Animatronics",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/KillerRobot.png",
+        description: "Just because Dr. Bright has been banned from commissioning animatronics, doesn't mean he can't create them on his own, however, he needs some cash, and the only person to look forward towards is you. The more Faz-Coins you collect, the more Dr. Bright will appear on your monitor, obscuring your vision and blocking the camera, begging for some of your Faz-Coins for his project, the amount he asks for also gets more expensive the more Faz-Coins you have, but it wont equal more than the amount you already have. If you decide to give Dr. Bright some money, he'll build one part of each of the animatronics on the Light System. Once all of the animatronics have been constructed, they'll kill you, oh well.",
+        section: "scp"
+    },
+    {
+        name: "Wendigoon SCP-001",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Wendigoon_SCP_001.webp",
+        description: "During the night, they will not let you eat any sort of food at all! Nothing slips by them! If any food-like characters are in your night like Fredburger, Pickles or Cheesehead, they will take away all the points from those characters and throw them all away! If you want to get your points back, search the cameras and try to find Point Coins! Once you collect one, the Point Value from one of the active food characters in your night will be re-added to your score! Search the cameras for all the Point Coins to get all your lost points back before your night ends!",
+        section: "scp"
+    },
+    {
+        name: "Epsilon-11 'Nine-Tailed Fox'",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a3/NineTailedFox.png",
+        description: "At a random point in the night, an intercom sound will play saying that Epsilon-11 has entered the building, while this raises the noise meter, it's heard all through out the building, so no animatronics will go to your location or become aggravated. If any SCPs are selected for the night, Epsilon-11 will recontain them and remove them from the night. On first glance, Epsilon-11 might be seen as the good guys, however you're a Class-D, and if they see any Class-D, they'll terminate them. They come from Floor 1 and travel to different floors as well, if you see an MTF unit at your door, close it, if you don't they'll walk in and kill you. If the door is closed an MTF unit might call to control for the door to be opened, which it will. Instead, you need to pull the lever in your office to disable all controls, which at that point the MTF can't open the door and will try to get inside another way, just note that when you turn off control, you can't close doors either!",
+        section: "scp"
+    },
+    {
         name: "The Femur Breaker",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b9/FemurBreaker.png",
         description: "The Femur Breaker acts as a universal audio-lure against sound sensitive animatronics on all floors. Press the 'Activate Femur Breaker' button on your camera monitor to activate the Femur Breaker, just make sure you flipped the lever in your office first before activating it to turn on the buildings PA system, otherwise it won't work. The Femur Breaker only has one use, so use it in a pinch! The Femur Breaker works especially on SCP-106, which will remove him from the night. The higher the AI level, the slower the animatronics will be lured towards it.",
