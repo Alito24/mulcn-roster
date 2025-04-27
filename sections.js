@@ -115,6 +115,11 @@ const sections = [
         bannerImage: "banners/gmod.png"
     },
     {
+        id: "tf2",
+        name: "Team Fortress 2",
+        bannerImage: "banners/tf2.webp"
+    },
+    {
         id: "scp",
         name: "SCP",
         bannerImage: "banners/scp.webp"
