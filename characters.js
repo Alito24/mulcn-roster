@@ -1501,7 +1501,7 @@ const characters = [
     },
     {
         name: "OMC High-Score Toy Chica",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/OMC_Highscore_Toy_Chica.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/52/OMC_High-Score_Toy_Chica.webp",
         description: "The monitor screen will sometimes have the color scheme of Old Man Consequences. Press the Eye button in the top right corner that hides certain elements of the map to turn the screen back to normal. The button will be inactive for 10 seconds thereafter. Taking too long will result in your game window being minimized for the rest of the night!",
         section: "ulcn"
     },
