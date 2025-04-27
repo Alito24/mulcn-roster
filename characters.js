@@ -3547,4 +3547,156 @@ const characters = [
         section: "kfp2",
         link: "https://multiverse-custom-night.fandom.com/wiki/Final_Battle_Lord_Shen"
     },
+    {
+        name: "HE BF",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/63.png",
+        description: "Everytime you change the Fan State, he will do the 'Hey!', that will raise the Noise Meter for one second! (like clapping) You can't avoid it.",
+        section: "he"
+    },
+    {
+        name: "HE BF (Miss)",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/86/64.png",
+        description: "Several notes will fall from the Task System, click the arrow buttons in the exact moment to avoid HE Miss BF raise the Noise Meter for one second! If you fail too much, he will end your run by raising the Toxic Meter!",
+        section: "he"
+    },
+    {
+        name: "HE BF Colors Crew",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/65.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "he",
+        link: "https://multiverse-custom-night.fandom.com/wiki/HE_BF_Colors_Crew"
+    },
+    {
+        name: "HE Bambi",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4a/1.png",
+        description: "He will throw multiple phones through the Front Vent Door. If you close the door, the phones will break it, instead, use the Shakelight or Straplight in the Front Vent door! Every phone that hits you depletes -10 HP.",
+        section: "he"
+    },
+    {
+        name: "HE Bambi (Relaxed)",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1f/69.png",
+        description: "He will appear in the office, but he will not kill you, instead, he will remove all of your points of your night one by one! Quickly shoot him with the Fazer Blaster to make him leave and stop him from stealing your points! You need to be fast because you will not recover the lost points.",
+        section: "he"
+    },
+    {
+        name: "Upheaval Bambi",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/2_2.png",
+        description: "He will walk around Floor 2. You can see his eyes in the darkness. Every time you flash the cam he is at, he will go back one step. Avoid him going into the elevator to survive! If he reaches one of the vents, closing the corresponding doors or doing anything else will not work, just flash him. But if you flash him too many times, he will glitch more and more. If he glitches too much, the game will crash.",
+        section: "he"
+    },
+    {
+        name: "Conbi",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/Conbi.png",
+        description: "His eye will appear in the darkness of left door. Quickly use the Golden Flashlight to make him leave! But, everytime you shine him, he will disable your Golden Flashlight for several seconds. Don't close the door or he will disable it for the rest of the night! If you don't shine him, he will kill you.",
+        section: "he"
+    },
+    {
+        name: "Manbi Phase 1",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/3.png",
+        description: "He will appear in one of your doors, you need to close all doors except the one where he is.",
+        section: "he"
+    },
+    {
+        name: "Manbi Phase 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/4.png",
+        description: "He wants to give you a hug, but with those hands, he can't enter the office. An earthquake will happen, this will make him go inside. But YOU FELL FOR THE OLDEST TRICK! Actually he wants KILL YOU! That happened because you didn't use the Shakelight to make him go off!",
+        section: "he"
+    },
+    {
+        name: "Jeremy Phase 1",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/78/5_5.png",
+        description: "He will stretch from your office when one of your doors is open, if the other door is closed when he reaches it, he will just hit himself in the head! He will steal all your rupees for that mistake!",
+        section: "he"
+    },
+    {
+        name: "Wuznick",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/07/20.png",
+        description: "He will put his static effects through your monitor. You need to buy other Wuznick clones that appear at the Prize Corner to make the effects stop. (each clone costs 30 Faz-Coins).",
+        section: "he"
+    },
+    {
+        name: "Holy Expunged",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7b/14.png",
+        description: "At the end of the night, before going to the Point Score, you will go to heaven to talk with him, if you want, you can ask him for whatever or idk. It will not do anything to your night, but you need to make your choice because if you just leave, Holy Expunged will just say you are a bad person! So when you leave, he will remove a few points from your score. BUT, you can do 'Double or Nothing', that means, you need to pass the night again and gain a double amount of points! Yes, and after that second night, you can talk with him again, and you can play 'Double or Nothing' as many times as you want and get so much points.",
+        section: "he"
+    },
+    {
+        name: "Jeremy Phase 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/17.png",
+        description: "He, at the beginning of the night, stealed your modes! You need to find him in the cameras of Floor 3, and after that you need to force him to go to your office!",
+        section: "he"
+    },
+    {
+        name: "Cessated",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/46.png",
+        description: "He will be just chilling in your office, sometimes, he will glitch out, you need to fastly shock him, or else he will glitch out your game and will get you back to the menu!",
+        section: "he"
+    },
+    {
+        name: "Demiurge Crew",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/62.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "he",
+        link: "https://multiverse-custom-night.fandom.com/wiki/Demiurge_Crew"
+    },
+    {
+        name: "Hortas",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bf/36.png",
+        description: "He will be in your office, sometimes, he will talk too much, raising the Noise Meter, quickly clap while looking at him to make him shut up.",
+        section: "he"
+    },
+    {
+        name: "Hortas (Mad)",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/87/37.png",
+        description: "Put on the mask when he says anything!",
+        section: "he"
+    },
+    {
+        name: "Hortas True Form",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b7/78.png",
+        description: "Hear the side he's talking and quickly look at that side!",
+        section: "he"
+    },
+    {
+        name: "R'lyehian",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b9/28.png",
+        description: "He controls time! He will go to the Aquarium to spy you through a magic ball. Every time he is in that camera, he will change the hour and time numbers to random numbers. That actually doesn't change the time, but you can't know how much time is left until 6:AM. Shock him to make him go to another camera.",
+        section: "he"
+    },
+    {
+        name: "Cyrill",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/50/29.png",
+        description: "He will move to you in GPS System, but not actually moving. Instead of moving by himself, he will move one step everytime you Light-Flash a camera!",
+        section: "he"
+    },
+    {
+        name: "Morpheus Phase 1",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4d/40.png",
+        description: "He will sometimes appear in the office! He will engage in a a boss fight with you. You need to avoid his attacks (do not let him touch your mouse) and attack him (spam click him) until he dies!",
+        section: "he"
+    },
+    {
+        name: "Morpheus Phase 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/41.png",
+        description: "He's on Light System, be sure to make him glow with the flashlight to make sure he still in Light System. If he´s gone, he will run to the Basement, where a deactivated bomb is, and he will activate it, killing you in the process!",
+        section: "he"
+    },
+    {
+        name: "Morpheus Phase 3",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/50/79.png",
+        description: "If you hear funny walks, you need to wait to his hat to appear in the Basement. Literally, you need to press the omgdodoexplode button in the Basement when that hat appears to disappear that f%cking hat and make this dude so f?cking sad and literally banish him in that void you call hell.",
+        section: "he"
+    },
+    {
+        name: "Manbi Phase 3",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f1/6.png",
+        description: "He doesn't need his head since it isn't actually connected to him. You need to click and drag his head away from him when he appears or else he will steal your Faz-Coins. How? He has like, 6 hands.",
+        section: "he"
+    },
+    {
+        name: "Incomprehensible Bambi",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/68/39.png",
+        description: "He will apply a smoke effect in your night! He's on the Duct System, being invisible. You can know how near he is from your office by seeing how strong the effect is. If it's too strong, seal the opposite duct at the one you have sealed!",
+        section: "he"
+    },
 ];
