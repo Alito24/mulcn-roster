@@ -3516,4 +3516,35 @@ const characters = [
         description: "He would throw one of the pikmin into either duct, alongside this, there is a orb on the desk with it either being, red, yellow or blue which you can change via the + button on the Numberpad. change the color to the pikmin he throws, otherwise you'll die.",
         section: "pikmin"
     },
+    {
+        name: "Lord Shen",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6b/Lord_Shen_Icon_Revamp.webp",
+        description: "Throughout the night, he will fling his weapons across the screen. His Guan Dao will go up and down, and his throwing knives will go left and right. Getting hit by them at least 5 times will result in death.",
+        section: "kfp2"
+    },
+    {
+        name: "Shen's Parents",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/35/Shen%27s_Parents_Revamp.png",
+        description: "They are still sulking on their son's banishment in the Master Bedroom camera in Floor 5. You must constantly make them happy by clicking on them. If they become too depressed, they will die of heartbreak, and their ghosts will haunt you to death for breaking their promise.",
+        section: "kfp2"
+    },
+    {
+        name: "Shadow Puppet Shen",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/08/Shadow_Puppet_Shen_Revamp.png",
+        description: "He will be making powder for his firework cannons in the Basement. Sometimes the smoke will enter your office, in which you must turn on the fan and use the Power A/C to get the smoke out of the room. If the smoke stays, it will decrease your oxygen.",
+        section: "kfp2"
+    },
+    {
+        name: "Yin-Yang Lord Shen",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/24/Yin-Yang_Lord_Shen.png",
+        description: "There will be a black border covering half of every camera on Floor 4. You can click on the black border to switch the other half of the camera for you to see.",
+        section: "kfp2"
+    },
+    {
+        name: "Final Battle Lord Shen",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b7/Final_Battle_LS_Revamp.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "kfp2",
+        link: "https://multiverse-custom-night.fandom.com/wiki/Final_Battle_Lord_Shen"
+    },
 ];
