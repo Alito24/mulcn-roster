@@ -3464,7 +3464,7 @@ const characters = [
     },
     {
         name: "Captain Olimar",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364060803301447/baemhnrhtuyc1.png?ex=680d09df&is=680bb85f&hm=2effff9f2afe99003475a34c0c2073e0d164590ef272b62911b46415f6ca9e54&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/Captain_Olimar.png",
         description: "He would go to either the left or right door. Once there he would use his whistle. Close the door on the side you hear the whistle. otherwise you die.",
         section: "pikmin"
     },
