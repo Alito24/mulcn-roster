@@ -338,7 +338,7 @@ const characters = [
     {
         name: "Protomare Fredbear 2",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/47/Protomare_Fredbear_2.png",
-        description: "He will randomly appear on your screen, moving too fast, quickly click his nose to avoid him blocking you the Duct System FNAF 4 House Map.",
+        description: "He will randomly appear on your screen, moving too fast, quickly click his nose to avoid him from blocking the Duct System FNAF 4 House Map.",
         section: "fnaf4"
     },
     {
@@ -615,12 +615,6 @@ const characters = [
         name: "Livewire Toy Freddy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/14/Livewire_Toy_Freddy_Revamp.webp",
         description: "He will be in Parts & Service, plugged into the system. However this will allow him to make you play his crappy and rigged 8-bit games on your screen. If you beat them, Livewire Toy Freddy will overload from his failure and make himself explode. If you fail his games, he will jumpscare you.",
-        section: "fnafar"
-    },
-    {
-        name: "Malware Mangle",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3b/Malware_Mangle.webp",
-        description: "A part of Malware Mangle will appear on a random Floor 7 camera. Avoid hovering your mouse over them, or she will assemble in your office. If he's fully formed the next time you lift up the monitor, you're dead!",
         section: "fnafar"
     },
     {
@@ -2989,7 +2983,7 @@ const characters = [
     },
     {
         name: "Doodle Freddy",
-        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6b/Ransomware_Freday_Resize.png",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a3/Doodle_Freddy.png",
         description: "He will lose his cake each hour. Quickly find the cake in your office or he'll lock you from Floor 1! However, the cake it will be will affect certain mechanics throughout the night. Vanilla: It'll cover up the timer and clock. Chocolate: It'll cover up the meters in the bottom left corner. Strawberry: It'll cover up the system buttons on the monitor. Raspberry: It'll appear in a large portion of your office, covering it up. Whipped Creamed Cake: It does nothing.",
         section: "yt"
     },
