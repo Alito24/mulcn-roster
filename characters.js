@@ -1945,7 +1945,7 @@ const characters = [
     },
     {
         name: "Gumball Scribblehands",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365378902813446297/Gumball_Swivelart.png?ex=680d17b1&is=680bc631&hm=338c07b0242bbe8e50f23e7c22b4abd864558e47b6c5190f0e0010f87f4e606d&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/97/Gumball_Scribblehands.png",
         description: "It would appear on top of the vent system radar, blocking your view. Use the Global Music box to make it go away.",
         section: "ulcn"
     },
@@ -2491,7 +2491,7 @@ const characters = [
     },
     {
         name: "SEEKINGWALL!!!!",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365720022890184834/SEEKING_WALL.png?ex=680e5563&is=680d03e3&hm=c57884fd06e3082617f6c0276611d8d1b5a02b474c1840f4f3ba515619936fac&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/98/SEEKING_WALL.png",
         description: "It would appear on the Fury's Rage Floor. When it appears it would rush you. Quickly block it as otherwise you'll die.",
         section: "doors"
     },
@@ -2533,32 +2533,32 @@ const characters = [
     },
     {
         name: "Retro Rush",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723181742297260/Retro_Rush.png?ex=680e5854&is=680d06d4&hm=2aceee48f3aad0ac8403d96f7bbcc85dc0e3935dbb6a887041e2ca1a2011d976&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/be/Retro_Rush.png",
         description: "It would appear in any of the Floor 2 cameras. Once you hear the sound cue, close the monitor and put on the mask as otherwise you'll die.",
         section: "doors"
     },
     {
         name: "Retro Eyes",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723561800634509/Retro_Eyes.png?ex=680e58af&is=680d072f&hm=0debda7c0ec3d81fd7a1006810c19c86d06896f54287ed860c5d43ae594d720c&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/Retro_Eyes.png",
         description: "It would appear over one of the vent snares. if you have the vent snare on top of it, the Exposure meter will increase.",
         section: "doors"
     },
     {
         name: "Retro Screech",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365723890223157358/Retro_Screech.png?ex=680e58fd&is=680d077d&hm=9d4f711e78302b8c7e8a3b0d9ee307dd0c1ec8a64ecd2239f8fb232f8f31f534&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/Retro_Screech.png",
         description: "It will shoot out a rocket launcher shot. Keep both doors open as if it hits one of the doors, it will become broken and unable to be closed.",
         section: "doors"
     },
     {
         name: "Retro Ambush",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365724513802653736/Retro_Ambush.png?ex=680e5992&is=680d0812&hm=94454493c8a1b2b25e45f70d10e0692c83a7b273992021c019ac840940f165ef&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/Retro_Ambush.png",
         description: "It appears in the GPS System, replacing your avatar. Quickly close the monitor and put on the mask as otherwise you'll die.",
         section: "doors"
     },
     {
         name: "DRAKOBLOXXER",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365724834163851397/DRAKOBLOXXER.png?ex=680e59de&is=680d085e&hm=909ffd74fc39afb51f6f1cad5ef3866a20f13f9ff45808b7a6c457900cca1240&=&format=webp&quality=lossless&width=188&height=250",
-        description: "A roblox obby would appear as a seperate screen from time to time. Complete the obby in the time limit as if you run out of time. DRAKOBLOXXER is spawned and it would kill you.",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/DRAKOBLOXXER.png",
+        description: "A roblox obby would appear as a seperate screen from time to time. Complete the obby in the time limit as if you run out of time, DRAKOBLOXXER is spawned and it would kill you.",
         section: "doors"
     },
     {
@@ -3470,49 +3470,49 @@ const characters = [
     },
     {
         name: "Flies",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365364766062809160/cbhslb5emfae1.png?ex=680d0a87&is=680bb907&hm=8b7a64f7b091f283cc820d7c79fee5fb5df056d0bcfee80d62586c830e5c56e7&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/Flies.png",
         description: "They would be added one by one onto your screen when the toxic meter rises. They don't do anything except be distractions.",
         section: "pikmin"
     },
     {
         name: "Character A",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365367217088237568/gw9gxnqlosrd1.png?ex=680d0ccf&is=680bbb4f&hm=a4bd8b722ec04ec2d15039b66dce14ce0da5f9104808d42fc8683aa056c454ef&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7a/Character_A.png",
         description: "He would go through the vents. However, he is completely invisible to the map. You'öö only know he's there when the map gets replaced an image of him. Close the vent door otherwise you'll be jumpscared.",
         section: "pikmin"
     },
     {
         name: "Character D",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365367808313266256/h9wf5xqf2esd1.png?ex=680d0d5c&is=680bbbdc&hm=32feb453085c4c5a1d6a75388ef36cb431744dd7fce7870846c03e7c3289817f&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/71/Character_D.png",
         description: "Due to him being 'Dead' at the start of the night, he can't attack you. However, he can mess with the meters by making them randomly change their values.",
         section: "pikmin"
     },
     {
         name: "Sketch Bulborb",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365376598789980160/l9enyy4ps96e1.png?ex=680d158c&is=680bc40c&hm=214d7bc4dadc72af1a5f52ad181dd4f5c4714233e97bbceb9e9f802843d5744c&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0c/Sketch_Bulborb.png",
         description: "It would be in your office however he won't attack you because its a chill creature. However, you must keep the office below 80° otherwise it will kill you.",
         section: "pikmin"
     },
     {
         name: "Remembered Old Buddy",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365377263847084063/jaiy0lxduxme1.png?ex=680d162b&is=680bc4ab&hm=e918b5fa9556e0f5a259a0f2a79f69030e04d73996e1fc68b70acfca306dd4db&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/37/Remembered_Old_Buddy.png",
         description: "It would be on your desk. When its lenses turn green, use the controlled shock as it would waste power when the lenses are green.",
         section: "pikmin"
     },
     {
         name: "Louie",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365423307444457552/t13c2sq3a11d1.png?ex=680de9cc&is=680c984c&hm=b07127486302c2de4bf53845de10e4fabc77ca1ae769d882bedefc305289ac1f&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/Louie.png",
         description: "He would be at the Kitchen Camera, making Bulborb filets. when he comes to your office, make sure to eat his meal. However it causes slight food poisoning and increases the toxicity meter. If you dont eat his meal the 2nd time he appears. he will get pissed and kill you.",
         section: "pikmin"
     },
     {
         name: "Yellow Wollywog",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365436111593148416/making-a-ucn-mechanic-for-a-pikmin-character-until-pikmin-5-v0-hthaihi7ixzd1.png?ex=680df5b9&is=680ca439&hm=9e61e668c932d417a7170852626fb93be02731c86240aa57472ed7c8e40956ee&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/63/Yellow_wollywog.png",
         description: "If your mouse cursor is below 25% of the screen, Yellow wollywog has a chance to appear which means you'll die.",
         section: "pikmin"
     },
     {
         name: "Gamepad User & Attraction Pikmin",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365629490876780574/making-a-ucn-mechanic-for-a-pikmin-character-until-pikmin-5-v0-7n8fenddjhhd1.png?ex=680e0112&is=680caf92&hm=e6bc04ea09859cfa7953e98ef26b50510fd518f720242e7e1e90d0e003c2bed5&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Gamepad_User_%26_Attraction_Pikmin.png",
         description: "He would throw one of the pikmin into either duct, alongside this, there is a orb on the desk with it either being, red, yellow or blue which you can change via the + button on the Numberpad. change the color to the pikmin he throws, otherwise you'll die.",
         section: "pikmin"
     },
