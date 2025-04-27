@@ -174,4 +174,9 @@ const sections = [
         name: "Who made this character?",
         bannerImage: "banners/wmtc.png"
     },
+    {
+        id: "kfp2",
+        name: "Kung Fu Panda 2",
+        bannerImage: "banners/kfp2.webp"
+    },
 ];
