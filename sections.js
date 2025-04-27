@@ -160,6 +160,11 @@ const sections = [
         bannerImage: "banners/kfp2.webp"
     },
     {
+        id: "he",
+        name: "Hortas Edition",
+        bannerImage: "banners/he.webp"
+    },
+    {
         id: "yt",
         name: "YouTube",
         bannerImage: "banners/yt.png"
