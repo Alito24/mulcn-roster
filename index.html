@@ -233,6 +233,13 @@
                     sectionCharacters.forEach(character => {
                         const slot = document.createElement('div');
                         slot.className = 'roster-slot';
+
+                        if (character.link) {
+                            slot.addEventListener('click', function() {
+                                window.open(character.link, '_blank');
+                            });
+                            slot.style.cursor = 'pointer'; // Change cursor to indicate it's clickable
+                        }
                         
                         slot.innerHTML = `
                             <img src="${character.imageUrl}" alt="${character.name}">
