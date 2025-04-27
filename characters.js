@@ -3902,7 +3902,7 @@ const characters = [
     {
         name: "Mimi Sentry",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Mimi_Sentry.png",
-        description: "She's got the day off! Which means she gets to listen to her favorite mixtape! You can find her on the Prop Storage camera. While she isn't bothered by mostly anything, some of the songs she refuses to take off of her mixtape do, and she doesn't like that. If one of these songs manages to play, she'll get angry and take her anger out on you! But you might be thinking, why doesn't she change the channel, well she can't, her mixtape is on the monitor which, obviously, you're using for the night. Go to the Task System and hit "shuffle" to change the song and calm her down.",
+        description: "She's got the day off! Which means she gets to listen to her favorite mixtape! You can find her on the Prop Storage camera. While she isn't bothered by mostly anything, some of the songs she refuses to take off of her mixtape do, and she doesn't like that. If one of these songs manages to play, she'll get angry and take her anger out on you! But you might be thinking, why doesn't she change the channel, well she can't, her mixtape is on the monitor which, obviously, you're using for the night. Go to the Task System and hit 'Shuffle' to change the song and calm her down.",
         section: "tf2"
     },
     {
