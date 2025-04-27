@@ -155,6 +155,11 @@ const sections = [
         bannerImage: "banners/pikmin.png"
     },
     {
+        id: "kfp2",
+        name: "Kung Fu Panda 2",
+        bannerImage: "banners/kfp2.webp"
+    },
+    {
         id: "yt",
         name: "YouTube",
         bannerImage: "banners/yt.png"
@@ -173,10 +178,5 @@ const sections = [
         id: "wmtc",
         name: "Who made this character?",
         bannerImage: "banners/wmtc.png"
-    },
-    {
-        id: "kfp2",
-        name: "Kung Fu Panda 2",
-        bannerImage: "banners/kfp2.webp"
     },
 ];
