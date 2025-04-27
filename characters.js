@@ -3838,4 +3838,95 @@ const characters = [
         description: "He will apply a smoke effect in your night! He's on the Duct System, being invisible. You can know how near he is from your office by seeing how strong the effect is. If it's too strong, seal the opposite duct at the one you have sealed!",
         section: "he"
     },
+    {
+        name: "RED Sniper",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/85/RED_Sniper_Revamp.png",
+        description: "A red dot will follow your cursor throughout the night. Sometimes it will fully charge and stay still, in which you quickly need to move the cursor away from it. Eventually the sniper rifle will be shot at. If you get hit by the sniper rifle, it's an instant headshot (Death).",
+        section: "tf2"
+    },
+    {
+        name: "RED Demoman",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/61/RED_Demoman.png",
+        description: "Sometimes when you leave a door open while looking at the monitor, he will set up sticky bombs on the bottom of the doorway. You must click on the sticky bombs to disable them before you close a door. Closing a door will cause it to become disabled for a couple of seconds.",
+        section: "tf2"
+    },
+    {
+        name: "RED Spy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/90/RED_Spy_Revamp.webp",
+        description: "He will pretend to be Virtual Withered Bonnie in Floor 2. You must prevent him from going to Party Room B, as that will lead a path to you to be backstabbed. To stop him, you must flash the light at him when he appears in the Main Hallway to send him back to Parts And Service.",
+        section: "tf2"
+    },
+    {
+        name: "RED Engineer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Red_Engineer_Revamp.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "tf2",
+        link: "https://multiverse-custom-night.fandom.com/wiki/RED_Engineer"
+    },
+    {
+        name: "BLU Sniper",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/BLU_Sniper_Revamp.png",
+        description: "He is sitting in a sniping perch in the GPS System. You will also see a blue dot approaching your avatar. If the blue dot appears in your avatar, you will get headshotted from across the map. Turn on the Forcefield to deflect the bullet.",
+        section: "tf2"
+    },
+    {
+        name: "BLU Spy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/02/Blu_Spy.webp",
+        description: "He has disguised himself as Virtual Withered Freddy. You must not let him into Party Room A, as that will result in him escaping and backstabbing you. To avoid this, flash your light at him when he is in the Main Hall to send him back to Parts/Service.",
+        section: "tf2"
+    },
+    {
+        name: "BLU Engineer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/BLU_Engineer.webp",
+        description: "He has given you the task of taking care of his newly built level 3 Sentry. Said sentry will stay in the office. However, when you aren't looking (Ex: Looking at your cameras), Spies will come in and start sapping it! In order to remove the sappers, you need to click on them to destroy them. Not doing so will cause the sentry to explode, killing you.",
+        section: "tf2"
+    },
+    {
+        name: "Demoknights",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/16/Demoknights_Resize.png",
+        description: "They work similar to Ballora. If you hear one of them charging towards a doorway, close the corresponding door in order to not get your head cut off!",
+        section: "tf2"
+    },
+    {
+        name: "Elizabeth the Third",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d9/Elizabeth.png",
+        description: "It'll sit on in a plant pot in the Prop Storage (CAM 06) camera. Occasionally it'll start growing hungry and want food, so when it does, go to the Kitchen (CAM 04) camera and find some meat in place of Faz-Coins, it has to be fresh though, as rotten meat will just make it angry and kill you. After grabbing an (AI/2) amount of meat, go back to where he is and click the 'FEED' button, which will cause it to grow. You can feed him as much as you want and it'll grow bigger and bigger, but if it grows too big, it'll eat you instead! If you don't feed it fast enough, it will grow so hungry that it will eat one of your tools for the rest of the night.",
+        section: "tf2"
+    },
+    {
+        name: "BLU Robot Spy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/aa/BLU_Robot_Spy.png",
+        description: "If you hear him uncloak from behind you, quickly use the controlled shock to make him cloak again before he backstabs you!",
+        section: "tf2"
+    },
+    {
+        name: "Mimi Sentry",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/92/Mimi_Sentry.png",
+        description: "She's got the day off! Which means she gets to listen to her favorite mixtape! You can find her on the Prop Storage camera. While she isn't bothered by mostly anything, some of the songs she refuses to take off of her mixtape do, and she doesn't like that. If one of these songs manages to play, she'll get angry and take her anger out on you! But you might be thinking, why doesn't she change the channel, well she can't, her mixtape is on the monitor which, obviously, you're using for the night. Go to the Task System and hit "shuffle" to change the song and calm her down.",
+        section: "tf2"
+    },
+    {
+        name: "Dispenser Lady",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9b/Dispenser_Lady.png",
+        description: "She crawls through the vent system and towards your office. Her face will always display a happy expression, though at times it will change to disapproval. If she reaches the front vent and enters the office while she's happy, she will give you one random power-up. If she reaches the front vent while she's disappointed, however, she will simply kill you, to stop this, click on her face to flip it to the happy side. She cannot be stopped by the vent snare, she can, however, be stopped by the front vent when she's happy, so if you want a power-up, clear the way of any enemies before she reaches the entrance.",
+        section: "tf2"
+    },
+    {
+        name: "Fabulous Heavy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Fabulous_Heavy.png",
+        description: "When he appears on your monitor, switch the camera or close the monitor. If he's kept on the monitor for too long, he will make everything monochrome for a few seconds.",
+        section: "tf2"
+    },
+    {
+        name: "Kangaroo Wife",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ad/Kangaroo_Wife.png",
+        description: "After using the Death Coin, multiple images of Kangaroo Wife will begin to appear on your screen! Click on them to make them go away or else they'll completely overrun your screen!",
+        section: "tf2"
+    },
+    {
+        name: "Aimbot Sniper",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1d/Aimbot_Sniper.webp",
+        description: "Within the first 2 seconds of the night, you must quickly close all 4 doorways in your office to deflect the Aimbot Sniper's bullet so that he dies for the rest of the night.",
+        section: "tf2"
+    },
 ];
