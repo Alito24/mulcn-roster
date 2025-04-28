@@ -7,7 +7,7 @@ const characters = [
     },
     {
         name: "Pumpkin",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365715619160264854/Pumpkin_1.png?ex=680e5149&is=680cffc9&hm=6c8beccaff18cab6ffd1cf9e3ad379deba1c18a31a596a3529e4f805d3b28b36&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Pumpkin_1.png",
         description: "It would stay on the back desk. Shine your flashlight at it for a few seconds for it to go away. otherwise it will disable your doors.",
         section: "fnaf1"
     },
@@ -187,7 +187,7 @@ const characters = [
     },
     {
         name: "Toy Pumpkin",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365715619499999302/Pumpkin_2.png?ex=680e5149&is=680cffc9&hm=b6612448f781a337e389b0acb99e35fc28ac1828857730e898e2096ac7c2ee51&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Pumpkin_2.png",
         description: "It would stay on the front desk. Shine your flashlight at it for a few seconds, otherwise it would disable your mask.",
         section: "fnaf2"
     },
@@ -283,7 +283,7 @@ const characters = [
     },
      {
         name: "Rotten Pumpkin",
-        imageUrl: "https://media.discordapp.net/attachments/1365363248035008512/1365715619718369290/Pumpkin_3.png?ex=680e5149&is=680cffc9&hm=2c8f4b85466e7ceff291affbfaad0c2559ca69bdb8806ebe8a27aeb079e1ac2a&=&format=webp&quality=lossless&width=188&height=250",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ab/Pumpkin_3.png",
         description: "4 of them would appear all over F3, make sure to get all 4 in the first hour otherwise you will lose access to the vent system.",
         section: "fnaf3"
     },
