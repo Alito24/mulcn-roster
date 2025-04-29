@@ -1950,6 +1950,282 @@ const characters = [
         section: "ulcn"
     },
     {
+        name: "Ultra !2222",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/Ultra_%212222.webp",
+        description: "If the usage meter is low for too long, then they will start to appear in the Glitch Floor and cover the view. Raise the meter to make them fade out.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra %_^^&",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/Ultra_%25_%5E%5E%26.webp",
+        description: "Keeping the internet for too high will make them spawn into the Office, disabling your flashlight and controlled shock. Lower the internet to make them fade away.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra 8-Bit Baby",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c7/Ultra_8-Bit_Baby.webp",
+        description: "She will randomly appear on your desk when pulling the monitor down. Do not click on her or she will kill you.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d3/Ultra_Adventure_Plushtrap.webp",
+        description: "He may trigger Toxic Bite if you're on the Light System. Getting your mouse caught will raise the toxic meter slowly for an AI amount of seconds.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/31/Ultra_Adventure_Withered_Bonnie.webp",
+        description: "He will be in your office turned off. When his eyes turn red, turn on the heater to make them turn off. If you don't turn on the heater in time, you die.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Ultra_Adventure_Withered_Freddy.webp",
+        description: "He may appear in the Ice Caverns on Floor 7, singing. When he does, turn the Christmas Jukebox down, which is conveniently connected to his microphone, to shut him up. If he sings for too long, he'll make icicles fall from the celling, where one will conveniently hit the camera, disabling it for the rest of the night.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/43/AdventureWitheredGoldenFreddyIcon.webp",
+        description: "When you put off the mask, Ultra Adventure Withered Golden Freddy can appear in your office with some hallucinations of the withered heads. Quickly spam the change floors buttons (F1, F2, F3, F4, F5, F6, F7 and F8) to make him quit!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3d/Ultra_Adventure_Withered_Chica.webp",
+        description: "When you see her on the first floor, you need to click on the Wet Floor Sign, then she will leave.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cb/Ultra_Adventure_Withered_Foxy.webp",
+        description: "He now likes your flashlight, so, if you shine your flashlight, he will go to your office! But you don't want him to kill you, use your Golden Flashlight to scare him now so that he doesn't unlock his Golden Ultra Adventure Withered Foxy form!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Withered Foxy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/03/Ultra_Adventure_Withered_Foxy_2.webp",
+        description: "He's in the Duct System House! He knows that's a simulation and is immune to the house's flashlight, use your mask because that makes him aggresive (idk, its a Withered Foxy variant thing) and if he's aggresive, he will get out of the house and get to your real office, and NOW you can use your flashlight to blind him! But, that's not enough, because he has 2 eyes, one hidden, and other blinded. To blind the other eye and FINALLY kill Ultra Adventure Withered Foxy 2, you need to use the UV flashlight to trespass his eyepatch to blind his 2 eyes and FINALLY kill him... Or not? Well actually, in Floor 4 exists an 'Eye Shop', and Foxy is now in the cameras. You need to light-flash him to make him go back to the office before getting to the elevator! If he gets to the elevator, he will go to Floor 4 and buy his new eyes, but you need to... okay, now in Floor 4, Ultra Adventure Withered Foxy 2 has disabled your light-flash (in the cameras), so you need to make the same... okay, HE NOW CHANGED HIS STRATEGY!!!!!! What, okay, what a pain, right? Now you need to use your Golden Flashlight before he kills you, but you need to spam spam spam spam your Golden Flashlight! And he will go again to Floor 4, but the shop is now closed, you need to FINALLY LIGHTFLASH HIM TO END THIS ONCE AND FOR ALL!!! But, actually not! Remember? It's disabled, now Ultra Adventure Withered Foxy 2 will go to the Dark Shop in Floor 3. Use the Audio Lures to mess with him and avoid him from getting to the shop. He will get to the office with new golden eyes! You need to use the mask, what? The mask? okayyyyyyy???????? Yes, because the Dark Shop eyes have a microchip that replaces his AI (Withered Foxy) with a Withered Freddy one, you can see it with the sounds and the light-flashing when he appears again. But, he will going to his house in Floor 2. If he reaches his house, he will kill you, but THIS IS THE BEST FLOOR TO DESTROY HIM! Flash him to FINALLY END HIM! Ohh, remember, his microchip is Withered Freddy, and the light only stops him for a few seconds. In the Task System, change the microchip with the Withered Foxy one, and now you can FINALLY DESTROY HIM! But how? This is the Multiverse, another Ultra Adventure Withered Foxy 2 will spawn and you need to do this again! Survive the night to win!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Toy Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b5/Ultra_Adventure_Toy_Chica.webp",
+        description: "Multiple images of her asking if you won't get tired of her voice will appear on your screen. The more of them are on your screen, the more noise it'll cause. Simply click and drag them off your screen to get rid of them. If too many appear, your cursor will be locked into the center of your screen for AI seconds, and the noise meter will be set to the max.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Toy Freddy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/Ultra_Adventure_Toy_Freddy_2.webp",
+        description: "His figurine will be on Toy Freddy's desk in Parts & Service on Floor 1. The blowing of the fan reminds him of Mr. Hugs, which he dislikes. He will be visibly shaking if it affects him too much. Calm him down from time to time by booping his nose. If he gets too angry, he will somehow jump on your cursor and cause it to move uncontrollably throughout the night!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1c/Ultra_Adventure_Toy_Bonnie.webp",
+        description: "If he appears in the House Hallway on Floor 6, wear the mask!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Toy Bonnie 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/21/Ultra_Adventure_Toy_Bonnie_2.webp",
+        description: "If he appears in the House Hallway on Floor 6, don't put on the mask until he leaves!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bc/Ultra_Adventure_Springtrap.webp",
+        description: "He is very lazy, and will just sit in your office, drinking a large tub of soda and playing MCN on his laptop. Shining the light on him will cause him to run a lap, giving you extra faz-coins when finished. However, due to his fitness, he runs very slow.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Shadow Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/dd/Ultra_Adventure_Shadow_Bonnie.webp",
+        description: "Your monitor is already locked in from the very beginning of the night. To unlock it, find a textbox, and type in 'RWQQWR'",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Shadow Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/05/Ultra_Adventure_Shadow_Freddy.webp",
+        description: "Using the Alarm System too much will make him appear in the Office, and use Waterhose on you, taking away all of your fazcoins and rupees.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/Ultra_Adventure_Puppet.webp",
+        description: "He has a lame music box mechanic! Wind his Ultra Adventure music box on the Task System before he kills you!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9a/Ultra_Adventure_Phantom_BB.webp",
+        description: "He'll be flying around on the Light System. If he hits your cursor, it'll be knocked back. If he hits it too many times, he'll destroy it!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bc/Ultra_Adventure_Phantom_Puppet.webp",
+        description: "If you are in a camera where the music box (cam 04) is playing, it will begin to appear on your screen, not allowing you to see it, you can change the camera so that it disappears.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/84/Ultra_Adventure_Phantom_Mangle.webp",
+        description: "She will have a chance to pop out of the top vent in your office, where he is preparing to use Toxic Bite on you! When she's there, turn on the fan to make him go away, but if she succeeds, your toxic meter will go up by 10% for each bite.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/Ultra_Adventure_Phantom_Freddy.webp",
+        description: "He will haunt your office, and will sometimes infect the Control Shock button to make sure that his pals don't get fizzed out. Use the lever at least 3 times to scare him away.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/36/Ultra_Adventure_Phantom_Foxy.webp",
+        description: "When you're on a floor for too long, he will make all of the camera screens black. To stop this, switch to a different floor to fix it.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Phantom Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/53/Ultra_Adventure_Phantom_Chica.webp",
+        description: "She will appear in the Left Door randomly. Quickly go to the Kitchen camera and change the music to make her leave. If she is still there for too long, she will use Sludge attack and make you move slower through the office!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/Ultra_Adventure_Nightmare.webp",
+        description: "If you hear him laugh, turn the Christmas Jukebox down before he kills you!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4d/Ultra_Adventure_Nightmare_Freddy.webp",
+        description: "He lost his Ultra Adventure Freddles at the start at the night! You'll have to go around the Maze System and find AI of his Freddles before the end of the night, or he'll kill you out of anger of losing his children!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e6/Ultra_Adventure_Nightmare_Fredbear.webp",
+        description: "If you hear him laugh, turn the Christmas Jukebox up before he kills you!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/Ultra_Adventure_Nightmare_Bonnie.webp",
+        description: "He'll send Pizza Wheel 2 down the GPS System. Use the forcefield to deflect them, or he'll cover a random GPS function with it, disabling it.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0d/Ultra_Adventure_Nightmare_Foxy.webp",
+        description: "He's creating his own Roster Builder! On the Task System, different icons for different characters will appear, and you'll have to turn their AI Value to 0 to get rid of them! If they stay for too long, that character will be enabled at whatever AI value they were at.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d7/Ultra_Adventure_Nightmare_Chica.webp",
+        description: "If one of her eyes appear, you need to see what eye is in the dark, if it's the gray eye, close the door or she will drop your oxygen! If it's the yellow eye, avoid closing the door on her or she will drop your oxygen anyways!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Nightmare BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/18/Ultra_Adventure_Nightmare_BB.webp",
+        description: "He can appear in the Main Hall camera. When you use the F2 flashlight there, his eyes will be out of his face, you need to check on his eye color. If it's red, nothing will happen, if it's blue, you need to put on your mask, if it's green, use the control shock button in your office, and if it's yellow, quicky turn off the F2 light!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/01/Ultra_Adventure_Mangle.webp",
+        description: "She will randomly appear in the Aquarium camera, cleaning the tank from the outside. Using the controlled shock when she is there will cause her to fall off of her ladder, and causing her bucket of water to fry a random Floor 4 camera (With the exception of the Aquarium of course).",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure JJ",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Ultra_Adventure_JJ.webp",
+        description: "She will be traversing the void. Why? I have no idea honestly. However, there will be a extremely rare occasion where she will have escaped the eternally dark void. If this almost impossible outcome ever comes true, she'll run through the entirety of Floor 1 at lightspeed. She will eventually appear in your left doorway. When this ever does happen, close the left door to get rid of her. It's as simple as that. However, if you somehow forget she is even there (Or are just very incompetent and can't deal with a single character), she will appear in your office. Then, she will summon a few random Ultra Custom Night Characters into the night. She will then disappear.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/Ultra_Adventure_Golden_Freddy.webp",
+        description: "If he appears in your office, press B to blo- I mean to clap in order to make him leave. Failure to do so will cause him to make sure that whenever the fan is on, time will slowly reverse.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f7/Ultra_Adventure_Jack-O-Bonnie.webp",
+        description: "He LOVES Halloween! Unfortunately though, it is infact not Halloween. He'll be sitting in the pumpkin patch on Floor 5, patiently waiting for Halloween to come. If a character passes through, he'll get scared, and fall through a hole in the floor to your Office. This wouldn't normally be a issue, but since he's ON FIRE, he'll burn down everything in the Office! (including you.) So, once a character is about to enter the pumpkin patch, click on Ultra Adventure Jack-O-Bonnie to hide him behind a pumpkin!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Jack-O-Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/65/Ultra_Adventure_Jack-O-Chica.webp",
+        description: "If her Ultra Adventure Jack-O-Lantern replaces one of the pumpkins in the Pumpkin Patch, spam click it to remove it! If it stays for too long, Ultra Adventure Jack-O-Chica will jumpscare you!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Ultra_Adventure_Fredbear.webp",
+        description: "Once per night he will appear in your office. When you see him, go to the Task System and click four buttons with the numbers '1 2 3 4' on them in that order to get rid of him.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Funtime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/93/Ultra_Adventure_Funtime_Foxy.webp",
+        description: "He will use Cosmic Song every time an odd number hour is hit, making a flurry of comets (about 12) fall from the top right of the screen. Letting your courser get hit by too many of them will cause you to get jumpscared!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Freddy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3e/Ultra_Adventure_Freddy_2.webp",
+        description: "He will continuously perform 'Mic Toss' if the Noise Meter is high. A mic will be thrown from the left to the right on your screen every (10-(AI/4)) until the Noise Meter is below 3. Hitting a mic with your cursor will make you deaf for (3+(AI/10)) seconds.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Fredbear 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f0/Ultra_Adventure_Fredbear_2.webp",
+        description: "A Fredbear will appear somewhere in the Light System. You need to give him a red lamp to distract him, that way he can make shadows with his face for the fun of it. If you don't, he will just remove your points 1 by 1 until you give him the lamp!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cb/Ultra_Adventure_Foxy.png",
+        description: "He will be in the Vent System, use the vent snares to fend him off. He is not blocked off by the vent door, as he will kill you the moment he gets into your office.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Foxy 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9b/Ultra_Adventure_Foxy_2.webp",
+        description: "He is just here to advertise the new Multiverse Custom Night update, you must close the ad by pressing the skip button or the ENTER key when it appears or uh, it will block your view, yeah that is annoying right? Not being able to see your game, making it more difficult to stop characters from killing you, yeah that should make your night super difficult! Survive the night to win!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d1/Ultra_Adventure_Bonnie.webp",
+        description: "He is confused on whether if he is either playing Happy Jam or Bash Jam in Floor 3. He will try to do both songs, unaware that both songs have side effects. Him playing Happy Jam will disable the Audio Lure on Floor 3, and him playing Bash Jam will cause the ability to turn off the cameras to not function. Light-Flash the camera he is at to make him stop.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c8/Ultra_Adventure_Chica.webp",
+        description: "She walks around Floor 4, but you will not be able to see her, you will only see her Cupcakes, if you see a Cupcake, she will not let you change the cameras, the systems, the floors and she will not let you lower the monitor. You will have to use Controlled Shock to be able to move normally around the monitor, but she will use the Party Favors attack to heal herself, but since this attack does a little damage, it will lower your HP a little, if it reaches 0, you die.",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra Adventure Balloon Boy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/12/Ultra_Adventure_Balloon_Boy.webp",
+        description: "He'll be in the Grand Kitchen on Floor 7, eating all of the hot cheese! The more hot cheese he eats, the colder the building will become! Turn the Christmas Jukebox all the way up to distract him for a while!",
+        section: "ulcn"
+    },
+    {
+        name: "Ultra 8-Bit Baby 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/91/Ultra_8-Bit_Baby_2.webp",
+        description: "She will make your night endless unless you beat her minigame by clicking her in the office. In the minigame, you must play a short section of her music box in the right tone as the one being showcased. Not completing the minigame right will make her leave, and will continue to make the night endless until you die.",
+        section: "ulcn"
+    },
+    {
         name: "Playtime",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/PlaytimeBaldi.png",
         description: "She will randomly show up in your office while you are on the monitor and force you to play jumprope with her. Use left-click to make your cursor hop over the jumpropes that appear next to your cursor. She will force you to jumprope an (AI level/2) number of times before letting you go.",
