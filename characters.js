@@ -2624,7 +2624,7 @@ const characters = [
     },
     {
         name: "NPC Voice Chat",
-        imageUrl: "hhttps://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/NPCVoiceChat.png",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/NPCVoiceChat.png",
         description: "If you have this character turned on, then every character selected in the night will use the voice chat. It doesn't raise the noise meter, but it is pretty distracting, especially when dealing with sound related characters. The higher the AI is, the more frequently characters will voice chat.",
         section: "gmod"
     },
