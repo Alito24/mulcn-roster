@@ -2623,6 +2623,12 @@ const characters = [
         section: "gmod"
     },
     {
+        name: "NPC Voice Chat",
+        imageUrl: "hhttps://static.wikia.nocookie.net/multiverse-custom-night/images/f/f3/NPCVoiceChat.png",
+        description: "If you have this character turned on, then every character selected in the night will use the voice chat. It doesn't raise the noise meter, but it is pretty distracting, especially when dealing with sound related characters. The higher the AI is, the more frequently characters will voice chat.",
+        section: "gmod"
+    },
+    {
         name: "SCP-001 - 'Normalcy'",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2e/Normalcy.png",
         description: "SCP-001 will sit on your desk, you're free to view it any time you'd like, just remember to remember the laws of normalcy. If you catch something in your office or on the cameras, look at SCP-001 to make sure that they aren't breaking any laws, if they do, click on it to send it away from the night. If one of these entities appears hostile, you only have a short amount of time to get rid of them before they kill you.",
