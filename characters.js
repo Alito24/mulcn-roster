@@ -1326,6 +1326,12 @@ const characters = [
         section: "funko"
     },
     {
+        name: "Blacklight Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f5/Blacklight_Godzilla.png",
+        description: "Whenever you move to or interact with anything on the Task System, there is a chance that Blacklight Godzilla will begin to manifest. As he manifests, the monitor will slightly turn into a blacklight hue the longer you remain engaged with the Task System interface. Quickly exit the Task System by moving to another system, then close the monitor to dissipate the blacklight hue. If you remain engaged with the Task System interface for too long after Blacklight Godzilla has fully manifested, he will kill you with a blinding blacklight atomic breath.",
+        section: "funko"
+    },
+    {
         name: "Digital Glow Nightmare Foxy",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a9/Digital_Glow_Nightmare_Foxy.png",
         description: "He will appear in your office at random points during the night. When he appears there will be two Nightmare Foxy's next to him. Use the Fazer-Blaster to shoot the one that's glowing.",
@@ -3446,6 +3452,12 @@ const characters = [
         section: "yt"
     },
     {
+        name: "The Man in The Suit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9c/The_Man_In_The_Suit_Revamp.png",
+        description: "Sometimes during your night, the lights in your office will turn off. This means he is in the room with you. Quickly use your flashlight and find him in your office and hold your light on him to scare him away! Otherwise . . .",
+        section: "yt"
+    },
+    {
         name: "Alito Virtual Yenndo Duo",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e1/Alito_Virtual_Yenndo_Duo.png",
         description: "These two bone heads will be on different floors. One will be on Floor 3 and one on Floor 8, keep them both away from the elevator by using the Audio Lure on F3 along side the Alarm System on F8 to lure them away from both of the floor's elevators. Yup, looks like you got this night down to the bone!",
@@ -4205,5 +4217,47 @@ const characters = [
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1d/Aimbot_Sniper.webp",
         description: "Within the first 2 seconds of the night, you must quickly close all 4 doorways in your office to deflect the Aimbot Sniper's bullet so that he dies for the rest of the night.",
         section: "tf2"
+    },
+    {
+        name: "Godzilla 1954",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/96/Godzilla_1954_Revamp.png",
+        description: "You will sometimes hear his stomping throughout the night. If you hear his stomping get louder, quickly use the controlled shock in the office to ward him off before he jumpscares you.",
+        section: "gz"
+    },
+    {
+        name: "KOTM Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f7/KOTM_Godzilla_Revamp.png",
+        description: "When you hear him charging his atomic breath, prepare to move your cursor out of the way when he fires it on your screen!",
+        section: "gz"
+    },
+    {
+        name: "Thermonuclear Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fb/Thermonuclear_Godzilla.png",
+        description: "Godzilla is having another nuclear meltdown in the Childs Bedroom on Floor 6, which rises as the night goes on. The hotter he is, the more the room will become more orange & distorted with heat. Stare at the camera to halt his meltdown, as it becomes faster if that camera isn't viewed for too long. Using the Fan also slows down his meltdown. If his radiation reaches peak overload, he will use his thermonuclear blast to shake your entire office, causing most of your office systems to become temporally disabled, & your temperature will instantly spike to 120 degrees.",
+        section: "gz"
+    },
+    {
+        name: "Reactor Glow Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/61/Reactor_Glow_Godzilla.png",
+        description: "Sometimes when switching systems, you will come across a system that is currently covered in radioactivity, signified by a green glow. The longer you are on a radioactive system, the more your Toxic Meter will rise. Simply leave that system to avoid having radioactive burns.",
+        section: "gz"
+    },
+    {
+        name: "GVK Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/86/GVK_Godzilla.png",
+        description: "A 'Kaiju Threat Level' meter will appear & fill up in the top center of your screen, slowly filling over time. High noise increases the meter slightly. When the meter reaches 100%, Godzilla will prepare to charge his atomic breath in the GPS System. You only have a few seconds to react before the beam vaporizes you, so use the Force-Field to make it absorb the atomic beam, although the radiation of it causes the office to heat up. Once deflected, Godzilla will retreat & the meter will reset to 0%.",
+        section: "gz"
+    },
+    {
+        name: "Kamanta Kun",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/56/Kamanta_Kun_Revamp.png",
+        description: "He is in the Vent System, but is way too big to fit past the starting point. Because of this, only his head will stick out through the starting point of the Vent System. But that also means the gills are mushed to the point of flooding the whole system with its blood. This slows down other characters in the system, but once it reaches your office, you will be boiled alive. To prevent the flood, you must drain it by pulling the lever 5 times. The flood will resume in a moment afterwards.",
+        section: "gz"
+    },
+    {
+        name: "2014 Godzilla",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8c/2014_Godzilla_Revamp_2.png",
+        description: "He will wander around the entire GPS System in a slow speed. He doesn't know that it will crush everything in the building if he walks towards it. You must use the ORCA Device to make him change directions, distracting him by making him go elsewhere.",
+        section: "gz"
     },
 ];
