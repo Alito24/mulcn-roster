@@ -4260,4 +4260,247 @@ const characters = [
         description: "He will wander around the entire GPS System in a slow speed. He doesn't know that it will crush everything in the building if he walks towards it. You must use the ORCA Device to make him change directions, distracting him by making him go elsewhere.",
         section: "gz"
     },
+    {
+        name: "Augmented JJ",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b7/Augmented_JJ.png",
+        description: "She will be under your desk for the whole night. Make sure to see if her eyes are glowing or not, as if they are glowing. the next time you pull up your monitor, she will jumpscare you. If you do see that her eyes are glowing, put on your mask to make them change back to normal.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Endo-02",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5a/Augmented_Endo-02.png",
+        description: "He only appears if your noise is very low for a long time, you must put on the mask and use the shock, if you do it the other way around or do nothing Augmented Endo 02 will end your game!",
+        section: "fk"
+    },
+    {
+        name: "8-Bit Purple Guy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a5/8-Bit_Purple_Guy.png",
+        description: "When you hear his laugh, check the GPS System. If he appears as 8-Bit Yellow Rabbit, switch systems or he'll make you his next victim. If he appears as his normal self, use the forcefield to prevent his approach.",
+        section: "fk"
+    },
+    {
+        name: "8-Bit Yellow Rabbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/8-Bit_Yellow_Rabbit.jpg",
+        description: "Click on me to see my full description on the wiki!",
+        section: "fk",
+        link: "https://multiverse-custom-night.fandom.com/wiki/8-Bit_Yellow_Rabbit"
+    },
+    {
+        name: "Glitchsaken",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/06/Glitchsaken_Resize.webp",
+        description: "Click on me to see my full description on the wiki!",
+        section: "fk",
+        link: "https://multiverse-custom-night.fandom.com/wiki/Glitchsaken"
+    },
+    {
+        name: "Augmented Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6f/Augmented_Spring_Bonnie.png",
+        description: "He has put a Springlock suit head on every camera on Floor 5. If you are watching the camera for too long, the Springlock suit's jaws will slowly close more and more around the camera, until they chomp down and destroy the cameras, making all the cameras on F5 unviewable for the rest of the night. To reset the Springlocks, use the Lever next to the top vent to reset the Springlocks from going off.",
+        section: "fk"
+    },
+    {
+        name: "Remade Augmented Mendo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Remade_Augmented_Mendo.png",
+        description: "He will be in Festive Storage 2 on Floor 7. He was meant to help sort the presents, however, he lost his battery somewhere in the Frozen Wastes (outside) whilst being shipped in. You need to search around to locate it in the snow. If you don't find it before the night ends, you will have your score replaced with your name on The Naughty List.",
+        section: "fk"
+    },
+    {
+        name: "Legacy Augmented Mendo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ed/Legacy_Augmented_Mendo.png",
+        description: "You need to keep your internet up when he appears in the office. If it's 50% or lower, he'll change to Dark Mendo, which means both you and reality are doomed...because there is no Dark Mendo...yet!",
+        section: "fk"
+    },
+    {
+        name: "Augmented Nightmare BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/75/Augmented_Nightmare_BB.png",
+        description: "Do not be deceived! Augmented Nightmare BB is NOT a real character in Multiverse Custom Night, and anyone who claims that they are Augmented Nightmare BB is an impostor! If you ever see anyone that resembles Augmented Nightmare BB on Floor 5, be ready for an attack from the entity! It can attack from any of the vents. If you see its hand reaching out from the opening, close the door to chop his hand off and get him to retreat! If it gets in... There is nothing you can do.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Funtime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7e/Augmented_Funtime_Foxy.png",
+        description: "His stage will stay on the Light System. When he starts to perform, quickly use the Office shock (Which is conveniently linked to his stage's lights) to short circuit the stage and cut his performance short. If you take too long, he'll rush into your office and jumpscare you.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Lolbit",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Augmented_Lolbit.png",
+        description: "Like many of the other Lolbits, when Augmented Lolbit appears, type LOL. If you don't, they will undergo mitosis, leading you needing to type LOL even more than before. When the mitosis is finished, Your screen will be covered by many Augmented Lolbits and your noise meter will be up so high that's now just a stretched out image of Augemented Lolbit's body. Augmented Lolbit will only appear once per night.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Augmented_Lefty_Revamp.webp",
+        description: "Tired of waiting for Illumix. Augmented Lefty will try and enter your office by downloading himself off your tablet from his datafiles, you need to cancel his download or reality itself will implode and result in your run ending.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Lefty 2",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/Augmented_Lefty_2.webp",
+        description: "If your room is too quiet for too long, he’ll start approaching the building in the GPS System. Use the forcefield and Global Music Box to make him stop.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Totem Panic",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c0/Augmented_Totem_Panic.png",
+        description: "He will jumpscare you at 6 AM 100 times. There's no way to avoid this.",
+        section: "fk"
+    },
+    {
+        name: "Holiday Spirit Molten Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c9/Holiday_Spirit_Molten_Freddy.png",
+        description: "As he crawls down the Duct System, your screen will start to turn blue and your temperature will drop, you need to use the Heater and the Radio Jammer to reset him or he'll jumpscare you.",
+        section: "fk"
+    },
+    {
+        name: "8-Bit Candellora",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/8-Bit_Candellora.png",
+        description: "She will be in the Light System, but due to the cold temperature in that room, her candle will start to go out. Keep the heater on to make her candle light bigger. If the candle light fully fades out, she will kill you. However, if you keep the heater on for too long, she will start to melt. If she melts fully, then the wax will cover the Light System for the rest of the night.",
+        section: "fk"
+    },
+    {
+        name: "Candlereenas",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/38/Candlereena_Resize.webp",
+        description: "They will randomly pop out from the bottom of your desk in the Office. The longer they stay, the more the room looks reddish and the more the temperature rises. Quickly use the Power/AC to ward them off!",
+        section: "fk"
+    },
+    {
+        name: "Nutcracker Bon-Bon",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/10/Nutcracker_Bon-Bon_Revamp.png",
+        description: "He will be asleep in his present in the office. If the noise meter is too high, he'll wake up and jumpscare you.",
+        section: "fk"
+    },
+    {
+        name: "Woodcarver Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b1/Woodcarver_Funtime_Freddy.png",
+        description: "He will be working away on his latest project in The Workshop on Floor 7. If you have the Music Box on whilst on that camera for too long, Wood Carver will lose his patience, and come carve you a new face! (in other words, he jumpscares you).",
+        section: "fk"
+    },
+    {
+        name: "Totem Bake",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/13/Totem_bake_icon.webp",
+        description: "He will be chased by hungry kids in the Vent System. You have to use the vent snare at the correct moment to block the kids from getting him, else they will eat him alive. If Totem Bake successfully gets in your office, he'll give you 10 Fazcoins and 10 Blue Rupees as thanks for saving him.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Carnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/db/Augmented_Carnie.webp",
+        description: "Every hour, he'll drop rubber balls on a random camera in Floor 5. Quickly find it, or he'll jumpscare you.",
+        section: "fk"
+    },
+    {
+        name: "Scrap Metal Toy Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/Scrap_Metal_Toy_Bonnie.png",
+        description: "A forgotten product from the Fazbear Funtime Service, left to corrode in The Sewers. Occasionally, he will attempt to escape the sewers. The only way to stop him is by using the heater. If he escapes, he'll kill you.",
+        section: "fk"
+    },
+    {
+        name: "Oversweet Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f4/Oversweet_Frostbear_Revamp.webp",
+        description: "Candy canes will fall diagonally across your screen. If your cursor is hit by them three times, Oversweet Frostbear will jumpscare you.",
+        section: "fk"
+    },
+    {
+        name: "John Baker",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9f/John_Baker_Revamp.png",
+        description: "If you click on him on your desk to eat him, you will shatter your teeth. He will fade away if you ignore him long enough.",
+        section: "fk"
+    },
+    {
+        name: "Sweet Tooth Jack-O-Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/16/Sweet_Tooth_Chica_Revamp.png",
+        description: "Sweet Tooth Jack-O-Chica will lurk in the Boiler Room on Floor 5. Every in-game hour, she will demand you get her sweets or chocolate from Candy Crazed Toy Freddy. If you take too long, she will eat you with a jumpscare!",
+        section: "fk"
+    },
+    {
+        name: "Bigfoot Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3d/Bigfoot_Lefty.png",
+        description: "He will be on the Lumber Co Floor, you must find a shotgun that has been scattered in some places around the building, that being the barrel in Floor 1, the trigger being on Floor 3, and the buttstock being in Floor 5. Once you gathered all the pieces for your shotgun, you can find some ammo on your office desk. Once the night ends, you will engage in a Bigfoot-game style fight with him. If you defeat him, the night will end as usual, but if he defeats you.... you know what will happen.",
+        section: "fk"
+    },
+    {
+        name: "Paranormal Trash And The Gang",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a1/Paranormal_TATG_Revamp.webp",
+        description: "They'll be hiding behind various graves in The Graveyard on Floor 5. Double-clicking the cam will make them leave. If all 5 appear, it's game over.",
+        section: "fk"
+    },
+    {
+        name: "Infested Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/12/Infested_Golden_Freddy_Resize.webp",
+        description: "Infested Golden Freddy will move around in The Sewers. When he's very close to the camera (indicated by his glowing, orange eye), aim the Golden Flashlight on the Right Vent. If he escapes, you're doomed.",
+        section: "fk"
+    },
+    {
+        name: "Geode Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Geode_Frostbear_Revamp.png",
+        description: "A geode texture will cover your camera system. Rapidly press the < & > keys to remove it, or else Geode Frostbear will swing his pickaxe into you, in other words, jumpscare you!",
+        section: "fk"
+    },
+    {
+        name: "Voxelreenas",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/01/Voxelreenas_Revamp.png",
+        description: "They will appear in the doorways, the front vent and the side vent. Flip up your monitor and spam the 4 key. If all 4 appear in the office, it's game over!",
+        section: "fk"
+    },
+    {
+        name: "8-Bit Ballora",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1f/8-Bit_Ballora_Revamp.png",
+        description: "Sometimes, her minigame will appear on your screen. You must figure out which direction she is going signaled by her music box. You must close one of 3 doors to ward her off and end her minigame. Otherwise it will result in death.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Plus Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e9/Augmented_Plus_Freddy.png",
+        description: "He's mad because FNaF Plus is not released! You need to end the task 'FNaF +' to make Augmented Plus Freddy Happy!",
+        section: "fk"
+    },
+    {
+        name: "Augmented Candy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2a/Augmented_Candy.png",
+        description: "He has just recently killed a man. He will make his way to you through the Duct System. If he makes it to one of your openings, use the Neon Wall to keep him out or else it's game over.",
+        section: "fk"
+    },
+    {
+        name: "Trollface The Forsaken",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/de/TROLLREMADE.png",
+        description: "He will be outside trying to get into the building. He will climb into the Outside Vent Cam on Floor 8 to get into the building. A text message will pop up on the Task System, indicating that he is inside the building. He will be on any Floor 8 cam. Ring the Floor 8 Alarm System to scare him back outside of the building.",
+        section: "fk"
+    },
+    {
+        name: "Walty Firewall",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1f/Walty_Firewall.png",
+        description: "Walty will occasionally infect the Task System with a virus, and then complain about how weak your anti-virus is, raising the noise meter. To stop his whining, quickly buy an anti-virus from the prize counter to stop him.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Sparky",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/be/Augmented_Sparky.png",
+        description: "He'll lie in pieces on the office floor. As the night progresses, he'll start to reassemble himself. Use the Flashlight or the Golden Flashlight to reverse his progress. If he's fully reassembled by 5:AM, it's game over.",
+        section: "fk"
+    },
+    {
+        name: "Benny the Bunny",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/22/Benny.png",
+        description: "Working similar to Augmented Springtrap. He'll completely obscure your view of GPS System. If his eyes are white, stay on that system till he leaves. If he has red eyes, you need to quickly switch to another system, or he'll make the GPS map completely disappear.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Popgoes",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/84/Augmented_Popgoes.png",
+        description: "He is playing a game of basketball with LeBron James, but if he wins, he'll have no other excuses to not work on POPGOES Evergreen, which will make him mad as he really wants to keep playing basketball with his friends. So you'll need to convince LeBron James to keep playing with Augmented Popgoes by sending them words of encouragement through the Task System. But nothing is free, so you'll need to pay 1 Faz-Coin to send a word of encouragement and make them play another game.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Molten Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3c/Augmented_Molten_Freddy_Resize.webp",
+        description: "He will crawl around in the Vent System. Except unlike the other characters, he will never attempt to attack you from the vent opening, instead he just wanders around the Vent System. However, he will be fully invisible in the cameras. Sometimes, his invisibility will shorten out, making him visible on the radar. When this happens, use the controlled shock in your office to make him invisible again before he kills you.",
+        section: "fk"
+    },
+    {
+        name: "Augmented Scraptrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/64/Augmented_Scraptrap_Resize.webp",
+        description: "Click on me to see my full description on the wiki!",
+        section: "fk",
+        link: "https://multiverse-custom-night.fandom.com/wiki/Augmented_Scraptrap"
+    },
 ];
