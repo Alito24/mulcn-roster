@@ -4305,7 +4305,7 @@ const characters = [
         section: "fk"
     },
     {
-        name: "Remade Augmented Mendo",
+        name: "Augmented Mendo",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Remade_Augmented_Mendo.png",
         description: "He will be in Festive Storage 2 on Floor 7. He was meant to help sort the presents, however, he lost his battery somewhere in the Frozen Wastes (outside) whilst being shipped in. You need to search around to locate it in the snow. If you don't find it before the night ends, you will have your score replaced with your name on The Naughty List.",
         section: "fk"
