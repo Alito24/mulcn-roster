@@ -105,6 +105,11 @@ const sections = [
         bannerImage: "banners/fnati.png"
     },
     {
+        id: "fk",
+        name: "Forsaken AR",
+        bannerImage: "banners/fk.webp"
+    },
+    {
         id: "bb",
         name: "Baldi's Basics",
         bannerImage: "banners/bb.webp"
@@ -163,6 +168,11 @@ const sections = [
         id: "kfp2",
         name: "Kung Fu Panda 2",
         bannerImage: "banners/kfp2.webp"
+    },
+    {
+        id: "gz",
+        name: "Godzilla",
+        bannerImage: "banners/gz.png"
     },
     {
         id: "he",
