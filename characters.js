@@ -3212,6 +3212,102 @@ const characters = [
         section: "tprr"
     },
     {
+        name: "TPRR Teaser Nightmare Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/TPRR_Teaser_Nightmare_Fredbear.png",
+        description: "His eyes will appear in both doorways. Alternate between the left and right House map doors to fend him off!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/42/TPRR_Withered_Bonnie.png",
+        description: "If the temperature is below 75%, he will rapidly appear in your office. Spam your mask move until the temperature is high enough. However, even though the temperature will be high, he still has a chance to appear in your room. Although he will be less aggressive...",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/62/TPRR_Withered_Foxy.png",
+        description: "He's running everywhere. Quickly track him down, and turn on your UV Flashlight. This will make him disappear for the rest of the night. Not doing so by 2:AM will make you die by him.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/07/TPRR_Withered_Freddy.png",
+        description: "He's been hired to advertise some random toy company in London. Sometimes, an ad for the company will appear on the top TV. You need to wait 30 seconds for the ad to end, and the ads can increase the noise meter quite a bit. However, you can click on the TV to skip the ad, but TPRR Withered Freddy doesn't appreciate it if you do this too many times. Skipping the ads too much will lead to TPRR Withered Freddy ending your run. Having the Power Generator on will increase the chance of an ad appearing.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Withered Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/27/TPRR_Withered_Golden_Freddy.png",
+        description: "He may occasionally fade onto your screen, click the middle TV and then click the 'Stop TPRR WG Freddy Button' to stop him in his tracks otherwise he'll jumpscare you!",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Withered Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1e/TPRR_Withered_Chica.png",
+        description: "She works in 3 phases throughout the night. At 12:AM, she approaches from the vents. Use the Vent Snares or Front Vent Door to stop her from getting in. At 2:AM, she approaches from the hallways or the side vent. She doesn't appear on the cameras, through the doors, and side vent. Listen to her audio garble and shut the appropriate door/vent. At 4:AM, she's permanently in the office now, but she'll give you a chance. There's a new button in the Kitchen called 'Make Pizza.' Press it, and a pizza will be made on your desk. Drag the pizza into her mouth and she will leave. If she gets in through the vents, doors, or if you don't give her the pizza by 6:AM, she will jumpscare you in any scenario.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/74/TPRR_Plushtrap.png",
+        description: "He will try to leave the building to touch some grass, however his chair has been anchored to the point where he wouldn't take it with him, you can go to the Task System and click on the task 'Unanchor Chair' once the task is complete he would actually leave for the rest of the night and even give you his point value, if he isn't unanchored by 4AM, he will kill you.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Phantom BB",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/00/TPRR_Phantom_BB.png",
+        description: "His teeth are completely rotten! You must stop him from going to the pizza store at the GPS System, as that will make his tooth decay worse! If he makes it to the store, he will jumpscare you! You can use the Forcefield to block him from going to the pizza store, but 2000 points will be removed! (not really)",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Phantom Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8d/TPRR_Phantom_Bonnie.png",
+        description: "Every time you flip up your monitor, your screen turns slightly more blue. When you fix a system error on your monitor, the blue hue resets.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Phantom Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a6/TPRR_Phantom_Puppet.png",
+        description: "He will start fading in on the camera you most recently looked at. If he fully fades in he'll appear in your office, staring at you and raising the noise meter for a lengthy amount of time. You can stop him from fading in by looking at a system or looking at your office instead.",
+        section: "tprr"
+    },
+    {
+        name: "TPRR Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c3/TPRR_Phantom_Freddy.png",
+        description: "You won't receive TPRR Phantom Freddy's point value. He'll be in your office the whole night, bragging about how he can wiggle his eyebrows better than you can. There is a wiggle meter in the top left corner. You can type 'Wiggle' to increase the wiggle meter. When your wiggle meter reaches maximum, he'll challenge you to an eye wiggling contest. Time will stop (So will the other opponents in your night) and you will need to rapidly hit the space bar to increase your chance in winning the contest. If you beat TPRR Phantom Freddy, time will unpause and he will give you a disappointed look before walking sadly out of your office. You will then gain his point value. If you lose, he will just start bragging again. You will not receive the point value.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/22/Retro_Lefty.webp",
+        description: "Due to Retro Marionette being remodeled while inside of him, he's dead. This means he'll take away AI points instead of giving them.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Withered Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/54/Retro_Withered_Spring_Bonnie.png",
+        description: "At some point around 2 AM, he will appear on the Task System because he needs help with a blood decal sitting in his mouth, you can take a 'Decal Deleter' tool and place it directly where the blood decal is, once it is removed he will leave, but if it hasn't been done by 4 AM he will kill you.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Shamrock Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/50/Retro_Shamrock_Freddy.png",
+        description: "Four-Leaf clovers will grow in the Lumber Co. Click on a fully grown one to receive 1% power. Taking too many at once or not taking one every hour will enrage Retro Shamrock Freddy, causing a disturbance in the ground in Lumber Co. Some of the dirt will end up in the office, causing you to involuntarily breathe it in which will slowly drain your oxygen and raise the Toxic Meter.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Phantom Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/21/Retro_Phantom_Mangle.png",
+        description: "She will infect the F4 Controlled Shock and rust it to oblivion. The button having a rusted texture is a sure sign to know when that happens. Pressing the button when it is rusted will instead shock your power meter, draining it by a few percent. After a while, he will un-rust that button and move to another one.",
+        section: "tprr"
+    },
+    {
+        name: "Retro Mangle",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ad/Retro_Mangle.webp",
+        description: "She longs for the old days to return! In order to achieve this, he'll have to crawl through Floor 2, and reach the Time Turner all the way in Parts & Service. If you see her glowing white eye on any Floor 2 camera, shine the Flashlight on him to stall him. If he reaches Parts & Services, she'll start to rewind time to 2016, and since Multiverse Custom Night didn't exist back then, the fabric of this world will start to crumble!",
+        section: "tprr"
+    },
+    {
         name: "TPRR Hide & Seek Shadow Bonnie",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/31/TPRR_Hide_%26_Seek_Shadow_Bonnie.png",
         description: "Throughout the night, his face will appear on one of the Televisions in your office. Go to Floor 8 and look for him on the cameras until you find him, once you find what camera he's hiding in, use the Alarm System on the camera he is on to make him disappear. If you are unsuccessful, then he'll jumpscare you! Game over!",
