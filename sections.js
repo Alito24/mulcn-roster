@@ -180,6 +180,11 @@ const sections = [
         bannerImage: "banners/he.webp"
     },
     {
+        id: "gtag",
+        name: "Gorilla Tag",
+        bannerImage: "banners/gtag.png"
+    },
+    {
         id: "yt",
         name: "YouTube",
         bannerImage: "banners/yt.png"
