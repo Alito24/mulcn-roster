@@ -4605,4 +4605,34 @@ const characters = [
         section: "fk",
         link: "https://multiverse-custom-night.fandom.com/wiki/Augmented_Scraptrap"
     },
+    {
+        name: "Echo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ce/Echo.png",
+        description: "There will be a button on the Forest System, which you can press to summon her. If there is a character present on the system, she will hunt and despawn it. If there are no characters present on the system, she will hunt you and kill you.",
+        section: "gtag"
+    },
+    {
+        name: "Tallboy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1c/Tallboy.png",
+        description: "Tallboy will walk around the Forest System. Hes just like... there? He doesnt do much and sometimes just vanishes out of existence...",
+        section: "gtag"
+    },
+    {
+        name: "PBBV",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/48/Pbbv.webp",
+        description: "Once per night, PBBV will spawn in the Forest System and will start walking from the tree stump to the bridge, while making strange noises. You must press the 'Option 1' button to make him despawn. If he gets to the other side of the bridge, he will jumpscare you and crash your game!",
+        section: "gtag"
+    },
+    {
+        name: "Warning Bot",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3f/Warningbot_%281%29.png",
+        description: "Warning Bot will appear in the Forest System tree stump whenever a character is about to attack on the same system, while also making noise.",
+        section: "gtag"
+    },
+    {
+        name: "J3VU",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e3/J3VU_Revamp_2.png",
+        description: "J3VU will spawn in the Forest System tutorial area, repeatedly saying 'I AM J3VU', which causes your screen to become slightly green and increasing 2 bars on the noise meter. You must press the 'Option 1' button to make him despawn.",
+        section: "gtag"
+    },
 ];
