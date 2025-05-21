@@ -4635,4 +4635,173 @@ const characters = [
         description: "J3VU will spawn in the Forest System tutorial area, repeatedly saying 'I AM J3VU', which causes your screen to become slightly green and increasing 2 bars on the noise meter. You must press the 'Option 1' button to make him despawn.",
         section: "gtag"
     },
+    {
+        name: "Spectral Phantom Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Spectral_Phantom_Chica.png",
+        description: "She will fade in on your monitor screen after you Light-Flash a camera. Close the monitor before she fully fades in and jumpscares you, erroring out all of your systems!",
+        section: "fntd"
+    },
+    {
+        name: "Ghastly Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/45/Ghastly_Phantom_Freddy.png",
+        description: "He will start in a random camera on Floor 3. If you use the Audio Lure on the previous camera, he will jumpscare you and error out all of your systems! He will then move to another camera. Changing between the modes a couple of times while watching him may force him to move to another camera.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/79/FNTD_Phantom_Freddy.png",
+        description: "He'll walk through the light system when it's being watched. If the silent ventilation is on, he'll walk backwards. If he reaches the end of the system, he'll jumpscare you, inverting your screen for an hour.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/69/FNTD_Phantom_Foxy.png",
+        description: "If you try to use the 1-6 key to change the current mode active then there will be a 50% of you getting jumpscared and causing one of the three systems to error out.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Rockstar Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cd/FNTD_Rockstar_Bonnie.png",
+        description: "He's just a chill guy, so the only thing he does is rest in the office.",
+        section: "fntd"
+    },
+    {
+        name: "Circuit Breaker Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b0/Circuit_Breaker_Freddy.webp",
+        description: "He will continuously glitch your GPS System defenses. Why? Because he's a utter prick! Enough said!",
+        section: "fntd"
+    },
+    {
+        name: "Astral Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/da/Astral_Withered_Bonnie.png",
+        description: "He will appear once per night, standing in your office. Make sure to click on him and press X to sell him! Or else his black holes will end up consuming your save file...",
+        section: "fntd"
+    },
+    {
+        name: "Blighted Endo Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a3/Blighted_Endo_Withered_Bonnie.png",
+        description: "Blighted Endo Bonnie will stay in the Parts & Service room on floor 2. If you go into the camera and Blighted Endo Bonnie isnt there, hold your flashlight on the camera until hes there or your flashlight will be disabled!",
+        section: "fntd"
+    },
+    {
+        name: "Old Man Krampus",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/7d/Old_Man_Krampus_Resize.png",
+        description: "Old Man Krampus will sometimes talk, to which he will set your office temperature to 60 degrees for 10 seconds. To prevent this, turn on the heater as well as keeping the fan off to keep him away.",
+        section: "fntd"
+    },
+    {
+        name: "Enforcer Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3a/Enforcer_Withered_Bonnie.png",
+        description: "Light-Flashing a camera may cause Enforcer Bonnie to appear on that camera. Make sure to not change modes until his eyes turn black. He can not appear if a toggle is active in the GPS System.",
+        section: "fntd"
+    },
+    {
+        name: "Popstar Toy Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2d/Popstar_Toy_Chica.png",
+        description: "She will re-add the Annotations to the Youtube System. Every time 50 seconds go by, there will be a 50% chance an Annotation will appear and cover a random part of the screen on the Youtube System (You will still be able to interact with anything the Annotation covers).",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Withered Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6e/FNTD_Withered_Chica.png",
+        description: "She will start in the office, progressively getting more and more wider, which will eventually lead to you losing access to the night! By eating the KFC in the duct system she will get scared and run away for the rest of the night.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/59/FNTD_Withered_Foxy.png",
+        description: "He will walk through the main hall in floor 2, when he's there close both doors in your office or your run will have its end.",
+        section: "fntd"
+    },
+    {
+        name: "Titan Crusher Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Titan_Crusher_Withered_Golden_Freddy.png",
+        description: "He will be on the GPS system, not moving, although he can randomly walk towards the office, making lots of noise and eventually jumpscaring you! You must use the forcefield to reset him.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5d/FNTD_Withered_Freddy.png",
+        description: "He will sometimes shoot your screen with his minigun, make sure to dodge his bullets or else you're the one who will get shot.",
+        section: "fntd"
+    },
+    {
+        name: "Windup Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3b/Windup_Withered_Bonnie.png",
+        description: "Windup Bonnie will sometimes speed up a random animatronic in the night (he cannot speed up himself). Go to the task system, click on him and press X to revert the speed boost.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f7/FNTD_Springtrap.png",
+        description: "He will be on the vent system, and he cannot be stopped by the door or snares. However, using the heater and using the controlled shock at the same time will cause him to reset and not be active again until 20 seconds have passed.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Great Escape Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c5/FNTD_Great_Escape_Golden_Freddy.png",
+        description: "Hes sad his spotlight as the 'soul summon secret' was taken by FNTD Hand Unit, due to Hand Unit being the better unit, and thats no good! Make sure to watch him on the basement floor every once in a while for him to feel happy! Not doing so will result in a jumpscare.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Frost Plushtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/76/FNTD_Frost_Plushtrap.png",
+        description: "He will appear in the Basement and start throwing snowballs everywhere, if the basement becomes filled with snowballs completely you won't be able to see all the other animatronics there, you must turn on the Heater to reset his progress.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Freddy Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/fa/FNTD_Freddy_Frostbear.png",
+        description: "He doesnt like it that his brother (FNTD Dark Frostbear) is the cooler freddy frostbear! So every couple of seconds he will freeze any camera in a fit of rage!!! To unfreeze the camera, you must go to the basement floor and click him.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Flaming Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/aa/FNTD_Flaming_Springtrap.png",
+        description: "He will be in the vent system, always going by the longest vent path. If he gets to your office, he will set your temperature to 120 degrees, the second time he enters the office, he will jumpscare you! To prevent this, you must turn on the fan to make him go back in the vent system.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Crying Child",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2d/FNTD_Crying_Child.png",
+        description: "The souls of Chica, Freddy, Foxy, and Bonnie are flying across the office. If you hit one of them, you lose 5% power, start losing oxygen and Crying Child starts forming. Hit all four souls, and the Crying Child will jumpscare you.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Rockstar Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6f/FNTD_Rockstar_Chica.png",
+        description: "While on the cameras, there is a chance she will spawn in your office and try to steal your fan! use the Fazer-Blaster to make her go away!",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Rockstar Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/08/FNTD_Rockstar_Freddy.png",
+        description: "He will be in floor 2, being just barely visible on any camera, every time you switch modes he will start moving up floors and becoming more visible, if he reaches the last floor he will become fully visible and will start causing the end of the universe!!! You must stop him by using an audio lure in floor 3 to keep him there. Although occasionally, when he is in floor 3 he may go back to floor 2.",
+        section: "fntd"
+    },
+    {
+        name: "FNTD Rockstar Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a0/FNTD_Rockstar_Foxy.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "fntd",
+        link: "https://multiverse-custom-night.fandom.com/wiki/FNTD_Rockstar_Foxy"
+    },
+    {
+        name: "FNTD Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c3/FNTD_Withered_Bonnie.png",
+        description: "He thinks hes the best character in this game because he was one of the original FNTD characters to be added! However thats obviously not true, so make sure to use the controlled shock whenever you feel his pride growing.",
+        section: "fntd"
+    },
+    {
+        name: "Sentinel Withered Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2a/Sentinel_Withered_Bonnie.png",
+        description: "If the office stays at 60° or 120° for too long, Sentinel Bonnie will appear in any doorway barely visible. Shut the door on his face or experience a non-lethal jumpscare that jumbles up your mode buttons and hotkeys.",
+        section: "fntd"
+    },
+    {
+        name: "War Machine Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6f/War_Machine_Withered_Foxy.png",
+        description: "He will use his lethal weaponry on you at any hour once per night. You can tell that he is charging his attack if the GPS system is flickering. Use the Forcefield to repel his attack.",
+        section: "fntd"
+    },
 ];
