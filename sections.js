@@ -150,6 +150,11 @@ const sections = [
         bannerImage: "banners/ausd.png"
     },
     {
+        id: "fntd",
+        name: "Five Nights Tower Defense",
+        bannerImage: "banners/fntd.png"
+    },
+    {
         id: "mc",
         name: "Minecraft",
         bannerImage: "banners/mc.webp"
