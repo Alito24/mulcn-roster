@@ -4840,4 +4840,34 @@ const characters = [
         description: "You will randomly hear his scream for help as he gets attacked by the plushies, to help him, find the plushies in the West Hall on Floor FNAP and swipe them away. If you do nothing, he and his plushies will jumpscare you.",
         section: "fnap"
     },
+    {
+        name: "Friedrich Fazbär",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/49/Fredrich.webp",
+        description: "He'll be in the Vent System. When he's active, there will be a new Laser button in the vent system. When you hold down the button, a laser wall will appear at the vent entrance that will block Friedrich when he reaches it (it adds a bar of usage btw and the laser wall doesn't affect other characters). He isn't stopped by doors or vent snares. He moves faster if the GMB is on.",
+        section: "fried"
+    },
+    {
+        name: "Clara Das Küken",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6b/Clara.png",
+        description: "There is a COOK PIZZA button on the Kitchen Camera. Click it to cook a pizza! If it stays off for too long Clara will take it into her own hands(literally)to cook pizzas. When she starts cooking, it'll start to get hotter. The heat she creates can't be cooled when she's cooking. She can also raise the temperature past 120 degrees. If it becomes 150 degrees, you're dead.",
+        section: "fried"
+    },
+    {
+        name: "Bernard Das Karnickel",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/b4/Bernard.png",
+        description: "There will now be a Laser Door button on the side of the Left and Right doors. When you see his fingers holding on the door frame, use the Laser Door button to send him away. The normal doors won't work on him!",
+        section: "fried"
+    },
+    {
+        name: "Endoskelett",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/cc/Endoskelett_Icon.png",
+        description: "Endoskelett will be in the Supply Closet on Floor 1. It'll slowly leave the camera to attempt to get the mop in your office that's there for some reason. When Endoskelett is in the office, your usage bar slowly increases. Find the mop in your office and tap it to move it out of the office to lure Endoskelett out of the office. Once he leaves the office back to the Supply Closet, the mop will appear back in your office somehow. Survive the night to win!",
+        section: "fried"
+    },
+    {
+        name: "Felix Der Schlaufuchs",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/6/6e/Felix.png",
+        description: "At the Prize Corner there will be a wheel. You can tap it to spin it. If the wheel isn't spinning, Felix will come into the office and slowly start to make your night harder. First, your flashlight and controlled shock will be disabled, then your doors, then finally your entire office will lose power.",
+        section: "fried"
+    },
 ];
