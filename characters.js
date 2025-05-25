@@ -4804,4 +4804,40 @@ const characters = [
         description: "He will use his lethal weaponry on you at any hour once per night. You can tell that he is charging his attack if the GPS system is flickering. Use the Forcefield to repel his attack.",
         section: "fntd"
     },
+    {
+        name: "Caine Plush",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/5a/Caine_Plush_Revamp_2.png",
+        description: "He will appear in your office when you start the night. Every minute, he asks for food. You must go to the Kitchen camera and grab something to feed him. If you fail to do this in 10 seconds, he'll kill you.",
+        section: "fnap"
+    },
+    {
+        name: "Peer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/88/Peer_Revamp.png",
+        description: "He will start at Floor 7, Cam 01, he will move between random cams until he crashes into your office. He will say that he's sorry, and you can choose to spare him or to kill him. If you kill him, he'll kill you, but if you spare him, he now sits as a decoration on your desk.",
+        section: "fnap"
+    },
+    {
+        name: "Rexie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0e/Rexie-placeholder.png",
+        description: "He will start at Rexies Cove on Floor FNAP. He has the same mechanic as FNaF 1 Foxy.",
+        section: "fnap"
+    },
+    {
+        name: "Ultra Uil",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Uil_Resize.webp",
+        description: "She will randomly appear in the F1 Parts & Service. If she is there for too long, then she'll jumpscare you, Shut the Right Door to prevent her attack.",
+        section: "fnap"
+    },
+    {
+        name: "Robin",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ae/Robin1.png",
+        description: "Replaces the player. You will hallucinate the freddy plush on the desk sometimes blinking, or even moving, as well as the FNAP game over screen.",
+        section: "fnap"
+    },
+    {
+        name: "Game Over Robin",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/Game_Over_Robin_Resize.webp",
+        description: "You will randomly hear his scream for help as he gets attacked by the plushies, to help him, find the plushies in the West Hall on Floor FNAP and swipe them away. If you do nothing, he and his plushies will jumpscare you.",
+        section: "fnap"
+    },
 ];
