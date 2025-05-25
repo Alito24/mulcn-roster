@@ -4870,4 +4870,47 @@ const characters = [
         description: "At the Prize Corner there will be a wheel. You can tap it to spin it. If the wheel isn't spinning, Felix will come into the office and slowly start to make your night harder. First, your flashlight and controlled shock will be disabled, then your doors, then finally your entire office will lose power.",
         section: "fried"
     },
+    {
+        name: "Tycoon Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/70/Tycoon_Withered_Foxy.png",
+        description: "Unlike the other Withered Foxy's, he is actually fooled by the mask, although it could be because he went insane during The Great Cancellation of 24. However, there is a slight chance that he will ignore the mask, signified by his glowing eye. Use the flashlight when that happens to drive him off.",
+        section: "ft"
+    },
+    {
+        name: "Tycoon Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/09/Tycoon_Lefty.webp",
+        description: "Lefty will try to enter the Office throughout Floor 2. He will start from the Parts & Service camera and will enter through one of the two vents. If he appears at the left vent, close the front vent door. If he appears at the right vent, close the right vent door. When lefty makes it into the office, he will appear in the center of the room. You must stare at him for 5-10 seconds, in which he will scan your face and recognize that you are friendly. He will then go back to Parts & Service. Looking away too quickly will result in your demise.",
+        section: "ft"
+    },
+    {
+        name: "Tycoon Trash and the Gang",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/16/Tycoon_Trash.png",
+        description: "Click on me to see my full description on the wiki!",
+        section: "ft",
+        link: "https://multiverse-custom-night.fandom.com/wiki/Tycoon_Trash_and_the_Gang"
+    },
+    {
+        name: "Sir Lampington",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8b/Sir_Lampington_Resize.png",
+        description: "Your lights will randomly flicker during your night.",
+        section: "ft"
+    },
+    {
+        name: "Toasty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/Toasty.png",
+        description: "Randomly during your night, a piece of Toast will be levitating in your office. This means you must quickly type "Toasty" on your keyboard, otherwise Toasty will take 10 of your points.",
+        section: "ft"
+    },
+    {
+        name: "Cardboard Bob",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f8/Cardboard_Bob.png",
+        description: "During your night, Cardboard Bob might appear in your office either on the left or right side of it. Use the Wet Floor Sign to push it out of the office, otherwise you will get a non-lethal jumpscare.",
+        section: "ft"
+    },
+    {
+        name: "Extension Mode Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/08/Extension_Mode_Lefty.webp",
+        description: "Once per night, he will appear in your office. He has switched out one of the plushies on the Prize Counter with a plush of himself. If the plush it replaces is already bought, a new cost will be added based on it's AI level. If the plush it replaces hasn't been bought yet, the cost will only count towards the Lefty plush. Buy the plush before the next hour before he kills you.",
+        section: "ft"
+    },
 ];
