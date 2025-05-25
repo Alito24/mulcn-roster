@@ -105,6 +105,11 @@ const sections = [
         bannerImage: "banners/fnati.png"
     },
     {
+        id: "fnap",
+        name: "Five Nights At Plushies",
+        bannerImage: "banners/fnap.webp"
+    },
+    {
         id: "fk",
         name: "Forsaken AR",
         bannerImage: "banners/fk.webp"
