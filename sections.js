@@ -115,6 +115,11 @@ const sections = [
         bannerImage: "banners/fnap.webp"
     },
     {
+        id: "ft",
+        name: "Fazbear Tycoon",
+        bannerImage: "banners/ft.webp"
+    },
+    {
         id: "fk",
         name: "Forsaken AR",
         bannerImage: "banners/fk.webp"
