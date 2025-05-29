@@ -90,6 +90,11 @@ const sections = [
         bannerImage: "banners/ulcn.webp"
     },
     {
+        id: "ocn",
+        name: "Overloaded Custom Night",
+        bannerImage: "banners/ocn.png"
+    },
+    {
         id: "fntr",
         name: "Five Nights To Remember",
         bannerImage: "banners/fntr.png"
