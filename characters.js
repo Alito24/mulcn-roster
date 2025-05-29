@@ -4913,4 +4913,160 @@ const characters = [
         description: "Once per night, he will appear in your office. He has switched out one of the plushies on the Prize Counter with a plush of himself. If the plush it replaces is already bought, a new cost will be added based on it's AI level. If the plush it replaces hasn't been bought yet, the cost will only count towards the Lefty plush. Buy the plush before the next hour before he kills you.",
         section: "ft"
     },
+    {
+        name: "Overloaded Adventure Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/86/Overloaded_Adventure_Golden_Freddy.webp",
+        description: "When switching systems, there is a chance that he will appear in the Office, although being invisible. Find him by shining the shakelight and flashing it on him to get him to leave. If he stays in the Office for too long, he will jumpscare you, not killing you, but applying a weird effect on your screen.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Adventure Purple Guy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/57/Overloaded_Adventure_Purple_Guy.webp",
+        description: "He will throw slashers around the office. Dont let the slasher hit the cursor, or you'll lose oxygen and you will lose a random amount of power if you let it hit your cursor.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Adventure Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0b/Overloaded_Adventure_Spring_Bonnie.webp",
+        description: "After flipping down the monitor, there is a chance that Spring Bonnie will be waiting for you in the office. When that happens, do not put on your mask while their in your office, as that will cause the springlocks to fail and your run will end right there.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Adventure Withered Bonnie",
+        imageUrl: "hhttps://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/Overloaded_Adventure_Withered_Bonnie.webp",
+        description: "He will stay in the F1 Parts/Service camera. If you see that his eyes have turned off, turn on one of the TVs in your office to make his eyes reappear! Why or how does this work, don't ask me, I'm just some text inside a box.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Augmented Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0e/Overloaded_Augmented_Freddy.webp",
+        description: "He will appear at the office at random, haywiring. Do not put your mouse cursor over him. Doing so will result in Overloaded Augmented Freddy ending your run.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Foxy.EXE",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/14/Overloaded_Foxy.EXE.webp",
+        description: "When you hear him speak, look for him at the vent system and use the correct vent-snare to stop him. He can't be stopped by the vent door.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Teaser Nightmare Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ac/Overloaded_Teaser_Nightmare_Fredbear.webp",
+        description: "When his hat and bowtie appears in the office, quickly hide them by clicking on them to avoid his attack.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/53/Overloaded_Spring_Bonnie.webp",
+        description: "His bowtie will sometimes appear on the desk. When you see it there, close both doors and vents.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/12/Overloaded_Withered_Freddy.webp",
+        description: "This version of Withered Freddy is unlike any other, and has cosmic abilities! His giant head will float around the Telescope System. If your telescope lays its view onto it for too long, your panic meter will increase, and your internet meter will decrease. Avoid looking at him for too long.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Virtual Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/58/Overloaded_Virtual_Jack-O-Bonnie.webp",
+        description: "A Jack-O-Lantern will be sitting on the Bakery on F8. You will have to keep an eye on it to make sure no one tries to destroy it, if you see that someone is trying to, quickly use the Alarm System to scare them off! Letting the pumpkin get disobeyed will end with Jack-O-Bonnie getting real upset and make his way to your office, not to kill you, but to ask you who did it. As he makes his way to you, your panic meter will start to increase, and when it fills up all the way you'll have a heart attack and die by getting jumpscared by your own heart!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Virtual Jack-O-Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/b/bf/Overloaded_Virtual_Jack-O-Chica.webp",
+        description: "When the temperature is above 85° she will very slowly start to form in your office, if she fully forms all Rupees you collect and have will now all burn up and turn to ash. The only way to make her disappear for some time is to take a Normal Pill. Otherwise you can say bye-bye to your Rupees!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Virtual Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8d/Overloaded_Virtual_Funtime_Freddy.webp",
+        description: "When he announces a surprise, he will send Overloaded Virtual Bon-Bon into the Duct system, (immune to the Audio Lure and Heater.). Once Bon-Bon makes it to one of the duct openings, the sound of vent banging will play on the side that Bon-Bon is at, alongside his icon being revealed. When he attacks, have the corresponding duct shut to avoid his jumpscare. After you fend him off, Bon-Bon will return to Freddy and you'll have to wait until he announces another surprise.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Shadow Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/80/Overloaded_Shadow_Freddy.webp",
+        description: "Each time you look at the cameras, he will block the view of a random camera on each floor. There is no way to get rid of him.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Scrap Plushbabies",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0a/Overloaded_Scrap_Plushbabies.webp",
+        description: "Every time you successfully fend off a characters that uses the Golden Flashlight they will take away AI x 50 Points away form your score, the only why to get your points back is to go to the Light System and look for a Plushbaby and hold your flashlight on them until they disappears, then it will give all your points back!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/20/Overloaded_Phantom_Foxy.webp",
+        description: "He will randomly appear in your office. Don't hover your mouse cursor over on him or else he will jumpscare you, causing a ventilation error and switch your mode to ALL OFF!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Roxanne",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0c/Overloaded_Roxanne.webp",
+        description: "She will always be in the office, deactivated. If she activates and just opens her eyes, shock her to deactivate her. If she activates and changes her pose, use the mask. You only have a short amount of time to do so.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Prototime Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9b/Overloaded_Prototime_Foxy.webp",
+        description: "He will be standing next to the Funtime Cove. When he goes away, close the right door to prevent him from entering the office. He can only kill you when you pull down the monitor.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Phantom Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a5/Overloaded_Phantom_Puppet.webp",
+        description: "For some reason he'll appear in the Left Hall on F1. If you see him there, you can stare at him to make vanish from existence, if you pull down your monitor while looking at them, they will feel quite insulted by your actions and add an extra 30 seconds to your night!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Pan Stan",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e7/Overloaded_Pan_Stan.webp",
+        description: "He really likes the wet floor sign and when he appears, he will stand next to it. Move it to the other side to make him disappear or he'll jumpscare you. If you let him jumpscare you 5 times, the power will go out.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Nightmare Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d1/Overloaded_Nightmare_Foxy.webp",
+        description: "Once you see his eyes in your right doorway, go to the Master Storage Room and buy the Foxy plush to avoid his attack! You can only buy the plush if you've collected a certain amount of Rupees, (the price will change based on the AI).",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Moon",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f1/Overloaded_Moon.webp",
+        description: "When you hear him start talking, check the Left and Right halls on F1. See which hall he's in, then use the Distraction button on that camera to make him leave! Taking too long will end with with him ending your night!",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Map Bot",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8c/Overloaded_Map_Bot.webp",
+        description: "He thinks that you are lost and you need a map, when he appears in your office, you better take it from him if you want to use the cameras again.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1e/Overloaded_Jack-O-Bonnie.webp",
+        description: "When the building heats up to 90° his face will appear in both doors and the top vent. Cool the Building down to 70° to see which one of them is real and close the correct door.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/ff/Overloaded_Golden_Freddy.webp",
+        description: "He works almost exactly the same as Withered Golden Freddy. He will randomly appear sitting in the office after flipping down the monitor. Put on your mask or flip it back up to make him vanish.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8b/Overloaded_Funtime_Freddy.webp",
+        description: "He will keep saying lines with his original voice and his german accent. If you hear him speak with his normal voice, Bon-Bon is in the office, click on him. If he speaks with his German accent, he is coming himself, use the control shock.",
+        section: "ocn"
+    },
+    {
+        name: "Overloaded Freddy Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/c2/Overloaded_Freddy_Frostbear.webp",
+        description: "If you keep using the power generator too much, Freddy Frostbear will appear and start cooling the down the building. Use the heater to make him disappear. If the temperature goes to 0°, your run will come to an end.",
+        section: "ocn"
+    },
 ];
