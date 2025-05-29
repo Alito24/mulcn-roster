@@ -4933,7 +4933,7 @@ const characters = [
     },
     {
         name: "Overloaded Adventure Withered Bonnie",
-        imageUrl: "hhttps://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/Overloaded_Adventure_Withered_Bonnie.webp",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a7/Overloaded_Adventure_Withered_Bonnie.webp",
         description: "He will stay in the F1 Parts/Service camera. If you see that his eyes have turned off, turn on one of the TVs in your office to make his eyes reappear! Why or how does this work, don't ask me, I'm just some text inside a box.",
         section: "ocn"
     },
