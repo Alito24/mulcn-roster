@@ -4898,7 +4898,7 @@ const characters = [
     {
         name: "Toasty",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/26/Toasty.png",
-        description: "Randomly during your night, a piece of Toast will be levitating in your office. This means you must quickly type "Toasty" on your keyboard, otherwise Toasty will take 10 of your points.",
+        description: "Randomly during your night, a piece of Toast will be levitating in your office. This means you must quickly type 'Toasty' on your keyboard, otherwise Toasty will take 10 of your points.",
         section: "ft"
     },
     {
