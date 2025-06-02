@@ -5069,4 +5069,190 @@ const characters = [
         description: "If you keep using the power generator too much, Freddy Frostbear will appear and start cooling the down the building. Use the heater to make him disappear. If the temperature goes to 0°, your run will come to an end.",
         section: "ocn"
     },
+    {
+        name: "Boxsoft Adventure Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d0/Boxsoft_Adventure_Fredbear.webp",
+        description: "When his hat appears on the desk, close both of the vents to avoid his jumpscare.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Yenndo",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/af/Boxsoft_Yenndo.webp",
+        description: "At random points in the night, a thumping sound is heard. That means that Yenndo is approaching right near the vent entrance in a rapid pace. Quickly use the heater to deter him before he kills you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Withered Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/0c/Boxsoft_Withered_Freddy.webp",
+        description: "He crawls in the Duct System. He isn't affective by the Audio Lure. He only moves to the left duct, in which you need to use the appropriate duct seal to ward him off.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Withered Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/93/Boxsoft_Withered_Foxy.webp",
+        description: "He crawls in the Vent System, immune to the Vent Snares or front vent door. When he arrives at the vent entrance, use the lever to blow some air onto Foxy, causing him to get blown away back to the starting point, otherwise he will jumpscare you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Virtual Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/e0/Boxsoft_Virtual_Spring_Bonnie.png",
+        description: "He'll start in the Vent System and make his way to the front vent opening. Once he make it to the opening he'll entire the office, shin the Golden Flashlight on him to send him back into the vent's or you'll die shortly after. You can also avoid this interlay by using the vent snares on him before he makes it to the vent opening.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Teaser Nightmare Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8e/BTNF.webp",
+        description: "When activated, your screen will become black and white for one in-game hour.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft UCN Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/30/Boxsoft_UCN_Golden_Freddy.png",
+        description: "He will be in your office at all times, at some point he will start spazzing, in which you need to shock him using the Office Shock Panel, otherwise he will kill you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Stage Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a5/Boxsoft_Stage_Freddy.webp",
+        description: "He'll be in your office at all times, deactivated. If you are in the office for a while, he will activate and play the toreador march, raising the Noise Meter. Flip up the monitor to get him to deactivate & prevent a major noise disturbance.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Snowcone",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/01/Boxsoft_Snowcone.webp",
+        description: "When Snowcone appears in the office, the temperature will go down. Flip up your monitor to get rid of him. If the temperature reaches 0, it is a game over for you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Spring Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/39/Boxsoft_Spring_Bonnie.webp",
+        description: "When Spring Bonnie appears in the office, put on the mask to get rid of him, however, if Remade Springtrap is active alongside Spring Bonnie, close both of the doors to get rid of him as putting the mask on will result in an instant death.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Shadow Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/54/Boxsoft_Shadow_Freddy.webp",
+        description: "Using the flashlight too much will cause him to appear in either the left, right or front vent doorways. If he is there for too long, he will collapse said doorway, disabling it for a few seconds. Shine your Shakelight at the doorway he is on to make him go away.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Phantom Chica",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/4/4c/Boxsoft_Phantom_Chica.webp",
+        description: "She comes from the top vent, when you see her face there, close the vent or else she will jumpscare you, causing a ventilation error.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Phantom Puppet",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/9/9e/Boxsoft_Phantom_Puppet.webp",
+        description: "Upon switching systems, he will appear randomly, blocking the view of said system. You can't get rid of him, although he will disappear on his own.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Phantom Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Boxsoft_Phantom_Freddy.webp",
+        description: "He appears on the cameras, when he does, flip down the monitor or switch views to get rid of him.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Phantom Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a1/Boxsoft_Phantom_Foxy.webp",
+        description: "He will slowly materialize in the tank from the F4 Aquarium camera. If he fades in all the way, he will jumpscare you, causing a ventilation error. Light-Flash the camera to make him disappear.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Nightmare Foxy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d6/Boxsoft_Nightmare_Foxy.webp",
+        description: "A foxy plushie will randomly appear in one of 3 different positions on your desk upon flipping down the monitor. If it is on the far left, close the left door, if it is on the middle, close the front vent door, & if it is on the far right, close the right door to avoid Nightmare Foxy's attack.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Lefty",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/ae/Boxsoft_Lefty.webp",
+        description: "He works like the other vent animatronics, but the vent snare won't work on him. He doesn't make a sound when he reaches the vent entrance. Close the door on him when he arrives there.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Jumpscare Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Boxsoft_Jumpscare_Golden_Freddy.png",
+        description: "He will jumpscare you at the start of the night, giving you a negative effect that stays for the rest of the night, there's no way to avoid him.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft JJ",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/a/a4/Boxsoft_JJ.webp",
+        description: "When she shows up in the office under your desk, the oxygen meter will decrease fast. Close both doors to make her leave.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Jack-O-Bonnie",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/1/1a/Boxsoft_Jack-O-Bonnie.png",
+        description: "The office will burn, and when it reaches to maximum heat, you will die from the fire.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Golden Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/2/2a/Boxsoft_Golden_Freddy.webp",
+        description: "Randomly throughout the night, & increasingly often if the temperature is high, your monitor will begin to glitch out. The more you leave the monitor alone, the worse the glitches get. Find a yellow button on the bottom of the monitor screen & click on it to stop the glitches, although you will be locked out of it for 3-5 seconds. Failure to do so will cause Golden Freddy to jumpscare you, causing a system crash & setting up your run to end (The office light dims, doorways remain open & unresponsive, & the monitor remains glitched permanently).",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Glitchtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/3d/Boxsoft_Glitchtrap.webp",
+        description: "He will attempt to manifest himself in your office near your left & right doorways. Figure out where he will show up by seeing if the doorway is slightly more purplish & glitchy, then close the door on him. Closing the wrong door or taking too long will result in death.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Games Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/3/36/Boxsoft_Games_Springtrap.webp",
+        description: "He appears in the Duct System, causing the system camera to glitch out the closer he is to a duct seal. He is immune to the duct seals & lure. Use the Power/AC to send him back.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Bouncer",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/d/d7/Boxsoft_Bouncer.webp",
+        description: "When Bouncer appears in the office, the temperature will go down. Put on your mask to get rid of him. If the temperature reaches 0, it is a game over for you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Funtime Freddy",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/7/77/Boxsoft_Funtime_Freddy.webp",
+        description: "Funtime Freddy will start on the Arcade Room on Floor 3, deactivated. Using the Audio Lure on a room will deter Funtime Freddy, making him slowly head towards the lure. If he reaches a lured room, he will then wander around the rest of the floor. Using the lure each subsequent time by 4 times will make him faster & faster. You can also Light-Flash him to stop him on his tracks & deactivate him again. Do not let him reach the exit camera, or he will enter the elevator & kill you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Freddy Frostbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/c/ca/Boxsoft_Freddy_Frostbear.webp",
+        description: "He will freeze the player's screen for one in-game hour. This does not affect any game function, as it only blocks the view with an ice effect.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/f/f2/Boxsoft_Fredbear.webp",
+        description: "When you see Fredbear's hat on the desk, close both of the left & right doors to avoid his jumpscare.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Foxy.EXE",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8c/Boxsoft_FoxyEXE.webp",
+        description: "A small Foxy plush will randomly appear in the office, slowly glitching out more & more. If it glitches too much, Foxy.EXE will jumpscare you. Find it & use the Golden Flashlight to "purify" the plush, slowly making it un-glitchful & disappear.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Endo-02",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/e/ee/Boxsoft_Endo-02.webp",
+        description: "He appears in the F7 Dining Hall, currently attuned to the Christmas Jukebox. As long as music is playing there, he will not harm you. However, if the jukebox stops, he will slowly awaken & will jumpscare you if awaken too long. Turn it back on by raising the volume to make him calm again.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Dark Springtrap",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/5/56/Boxsoft_Dark_Springtrap.webp",
+        description: "When Dark Springtrap is about to enter your office, signaled by a wheezing sound, the temperature will begin to rise quicker than usual. Quickly use the Power/AC to send him away. Failure to activate it in time, or if the temperature raises to the max, he will jumpscare you.",
+        section: "bcn"
+    },
+    {
+        name: "Boxsoft Challenger Fredbear",
+        imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/0/06/Boxsoft_Challenger_Fredbear.webp",
+        description: "When his hat appears on the desk, put on your mask to get rid of him. If you ignore it, he will attack you with a Mega Bite, causing a ventilation error. If he does this 5 times, it is a game over for you.",
+        section: "bcn"
+    },
 ];
