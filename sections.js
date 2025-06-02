@@ -90,6 +90,11 @@ const sections = [
         bannerImage: "banners/ulcn.webp"
     },
     {
+        id: "bcn",
+        name: "Boxsoft Custom Night",
+        bannerImage: "banners/bcn.png"
+    },
+    {
         id: "ocn",
         name: "Overloaded Custom Night",
         bannerImage: "banners/ocn.png"
