@@ -5234,7 +5234,7 @@ const characters = [
     {
         name: "Boxsoft Foxy.EXE",
         imageUrl: "https://static.wikia.nocookie.net/multiverse-custom-night/images/8/8c/Boxsoft_FoxyEXE.webp",
-        description: "A small Foxy plush will randomly appear in the office, slowly glitching out more & more. If it glitches too much, Foxy.EXE will jumpscare you. Find it & use the Golden Flashlight to "purify" the plush, slowly making it un-glitchful & disappear.",
+        description: "A small Foxy plush will randomly appear in the office, slowly glitching out more & more. If it glitches too much, Foxy.EXE will jumpscare you. Find it & use the Golden Flashlight to 'purify' the plush, slowly making it un-glitchful & disappear.",
         section: "bcn"
     },
     {
